@@ -331,4 +331,6 @@ Below is an additional section you can append to your README.md file. This secti
      Epoch: 200, Loss: 0.0722, Test AUC: 0.9574
      ```
      These outputs indicate that the model is learning effectively (with increasing AUC and decreasing loss).
+
+Link to Paper Review Video: https://drive.google.com/file/d/1wmIlP52FjmwfUsD-NfiQe6B_BRPE8nbD/view?usp=sharing
      
