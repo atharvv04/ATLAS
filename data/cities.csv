@@ -1,0 +1,503 @@
+"population","city","country","growthRate","type","rank"
+37115000,"Tokyo","Japan",-0.0021,"w",1
+33807400,"Delhi","India",0.0263,"w",2
+29867900,"Shanghai","China",0.0225,"w",3
+23935700,"Dhaka","Bangladesh",0.0313,"w",4
+22806700,"Sao Paulo","Brazil",0.0083,"w",5
+22623900,"Cairo","Egypt",0.0199,"w",6
+22505300,"Mexico City","Mexico",0.01,"w",7
+22189100,"Beijing","China",0.0194,"w",8
+21673100,"Mumbai","India",0.0177,"w",9
+18967500,"Osaka","Japan",-0.0024,"w",10
+17773900,"Chongqing","China",0.025,"w",11
+17648600,"Karachi","Pakistan",0.0239,"w",12
+17032300,"Kinshasa","DR Congo",0.0439,"w",13
+16536000,"Lagos","Nigeria",0.037,"w",14
+16047400,"Istanbul","Turkey",0.0126,"w",15
+15618300,"Buenos Aires","Argentina",0.0083,"w",16
+15570800,"Kolkata","India",0.0155,"w",17
+14942000,"Manila","Philippines",0.0187,"w",18
+14590100,"Guangzhou","China",0.0214,"w",19
+14470900,"Tianjin","China",0.0163,"w",20
+14407100,"Lahore","Pakistan",0.0306,"w",21
+14008300,"Bangalore","India",0.0294,"w",22
+13824300,"Rio de Janeiro","Brazil",0.007,"w",23
+13311900,"Shenzhen","China",0.0183,"w",24
+12712300,"Moscow","Russia",0.0025,"w",25
+12053700,"Chennai","India",0.0236,"w",26
+11658200,"Bogota","Colombia",0.0131,"w",27
+11436000,"Jakarta","Indonesia",0.0166,"w",28
+11361900,"Lima","Peru",0.0141,"w",29
+11276700,"Paris","France",0.0061,"w",30
+11233900,"Bangkok","Thailand",0.0148,"w",31
+11068900,"Hyderabad","India",0.0248,"w",32
+10004800,"Seoul","South Korea",0.0017,"w",33
+9947550,"Nanjing","China",0.0257,"w",34
+9828110,"Chengdu","China",0.0181,"w",35
+9748030,"London","United Kingdom",0.0104,"w",36
+9651030,"Luanda","Angola",0.0386,"w",37
+9616010,"Tehran","Iran",0.0122,"w",38
+9567660,"Ho Chi Minh City","Vietnam",0.0265,"w",39
+9556880,"Nagoya","Japan",-0.0013,"w",40
+9013840,"Xi-an","China",0.026,"w",41
+8854440,"Ahmedabad","India",0.0236,"w",42
+8850850,"Wuhan","China",0.0152,"w",43
+8815630,"Kuala Lumpur","Malaysia",0.0225,"w",44
+8419840,"Hangzhou","China",0.0222,"w",45
+8350620,"Suzhou","China",0.0343,"w",46
+8330530,"Surat","India",0.0329,"w",47
+8161230,"Dar es Salaam","Tanzania",0.0496,"w",48
+8097282,"New York City","United States",-0.0195,"us",49
+7921130,"Baghdad","Iraq",0.0272,"w",50
+7830380,"Shenyang","China",0.0195,"w",51
+7820550,"Riyadh","Saudi Arabia",0.018,"w",52
+7725860,"Hong Kong","Hong Kong",0.0053,"w",53
+7704940,"Foshan","China",0.0142,"w",54
+7675150,"Dongguan","China",0.0116,"w",55
+7345850,"Pune","India",0.025,"w",56
+6950950,"Santiago","Chile",0.0069,"w",57
+6938010,"Haerbin","China",0.0197,"w",58
+6783240,"Madrid","Spain",0.0047,"w",59
+6542070,"Khartoum","Sudan",0.0312,"w",60
+6431430,"Toronto","Canada",0.0093,"w",61
+6324350,"Johannesburg","South Africa",0.0204,"w",62
+6300410,"Belo Horizonte","Brazil",0.0084,"w",63
+6217490,"Dalian","China",0.0229,"w",64
+6119200,"Singapore","Singapore",0.0063,"w",65
+6104600,"Qingdao","China",0.0197,"w",66
+6014890,"Zhengzhou","China",0.0266,"w",67
+5940700,"Ji nan Shandong","China",0.0232,"w",68
+5866700,"Abidjan","Ivory Coast",0.0317,"w",69
+5711920,"Barcelona","Spain",0.0043,"w",70
+5709680,"Yangon","Myanmar",0.0177,"w",71
+5703630,"Addis Ababa","Ethiopia",0.0445,"w",72
+5696130,"Alexandria","Egypt",0.0193,"w",73
+5581710,"Saint Petersburg","Russia",0.0037,"w",74
+5541170,"Nairobi","Kenya",0.0406,"w",75
+5513610,"Chittagong","Bangladesh",0.0249,"w",76
+5499680,"Guadalajara","Mexico",0.0147,"w",77
+5478080,"Fukuoka","Japan",-0.0022,"w",78
+5477090,"Ankara","Turkey",0.0148,"w",79
+5431800,"Hanoi","Vietnam",0.034,"w",80
+5315600,"Melbourne","Australia",0.0153,"w",81
+5195360,"Monterrey","Mexico",0.0154,"w",82
+5184900,"Sydney","Australia",0.0125,"w",83
+5027980,"Changsha","China",0.0216,"w",84
+5005960,"Urumqi","China",0.029,"w",85
+4977830,"Cape Town","South Africa",0.0179,"w",86
+4943210,"Jiddah","Saudi Arabia",0.0165,"w",87
+4935270,"Brasilia","Brazil",0.0128,"w",88
+4861080,"Kunming","China",0.021,"w",89
+4802450,"Changchun","China",0.0195,"w",90
+4728380,"Kabul","Afghanistan",0.0304,"w",91
+4727290,"Hefei","China",0.0242,"w",92
+4681770,"Yaounde","Cameroon",0.0382,"w",93
+4659830,"Ningbo","China",0.0269,"w",94
+4656520,"Shantou","China",0.0181,"w",95
+4534880,"New Taipei","Taiwan",0.0068,"w",96
+4495730,"Tel Aviv","Israel",0.0169,"w",97
+4490730,"Kano","Nigeria",0.0327,"w",98
+4454130,"Shijiazhuang","China",0.0191,"w",99
+4341640,"Montreal","Canada",0.0078,"w",100
+4331970,"Rome","Italy",0.0038,"w",101
+4308510,"Jaipur","India",0.0241,"w",102
+4305130,"Recife","Brazil",0.0097,"w",103
+4291460,"Nanning","China",0.0238,"w",104
+4246400,"Fortaleza","Brazil",0.0095,"w",105
+4243960,"Kozhikode","India",0.038,"w",106
+4239870,"Porto Alegre","Brazil",0.0066,"w",107
+4226780,"Taiyuan Shanxi","China",0.0197,"w",108
+4203110,"Douala","Cameroon",0.0344,"w",109
+4190830,"Ekurhuleni","South Africa",0.0176,"w",110
+4184920,"Malappuram","India",0.0439,"w",111
+4137390,"Medellin","Colombia",0.0086,"w",112
+4085500,"Changzhou","China",0.0261,"w",113
+4050830,"Kampala","Uganda",0.0532,"w",114
+4048670,"Antananarivo","Madagascar",0.0456,"w",115
+4038210,"Lucknow","India",0.0235,"w",116
+4025740,"Abuja","Nigeria",0.0485,"w",117
+4016040,"Nanchang","China",0.0244,"w",118
+4009530,"Wenzhou","China",0.0229,"w",119
+4007470,"Xiamen","China",0.0183,"w",120
+4004320,"Ibadan","Nigeria",0.0334,"w",121
+3998750,"Fuzhou Fujian","China",0.0195,"w",122
+3994980,"Salvador","Brazil",0.0092,"w",123
+3950410,"Casablanca","Morocco",0.0148,"w",124
+3925210,"Tangshan Hebei","China",0.029,"w",125
+3903480,"Kumasi","Ghana",0.0359,"w",126
+3852460,"Curitiba","Brazil",0.0103,"w",127
+3830680,"Bekasi","Indonesia",0.0272,"w",128
+3800190,"Faisalabad","Pakistan",0.0241,"w",129
+3795936,"Los Angeles","United States",-0.0065,"us",130
+3661450,"Guiyang","China",0.0225,"w",131
+3636550,"Port Harcourt","Nigeria",0.045,"w",132
+3605240,"Thrissur","India",0.0353,"w",133
+3587400,"Santo Domingo","Dominican Republic",0.018,"w",134
+3576870,"Berlin","Germany",0.0008,"w",135
+3568830,"Asuncion","Paraguay",0.0166,"w",136
+3540460,"Dakar","Senegal",0.0323,"w",137
+3507050,"Kochi","India",0.0297,"w",138
+3498740,"Wuxi","China",0.0179,"w",139
+3477420,"Busan","South Korea",0.0016,"w",140
+3458440,"Campinas","Brazil",0.0104,"w",141
+3415530,"Mashhad","Iran",0.0142,"w",142
+3407810,"Sanaa","Yemen",0.035,"w",143
+3394340,"Puebla","Mexico",0.0148,"w",144
+3393380,"Indore","India",0.0276,"w",145
+3365910,"Lanzhou","China",0.0207,"w",146
+3358930,"Ouagadougou","Burkina Faso",0.0484,"w",147
+3353600,"Kuwait City","Kuwait",0.0169,"w",148
+3324220,"Lusaka","Zambia",0.0449,"w",149
+3286140,"Kanpur","India",0.0161,"w",150
+3262130,"Durban","South Africa",0.0106,"w",151
+3193270,"Guayaquil","Ecuador",0.0162,"w",152
+3183140,"Pyongyang","North Korea",0.0081,"w",153
+3160630,"Milan","Italy",0.0019,"w",154
+3159630,"Guatemala City","Guatemala",0.0208,"w",155
+3154590,"Athens","Greece",0,"w",156
+3133300,"Depok","Indonesia",0.0303,"w",157
+3120340,"Izmir","Turkey",0.0103,"w",158
+3106340,"Nagpur","India",0.0196,"w",159
+3088750,"Surabaya","Indonesia",0.0146,"w",160
+3086000,"Handan","China",0.0268,"w",161
+3083720,"Coimbatore","India",0.0248,"w",162
+3071050,"Huaian","China",0.0306,"w",163
+3060170,"Port-au-Prince","Haiti",0.0243,"w",164
+3051060,"Zhongshan","China",0.0134,"w",165
+3051020,"Dubai","United Arab Emirates",0.0144,"w",166
+3050570,"Bamako","Mali",0.0414,"w",167
+3022860,"Mbuji-Mayi","DR Congo",0.0453,"w",168
+3020230,"Kiev","Ukraine",0.0011,"w",169
+3014610,"Lisbon","Portugal",0.0047,"w",170
+2994540,"Weifang","China",0.0263,"w",171
+2991730,"Caracas","Venezuela",0.0066,"w",172
+2984150,"Thiruvananthapuram","India",0.0322,"w",173
+2952120,"Algiers","Algeria",0.0173,"w",174
+2935530,"Shizuoka","Japan",-0.0006,"w",175
+2933960,"Lubumbashi","DR Congo",0.0434,"w",176
+2890430,"Cali","Colombia",0.0093,"w",177
+2890420,"Goiania","Brazil",0.0147,"w",178
+2889900,"Pretoria","South Africa",0.0255,"w",179
+2882170,"Shaoxing","China",0.0273,"w",180
+2861690,"Incheon","South Korea",0.0046,"w",181
+2834510,"Yantai","China",0.0253,"w",182
+2828440,"Zibo","China",0.0174,"w",183
+2827610,"Huizhou","China",0.025,"w",184
+2811760,"Manchester","United Kingdom",0.0074,"w",185
+2766330,"Taipei","Taiwan",0.0044,"w",186
+2726820,"Mogadishu","Somalia",0.0446,"w",187
+2724570,"Brazzaville","Republic of the Congo",0.0329,"w",188
+2721160,"Accra","Ghana",0.023,"w",189
+2714220,"Bandung","Indonesia",0.015,"w",190
+2685360,"Damascus","Syria",0.0389,"w",191
+2684810,"Birmingham","United Kingdom",0.0074,"w",192
+2682510,"Vancouver","Canada",0.0096,"w",193
+2674340,"Toluca de Lerdo","Mexico",0.0183,"w",194
+2666740,"Luoyang","China",0.0246,"w",195
+2660950,"Sapporo","Japan",-0.0019,"w",196
+2638159,"Chicago","United States",-0.0099,"us",197
+2633660,"Tashkent","Uzbekistan",0.0117,"w",198
+2633240,"Patna","India",0.0207,"w",199
+2624860,"Bhopal","India",0.0235,"w",200
+2570980,"Tangerang","Indonesia",0.0226,"w",201
+2555720,"Nantong","China",0.0255,"w",202
+2536450,"Brisbane","Australia",0.0128,"w",203
+2510670,"Tunis","Tunisia",0.0142,"w",204
+2480550,"Peshawar","Pakistan",0.0285,"w",205
+2479070,"Medan","Indonesia",0.0164,"w",206
+2479060,"Gujranwala","Pakistan",0.0263,"w",207
+2464160,"Baku","Azerbaijan",0.0131,"w",208
+2443690,"Hohhot","China",0.0265,"w",209
+2436620,"San Juan","Puerto Rico",-0.0012,"w",210
+2432180,"Belem","Brazil",0.0095,"w",211
+2430390,"Rawalpindi","Pakistan",0.0223,"w",212
+2422340,"Agra","India",0.0231,"w",213
+2406850,"Manaus","Brazil",0.0131,"w",214
+2405660,"Kannur","India",0.0254,"w",215
+2402480,"Beirut","Lebanon",-0.0078,"w",216
+2400830,"Maracaibo","Venezuela",0.014,"w",217
+2397410,"Liuzhou","China",0.023,"w",218
+2385110,"Visakhapatnam","India",0.0232,"w",219
+2381240,"Baotou","China",0.0199,"w",220
+2373360,"Vadodara","India",0.0212,"w",221
+2373300,"Barranquilla","Colombia",0.0102,"w",222
+2352680,"Phnom Penh","Cambodia",0.0313,"w",223
+2341430,"Sendai","Japan",-0.0004,"w",224
+2338720,"Taoyuan","Taiwan",0.0086,"w",225
+2332530,"Xuzhou","China",0.0198,"w",226
+2319119,"Houston","United States",0.0021,"us",227
+2317650,"Aleppo","Syria",0.052,"w",228
+2297220,"Tijuana","Mexico",0.0166,"w",229
+2294590,"Esfahan","Iran",0.016,"w",230
+2294300,"Nashik","India",0.0254,"w",231
+2290780,"Vijayawada","India",0.0274,"w",232
+2252690,"Amman","Jordan",0.0092,"w",233
+2250100,"Putian","China",0.034,"w",234
+2205410,"Multan","Pakistan",0.0236,"w",235
+2196820,"Grande Vitoria","Brazil",0.0121,"w",236
+2195260,"Wuhu Anhui","China",0.0332,"w",237
+2184560,"Mecca","Saudi Arabia",0.0161,"w",238
+2181940,"Kollam","India",0.0358,"w",239
+2180030,"Naples","Italy",0.0003,"w",240
+2179930,"Daegu","South Korea",-0.0005,"w",241
+2178600,"Conakry","Guinea",0.0321,"w",242
+2175100,"Yangzhou","China",0.0206,"w",243
+2152520,"Havana","Cuba",0.0017,"w",244
+2152230,"Taizhou Zhejiang","China",0.0238,"w",245
+2149700,"Baoding","China",0.02,"w",246
+2143490,"Perth","Australia",0.012,"w",247
+2132180,"Brussels","Belgium",0.0048,"w",248
+2120050,"Linyi Shandong","China",0.021,"w",249
+2115510,"Bursa","Turkey",0.014,"w",250
+2096980,"Rajkot","India",0.0264,"w",251
+2064730,"Minsk","Belarus",0.0036,"w",252
+2062880,"Hiroshima","Japan",-0.0023,"w",253
+2056650,"Haikou","China",0.0201,"w",254
+2044370,"Daqing","China",0.0218,"w",255
+2042730,"Lome","Togo",0.0308,"w",256
+2035630,"Lianyungang","China",0.0248,"w",257
+2034330,"Yancheng Jiangsu","China",0.0205,"w",258
+2015740,"Panama City","Panama",0.0197,"w",259
+2015210,"Almaty","Kazakhstan",0.014,"w",260
+2013570,"Semarang","Indonesia",0.0194,"w",261
+2011960,"Hyderabad","Pakistan",0.0225,"w",262
+2007260,"Valencia","Venezuela",0.012,"w",263
+1991460,"Davao City","Philippines",0.0216,"w",264
+1990490,"Vienna","Austria",0.0077,"w",265
+1989200,"Rabat","Morocco",0.0152,"w",266
+1988440,"Ludhiana","India",0.0191,"w",267
+1986670,"Quito","Ecuador",0.0152,"w",268
+1972560,"Benin City","Nigeria",0.0357,"w",269
+1965570,"La Paz","Bolivia",0.0155,"w",270
+1965110,"Baixada Santista","Brazil",0.0089,"w",271
+1942470,"West Yorkshire","United Kingdom",0.0072,"w",272
+1938920,"Can Tho","Vietnam",0.0395,"w",273
+1930370,"Zhuhai","China",0.0215,"w",274
+1924440,"Leon de los Aldamas","Mexico",0.0135,"w",275
+1920730,"Quanzhou","China",0.0271,"w",276
+1915040,"Matola","Mozambique",0.0338,"w",277
+1913670,"Datong","China",0.0213,"w",278
+1872200,"Sharjah","United Arab Emirates",0.0226,"w",279
+1871910,"Madurai","India",0.0205,"w",280
+1871110,"Raipur","India",0.0299,"w",281
+1856640,"Adana","Turkey",0.0113,"w",282
+1855730,"Santa Cruz","Bolivia",0.0196,"w",283
+1852670,"Palembang","Indonesia",0.0188,"w",284
+1847690,"Mosul","Iraq",0.0311,"w",285
+1840040,"Cixi","China",0.0286,"w",286
+1835400,"Meerut","India",0.0209,"w",287
+1833010,"Gaziantep","Turkey",0.0157,"w",288
+1826140,"La Laguna","Mexico",0.0256,"w",289
+1806150,"Batam","Indonesia",0.0332,"w",290
+1805730,"Turin","Italy",0.0021,"w",291
+1799450,"Warsaw","Poland",0.0011,"w",292
+1797470,"Jiangmen","China",0.0164,"w",293
+1789050,"Varanasi","India",0.0197,"w",294
+1787280,"Hamburg","Germany",-0.0001,"w",295
+1781360,"Montevideo","Uruguay",0.0039,"w",296
+1780390,"Budapest","Hungary",0.0013,"w",297
+1774400,"Lyon","France",0.0075,"w",298
+1772320,"Xiangyang","China",0.017,"w",299
+1767520,"Bucharest","Romania",-0.005,"w",300
+1758100,"Yichang","China",0.0274,"w",301
+1757700,"Yinchuan","China",0.0239,"w",302
+1742750,"Shiraz","Iran",0.0127,"w",303
+1738720,"Kananga","DR Congo",0.0446,"w",304
+1737500,"Srinagar","India",0.0231,"w",305
+1735360,"Monrovia","Liberia",0.0342,"w",306
+1731860,"Tiruppur","India",0.0326,"w",307
+1730520,"Jamshedpur","India",0.0209,"w",308
+1726330,"Suqian","China",0.0369,"w",309
+1725280,"Aurangabad","India",0.0249,"w",310
+1723730,"Qinhuangdao","China",0.0254,"w",311
+1719600,"Stockholm","Sweden",0.0115,"w",312
+1713450,"Anshan","China",0.0142,"w",313
+1708150,"Glasgow","United Kingdom",0.0059,"w",314
+1705080,"Xining","China",0.0231,"w",315
+1704930,"Makassar","Indonesia",0.019,"w",316
+1702010,"Hengyang","China",0.0242,"w",317
+1701510,"Novosibirsk","Russia",0.004,"w",318
+1699360,"Ulaanbaatar","Mongolia",0.016,"w",319
+1694910,"Onitsha","Nigeria",0.0441,"w",320
+1693700,"Jilin","China",0.0149,"w",321
+1693380,"Anyang","China",0.0311,"w",322
+1692770,"Auckland","New Zealand",0.0117,"w",323
+1678030,"Tabriz","Iran",0.0104,"w",324
+1676170,"Muscat","Oman",0.0157,"w",325
+1665020,"Calgary","Canada",0.0155,"w",326
+1662607,"Phoenix","United States",0.0076,"us",327
+1662410,"Qiqihaer","China",0.0165,"w",328
+1655620,"N-Djamena","Chad",0.0398,"w",329
+1635710,"Marseille","France",0.005,"w",330
+1625940,"Cordoba","Argentina",0.0089,"w",331
+1625320,"Jodhpur","India",0.0244,"w",332
+1621640,"Kathmandu","Nepal",0.0322,"w",333
+1613040,"Rosario","Argentina",0.0119,"w",334
+1609260,"Tegucigalpa","Honduras",0.0263,"w",335
+1604080,"Ciudad Juarez","Mexico",0.0138,"w",336
+1603200,"Harare","Zimbabwe",0.0159,"w",337
+1603010,"Karaj","Iran",0.0059,"w",338
+1598980,"Medina","Saudi Arabia",0.0168,"w",339
+1595960,"Jining Shandong","China",0.0168,"w",340
+1593280,"Abu Dhabi","United Arab Emirates",0.0168,"w",341
+1584510,"Munich","Germany",0.0051,"w",342
+1584240,"Ranchi","India",0.0239,"w",343
+1581700,"Daejon","South Korea",0.0027,"w",344
+1568120,"Zhangjiakou","China",0.0208,"w",345
+1567620,"Edmonton","Canada",0.015,"w",346
+1563020,"Mandalay","Myanmar",0.0203,"w",347
+1559080,"Gaoxiong","Taiwan",0.004,"w",348
+1558470,"Kota","India",0.0275,"w",349
+1556410,"Natal","Brazil",0.0137,"w",350
+1552150,"Nouakchott","Mauritania",0.0403,"w",351
+1551000,"Jabalpur","India",0.019,"w",352
+1538600,"Huainan","China",0.0171,"w",353
+1536020,"Grande Sao Luis","Brazil",0.0081,"w",354
+1534080,"Asansol","India",0.0193,"w",355
+1533828,"Philadelphia","United States",-0.0108,"us",356
+1532970,"Yekaterinburg","Russia",0.0034,"w",357
+1532900,"Gwangju","South Korea",0.0022,"w",358
+1525750,"Yiwu","China",0.0286,"w",359
+1520630,"Chaozhou","China",0.0163,"w",360
+1513974,"San Antonio","United States",0.0125,"us",361
+1508850,"Gwalior","India",0.0229,"w",362
+1508040,"Ganzhou","China",0.0331,"w",363
+1499600,"Homs","Syria",0.0389,"w",364
+1496260,"Niamey","Niger",0.0411,"w",365
+1495220,"Mombasa","Kenya",0.0381,"w",366
+1493350,"Allahabad","India",0.0192,"w",367
+1485160,"Basra","Iraq",0.0256,"w",368
+1483510,"Kisangani","DR Congo",0.0422,"w",369
+1482460,"San Jose","Costa Rica",0.014,"w",370
+1480470,"Amritsar","India",0.0198,"w",371
+1477600,"Taizhou Jiangsu","China",0.0213,"w",372
+1472710,"Chon Buri","Thailand",0.0127,"w",373
+1470920,"Jiaxing","China",0.0322,"w",374
+1465930,"Weihai","China",0.0256,"w",375
+1463650,"Hai Phong","Vietnam",0.0286,"w",376
+1451570,"Ottawa","Canada",0.01,"w",377
+1443350,"Zurich","Switzerland",0.0082,"w",378
+1441910,"Taian Shandong","China",0.0183,"w",379
+1436820,"Queretaro","Mexico",0.0165,"w",380
+1435120,"Joao Pessoa","Brazil",0.0093,"w",381
+1434460,"Kaifeng","China",0.0259,"w",382
+1430690,"Cochabamba","Bolivia",0.0217,"w",383
+1429940,"Konya","Turkey",0.0158,"w",384
+1428800,"Liuyang","China",0.0402,"w",385
+1427890,"Liuan","China",0.0361,"w",386
+1426580,"Rizhao","China",0.0254,"w",387
+1418980,"Kharkiv","Ukraine",-0.0015,"w",388
+1414530,"Dhanbad","India",0.0178,"w",389
+1412710,"Nanchong","China",0.0255,"w",390
+1410790,"Dongying","China",0.0228,"w",391
+1410700,"Belgrade","Serbia",0.0018,"w",392
+1406090,"Zunyi","China",0.0215,"w",393
+1399310,"Zhanjiang","China",0.0199,"w",394
+1396630,"Bucaramanga","Colombia",0.011,"w",395
+1393450,"Uyo","Nigeria",0.0483,"w",396
+1391200,"Copenhagen","Denmark",0.0074,"w",397
+1388996,"San Diego","United States",0.0005,"us",398
+1387380,"Shiyan","China",0.0246,"w",399
+1381860,"Taizhong","Taiwan",0.0093,"w",400
+1380720,"Bareilly","India",0.0238,"w",401
+1379370,"Pointe-Noire","Republic of the Congo",0.0322,"w",402
+1379280,"Adelaide","Australia",0.0091,"w",403
+1378230,"Suweon","South Korea",0.0094,"w",404
+1378010,"Mwanza","Tanzania",0.0513,"w",405
+1376450,"Mianyang Sichuan","China",0.0186,"w",406
+1376150,"Samut Prakan","Thailand",0.0127,"w",407
+1375980,"Maceio","Brazil",0.0091,"w",408
+1373800,"Qom","Iran",0.0145,"w",409
+1372400,"Antalya","Turkey",0.0187,"w",410
+1361990,"Joinville","Brazil",0.01,"w",411
+1360780,"Tengzhou","China",0.0286,"w",412
+1355560,"Yingkou","China",0.0245,"w",413
+1352910,"Ad-Dammam","Saudi Arabia",0.0178,"w",414
+1349990,"Suzhou","China",0.0302,"w",415
+1348850,"Tanger","Morocco",0.0264,"w",416
+1347560,"Freetown","Sierra Leone",0.0293,"w",417
+1346810,"Helsinki","Finland",0.0067,"w",418
+1346020,"Aligarh","India",0.0256,"w",419
+1335970,"Moradabad","India",0.0263,"w",420
+1334530,"Pekan Baru","Indonesia",0.0239,"w",421
+1333930,"Maoming","China",0.023,"w",422
+1333100,"Lilongwe","Malawi",0.0445,"w",423
+1329300,"Porto","Portugal",0.0035,"w",424
+1327950,"Prague","Czech Republic",0.0035,"w",425
+1324110,"Astana","Kazakhstan",0.0254,"w",426
+1320780,"Jieyang","China",0.0299,"w",427
+1317280,"Fushun Liaoning","China",0.0098,"w",428
+1316460,"Mysore","India",0.0219,"w",429
+1314920,"Abomey-Calavi","Benin",0.0495,"w",430
+1314780,"Ruian","China",0.0257,"w",431
+1313310,"Fes","Morocco",0.018,"w",432
+1312630,"Port Elizabeth","South Africa",0.0129,"w",433
+1309900,"Florianopolis","Brazil",0.0119,"w",434
+1309370,"Ahvaz","Iran",0.0122,"w",435
+1308470,"Bukavu","DR Congo",0.0478,"w",436
+1302753,"Dallas","United States",-0.0001,"us",437
+1300990,"Nnewi","Nigeria",0.0499,"w",438
+1296230,"Kazan","Russia",0.0034,"w",439
+1296060,"Jinhua","China",0.0303,"w",440
+1292130,"San Luis Potosi","Mexico",0.0148,"w",441
+1290230,"Baoji","China",0.0231,"w",442
+1289670,"Durg-Bhilainagar","India",0.0187,"w",443
+1289250,"Bhubaneswar","India",0.0251,"w",444
+1287950,"Kigali","Rwanda",0.0324,"w",445
+1287540,"Sofia","Bulgaria",-0.0004,"w",446
+1285750,"Pingdingshan Henan","China",0.0232,"w",447
+1284550,"Dublin","Ireland",0.0113,"w",448
+1282760,"Puning","China",0.0228,"w",449
+1279540,"Chifeng","China",0.0217,"w",450
+1277240,"Zhuzhou","China",0.0181,"w",451
+1277050,"Bujumbura","Burundi",0.0582,"w",452
+1275400,"Zhenjiang Jiangsu","China",0.0198,"w",453
+1272870,"Liupanshui","China",0.0343,"w",454
+1267870,"Barquisimeto","Venezuela",0.0109,"w",455
+1266790,"Islamabad","Pakistan",0.0279,"w",456
+1264860,"Huaibei","China",0.0231,"w",457
+1258120,"Tasikmalaya","Indonesia",0.0365,"w",458
+1256550,"Maracay","Venezuela",0.0109,"w",459
+1256160,"Bogor","Indonesia",0.0201,"w",460
+1253230,"Da Nang","Vietnam",0.0267,"w",461
+1250300,"Nanyang Henan","China",0.021,"w",462
+1250300,"Nizhniy Novgorod","Russia",-0.0008,"w",463
+1249380,"Xiangtan Hunan","China",0.0208,"w",464
+1247180,"Pizhou","China",0.033,"w",465
+1244980,"Tiruchirappalli","India",0.0188,"w",466
+1243880,"Chelyabinsk","Russia",0.0024,"w",467
+1242320,"Mendoza","Argentina",0.013,"w",468
+1241150,"Luohe","China",0.0361,"w",469
+1240160,"Xiongan","China",0.0483,"w",470
+1239700,"Chandigarh","India",0.0205,"w",471
+1239650,"Merida","Mexico",0.0156,"w",472
+1238380,"Jinzhou","China",0.0189,"w",473
+1237550,"Benxi","China",0.017,"w",474
+1233580,"Binzhou","China",0.0278,"w",475
+1230410,"Aba","Nigeria",0.035,"w",476
+1228770,"Chiang Mai","Thailand",0.0127,"w",477
+1225590,"Bazhong","China",0.0422,"w",478
+1221500,"Quetta","Pakistan",0.0262,"w",479
+1221450,"Kaduna","Nigeria",0.0287,"w",480
+1218070,"Guilin","China",0.0177,"w",481
+1207860,"Saharanpur","India",0.0309,"w",482
+1205430,"Hubli-Dharwad","India",0.0205,"w",483
+1201400,"Yueqing","China",0.027,"w",484
+1199460,"Guwahati","India",0.0197,"w",485
+1196980,"Mexicali","Mexico",0.0157,"w",486
+1194760,"Salem","India",0.0212,"w",487
+1193250,"Maputo","Mozambique",0.0262,"w",488
+1192440,"Tripoli","Libya",0.0077,"w",489
+1186480,"Haifa","Israel",0.0103,"w",490
+1186230,"Bandar Lampung","Indonesia",0.0206,"w",491
+1185050,"Bobo-Dioulasso","Burkina Faso",0.05,"w",492
+1181820,"Amsterdam","Netherlands",0.0066,"w",493
+1181020,"Shimkent","Kazakhstan",0.0225,"w",494
+1180680,"Omsk","Russia",-0.0001,"w",495
+1179300,"Aguascalientes","Mexico",0.0154,"w",496
+1176620,"Hargeysa","Somalia",0.0438,"w",497
+1173100,"Krasnoyarsk","Russia",0.0054,"w",498
+1160840,"Xinxiang","China",0.0177,"w",499
+1159370,"Siliguri","India",0.0294,"w",500
+1159260,"Wenling","China",0.0247,"w",501
+1154450,"Samara","Russia",-0.0011,"w",502

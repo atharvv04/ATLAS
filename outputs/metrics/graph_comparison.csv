@@ -1,0 +1,4 @@
+Graph,Nodes,Edges,Density,Avg Clustering,Diameter,LSCC Diameter,Strongly Connected Components,Avg Shortest Path
+Countries,249,3222,0.05217644772638943,0.1693362283416141,Disconnected,6,57,N/A
+Cities,500,9276,0.037178356713426855,0.06759965336389241,Disconnected,6,94,N/A
+Combined,747,23776,0.04266574788878481,0.0919295747834315,Disconnected,5,74,N/A

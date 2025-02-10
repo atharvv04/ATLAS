@@ -1,0 +1,8022 @@
+[
+  {
+    "population": 37115000,
+    "pop2024": 37115000,
+    "pop2023": 37194100,
+    "city": "Tokyo",
+    "country": "Japan",
+    "growthRate": -0.0021,
+    "type": "w",
+    "rank": 1
+  },
+  {
+    "population": 33807400,
+    "pop2024": 33807400,
+    "pop2023": 32941300,
+    "city": "Delhi",
+    "country": "India",
+    "growthRate": 0.0263,
+    "type": "w",
+    "rank": 2
+  },
+  {
+    "population": 29867900,
+    "pop2024": 29867900,
+    "pop2023": 29210800,
+    "city": "Shanghai",
+    "country": "China",
+    "growthRate": 0.0225,
+    "type": "w",
+    "rank": 3
+  },
+  {
+    "population": 23935700,
+    "pop2024": 23935700,
+    "pop2023": 23209600,
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "growthRate": 0.0313,
+    "type": "w",
+    "rank": 4
+  },
+  {
+    "population": 22806700,
+    "pop2024": 22806700,
+    "pop2023": 22619700,
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "growthRate": 0.0083,
+    "type": "w",
+    "rank": 5
+  },
+  {
+    "population": 22623900,
+    "pop2024": 22623900,
+    "pop2023": 22183200,
+    "city": "Cairo",
+    "country": "Egypt",
+    "growthRate": 0.0199,
+    "type": "w",
+    "rank": 6
+  },
+  {
+    "population": 22505300,
+    "pop2024": 22505300,
+    "pop2023": 22281400,
+    "city": "Mexico City",
+    "country": "Mexico",
+    "growthRate": 0.01,
+    "type": "w",
+    "rank": 7
+  },
+  {
+    "population": 22189100,
+    "pop2024": 22189100,
+    "pop2023": 21766200,
+    "city": "Beijing",
+    "country": "China",
+    "growthRate": 0.0194,
+    "type": "w",
+    "rank": 8
+  },
+  {
+    "population": 21673100,
+    "pop2024": 21673100,
+    "pop2023": 21296500,
+    "city": "Mumbai",
+    "country": "India",
+    "growthRate": 0.0177,
+    "type": "w",
+    "rank": 9
+  },
+  {
+    "population": 18967500,
+    "pop2024": 18967500,
+    "pop2023": 19013400,
+    "city": "Osaka",
+    "country": "Japan",
+    "growthRate": -0.0024,
+    "type": "w",
+    "rank": 10
+  },
+  {
+    "population": 17773900,
+    "pop2024": 17773900,
+    "pop2023": 17340700,
+    "city": "Chongqing",
+    "country": "China",
+    "growthRate": 0.025,
+    "type": "w",
+    "rank": 11
+  },
+  {
+    "population": 17648600,
+    "pop2024": 17648600,
+    "pop2023": 17236200,
+    "city": "Karachi",
+    "country": "Pakistan",
+    "growthRate": 0.0239,
+    "type": "w",
+    "rank": 12
+  },
+  {
+    "population": 17032300,
+    "pop2024": 17032300,
+    "pop2023": 16315500,
+    "city": "Kinshasa",
+    "country": "DR Congo",
+    "growthRate": 0.0439,
+    "type": "w",
+    "rank": 13
+  },
+  {
+    "population": 16536000,
+    "pop2024": 16536000,
+    "pop2023": 15945900,
+    "city": "Lagos",
+    "country": "Nigeria",
+    "growthRate": 0.037,
+    "type": "w",
+    "rank": 14
+  },
+  {
+    "population": 16047400,
+    "pop2024": 16047400,
+    "pop2023": 15847800,
+    "city": "Istanbul",
+    "country": "Turkey",
+    "growthRate": 0.0126,
+    "type": "w",
+    "rank": 15
+  },
+  {
+    "population": 15618300,
+    "pop2024": 15618300,
+    "pop2023": 15490400,
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "growthRate": 0.0083,
+    "type": "w",
+    "rank": 16
+  },
+  {
+    "population": 15570800,
+    "pop2024": 15570800,
+    "pop2023": 15332800,
+    "city": "Kolkata",
+    "country": "India",
+    "growthRate": 0.0155,
+    "type": "w",
+    "rank": 17
+  },
+  {
+    "population": 14942000,
+    "pop2024": 14942000,
+    "pop2023": 14667100,
+    "city": "Manila",
+    "country": "Philippines",
+    "growthRate": 0.0187,
+    "type": "w",
+    "rank": 18
+  },
+  {
+    "population": 14590100,
+    "pop2024": 14590100,
+    "pop2023": 14284400,
+    "city": "Guangzhou",
+    "country": "China",
+    "growthRate": 0.0214,
+    "type": "w",
+    "rank": 19
+  },
+  {
+    "population": 14470900,
+    "pop2024": 14470900,
+    "pop2023": 14238600,
+    "city": "Tianjin",
+    "country": "China",
+    "growthRate": 0.0163,
+    "type": "w",
+    "rank": 20
+  },
+  {
+    "population": 14407100,
+    "pop2024": 14407100,
+    "pop2023": 13979400,
+    "city": "Lahore",
+    "country": "Pakistan",
+    "growthRate": 0.0306,
+    "type": "w",
+    "rank": 21
+  },
+  {
+    "population": 14008300,
+    "pop2024": 14008300,
+    "pop2023": 13607800,
+    "city": "Bangalore",
+    "country": "India",
+    "growthRate": 0.0294,
+    "type": "w",
+    "rank": 22
+  },
+  {
+    "population": 13824300,
+    "pop2024": 13824300,
+    "pop2023": 13727700,
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "growthRate": 0.007,
+    "type": "w",
+    "rank": 23
+  },
+  {
+    "population": 13311900,
+    "pop2024": 13311900,
+    "pop2023": 13072600,
+    "city": "Shenzhen",
+    "country": "China",
+    "growthRate": 0.0183,
+    "type": "w",
+    "rank": 24
+  },
+  {
+    "population": 12712300,
+    "pop2024": 12712300,
+    "pop2023": 12680400,
+    "city": "Moscow",
+    "country": "Russia",
+    "growthRate": 0.0025,
+    "type": "w",
+    "rank": 25
+  },
+  {
+    "population": 12053700,
+    "pop2024": 12053700,
+    "pop2023": 11776100,
+    "city": "Chennai",
+    "country": "India",
+    "growthRate": 0.0236,
+    "type": "w",
+    "rank": 26
+  },
+  {
+    "population": 11658200,
+    "pop2024": 11658200,
+    "pop2023": 11508000,
+    "city": "Bogota",
+    "country": "Colombia",
+    "growthRate": 0.0131,
+    "type": "w",
+    "rank": 27
+  },
+  {
+    "population": 11436000,
+    "pop2024": 11436000,
+    "pop2023": 11248800,
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "growthRate": 0.0166,
+    "type": "w",
+    "rank": 28
+  },
+  {
+    "population": 11361900,
+    "pop2024": 11361900,
+    "pop2023": 11204400,
+    "city": "Lima",
+    "country": "Peru",
+    "growthRate": 0.0141,
+    "type": "w",
+    "rank": 29
+  },
+  {
+    "population": 11276700,
+    "pop2024": 11276700,
+    "pop2023": 11208400,
+    "city": "Paris",
+    "country": "France",
+    "growthRate": 0.0061,
+    "type": "w",
+    "rank": 30
+  },
+  {
+    "population": 11233900,
+    "pop2024": 11233900,
+    "pop2023": 11070000,
+    "city": "Bangkok",
+    "country": "Thailand",
+    "growthRate": 0.0148,
+    "type": "w",
+    "rank": 31
+  },
+  {
+    "population": 11068900,
+    "pop2024": 11068900,
+    "pop2023": 10801200,
+    "city": "Hyderabad",
+    "country": "India",
+    "growthRate": 0.0248,
+    "type": "w",
+    "rank": 32
+  },
+  {
+    "population": 10004800,
+    "pop2024": 10004800,
+    "pop2023": 9988050,
+    "city": "Seoul",
+    "country": "South Korea",
+    "growthRate": 0.0017,
+    "type": "w",
+    "rank": 33
+  },
+  {
+    "population": 9947550,
+    "pop2024": 9947550,
+    "pop2023": 9698460,
+    "city": "Nanjing",
+    "country": "China",
+    "growthRate": 0.0257,
+    "type": "w",
+    "rank": 34
+  },
+  {
+    "population": 9828110,
+    "pop2024": 9828110,
+    "pop2023": 9653770,
+    "city": "Chengdu",
+    "country": "China",
+    "growthRate": 0.0181,
+    "type": "w",
+    "rank": 35
+  },
+  {
+    "population": 9748030,
+    "pop2024": 9748030,
+    "pop2023": 9648110,
+    "city": "London",
+    "country": "United Kingdom",
+    "growthRate": 0.0104,
+    "type": "w",
+    "rank": 36
+  },
+  {
+    "population": 9651030,
+    "pop2024": 9651030,
+    "pop2023": 9292340,
+    "city": "Luanda",
+    "country": "Angola",
+    "growthRate": 0.0386,
+    "type": "w",
+    "rank": 37
+  },
+  {
+    "population": 9616010,
+    "pop2024": 9616010,
+    "pop2023": 9499780,
+    "city": "Tehran",
+    "country": "Iran",
+    "growthRate": 0.0122,
+    "type": "w",
+    "rank": 38
+  },
+  {
+    "population": 9567660,
+    "pop2024": 9567660,
+    "pop2023": 9320870,
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "growthRate": 0.0265,
+    "type": "w",
+    "rank": 39
+  },
+  {
+    "population": 9556880,
+    "pop2024": 9556880,
+    "pop2023": 9569330,
+    "city": "Nagoya",
+    "country": "Japan",
+    "growthRate": -0.0013,
+    "type": "w",
+    "rank": 40
+  },
+  {
+    "population": 9013840,
+    "pop2024": 9013840,
+    "pop2023": 8785170,
+    "city": "Xi-an",
+    "country": "China",
+    "growthRate": 0.026,
+    "type": "w",
+    "rank": 41
+  },
+  {
+    "population": 8854440,
+    "pop2024": 8854440,
+    "pop2023": 8650600,
+    "city": "Ahmedabad",
+    "country": "India",
+    "growthRate": 0.0236,
+    "type": "w",
+    "rank": 42
+  },
+  {
+    "population": 8850850,
+    "pop2024": 8850850,
+    "pop2023": 8718250,
+    "city": "Wuhan",
+    "country": "China",
+    "growthRate": 0.0152,
+    "type": "w",
+    "rank": 43
+  },
+  {
+    "population": 8815630,
+    "pop2024": 8815630,
+    "pop2023": 8621720,
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "growthRate": 0.0225,
+    "type": "w",
+    "rank": 44
+  },
+  {
+    "population": 8419840,
+    "pop2024": 8419840,
+    "pop2023": 8237210,
+    "city": "Hangzhou",
+    "country": "China",
+    "growthRate": 0.0222,
+    "type": "w",
+    "rank": 45
+  },
+  {
+    "population": 8350620,
+    "pop2024": 8350620,
+    "pop2023": 8074030,
+    "city": "Suzhou",
+    "country": "China",
+    "growthRate": 0.0343,
+    "type": "w",
+    "rank": 46
+  },
+  {
+    "population": 8330530,
+    "pop2024": 8330530,
+    "pop2023": 8064950,
+    "city": "Surat",
+    "country": "India",
+    "growthRate": 0.0329,
+    "type": "w",
+    "rank": 47
+  },
+  {
+    "population": 8161230,
+    "pop2024": 8161230,
+    "pop2023": 7775860,
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "growthRate": 0.0496,
+    "type": "w",
+    "rank": 48
+  },
+  {
+    "population": 8097282,
+    "pop2024": 8097282,
+    "pop2023": 8258035,
+    "city": "New York City",
+    "country": "United States",
+    "growthRate": -0.0195,
+    "type": "us",
+    "rank": 49
+  },
+  {
+    "population": 7921130,
+    "pop2024": 7921130,
+    "pop2023": 7711300,
+    "city": "Baghdad",
+    "country": "Iraq",
+    "growthRate": 0.0272,
+    "type": "w",
+    "rank": 50
+  },
+  {
+    "population": 7830380,
+    "pop2024": 7830380,
+    "pop2023": 7680970,
+    "city": "Shenyang",
+    "country": "China",
+    "growthRate": 0.0195,
+    "type": "w",
+    "rank": 51
+  },
+  {
+    "population": 7820550,
+    "pop2024": 7820550,
+    "pop2023": 7682430,
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "growthRate": 0.018,
+    "type": "w",
+    "rank": 52
+  },
+  {
+    "population": 7725860,
+    "pop2024": 7725860,
+    "pop2023": 7684800,
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "growthRate": 0.0053,
+    "type": "w",
+    "rank": 53
+  },
+  {
+    "population": 7704940,
+    "pop2024": 7704940,
+    "pop2023": 7597390,
+    "city": "Foshan",
+    "country": "China",
+    "growthRate": 0.0142,
+    "type": "w",
+    "rank": 54
+  },
+  {
+    "population": 7675150,
+    "pop2024": 7675150,
+    "pop2023": 7587050,
+    "city": "Dongguan",
+    "country": "China",
+    "growthRate": 0.0116,
+    "type": "w",
+    "rank": 55
+  },
+  {
+    "population": 7345850,
+    "pop2024": 7345850,
+    "pop2023": 7166370,
+    "city": "Pune",
+    "country": "India",
+    "growthRate": 0.025,
+    "type": "w",
+    "rank": 56
+  },
+  {
+    "population": 6950950,
+    "pop2024": 6950950,
+    "pop2023": 6903390,
+    "city": "Santiago",
+    "country": "Chile",
+    "growthRate": 0.0069,
+    "type": "w",
+    "rank": 57
+  },
+  {
+    "population": 6938010,
+    "pop2024": 6938010,
+    "pop2023": 6803810,
+    "city": "Haerbin",
+    "country": "China",
+    "growthRate": 0.0197,
+    "type": "w",
+    "rank": 58
+  },
+  {
+    "population": 6783240,
+    "pop2024": 6783240,
+    "pop2023": 6751370,
+    "city": "Madrid",
+    "country": "Spain",
+    "growthRate": 0.0047,
+    "type": "w",
+    "rank": 59
+  },
+  {
+    "population": 6542070,
+    "pop2024": 6542070,
+    "pop2023": 6344350,
+    "city": "Khartoum",
+    "country": "Sudan",
+    "growthRate": 0.0312,
+    "type": "w",
+    "rank": 60
+  },
+  {
+    "population": 6431430,
+    "pop2024": 6431430,
+    "pop2023": 6371960,
+    "city": "Toronto",
+    "country": "Canada",
+    "growthRate": 0.0093,
+    "type": "w",
+    "rank": 61
+  },
+  {
+    "population": 6324350,
+    "pop2024": 6324350,
+    "pop2023": 6198020,
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "growthRate": 0.0204,
+    "type": "w",
+    "rank": 62
+  },
+  {
+    "population": 6300410,
+    "pop2024": 6300410,
+    "pop2023": 6247890,
+    "city": "Belo Horizonte",
+    "country": "Brazil",
+    "growthRate": 0.0084,
+    "type": "w",
+    "rank": 63
+  },
+  {
+    "population": 6217490,
+    "pop2024": 6217490,
+    "pop2023": 6078000,
+    "city": "Dalian",
+    "country": "China",
+    "growthRate": 0.0229,
+    "type": "w",
+    "rank": 64
+  },
+  {
+    "population": 6119200,
+    "pop2024": 6119200,
+    "pop2023": 6080860,
+    "city": "Singapore",
+    "country": "Singapore",
+    "growthRate": 0.0063,
+    "type": "w",
+    "rank": 65
+  },
+  {
+    "population": 6104600,
+    "pop2024": 6104600,
+    "pop2023": 5986520,
+    "city": "Qingdao",
+    "country": "China",
+    "growthRate": 0.0197,
+    "type": "w",
+    "rank": 66
+  },
+  {
+    "population": 6014890,
+    "pop2024": 6014890,
+    "pop2023": 5859270,
+    "city": "Zhengzhou",
+    "country": "China",
+    "growthRate": 0.0266,
+    "type": "w",
+    "rank": 67
+  },
+  {
+    "population": 5940700,
+    "pop2024": 5940700,
+    "pop2023": 5806030,
+    "city": "Ji nan Shandong",
+    "country": "China",
+    "growthRate": 0.0232,
+    "type": "w",
+    "rank": 68
+  },
+  {
+    "population": 5866700,
+    "pop2024": 5866700,
+    "pop2023": 5686350,
+    "city": "Abidjan",
+    "country": "Ivory Coast",
+    "growthRate": 0.0317,
+    "type": "w",
+    "rank": 69
+  },
+  {
+    "population": 5711920,
+    "pop2024": 5711920,
+    "pop2023": 5687360,
+    "city": "Barcelona",
+    "country": "Spain",
+    "growthRate": 0.0043,
+    "type": "w",
+    "rank": 70
+  },
+  {
+    "population": 5709680,
+    "pop2024": 5709680,
+    "pop2023": 5610240,
+    "city": "Yangon",
+    "country": "Myanmar",
+    "growthRate": 0.0177,
+    "type": "w",
+    "rank": 71
+  },
+  {
+    "population": 5703630,
+    "pop2024": 5703630,
+    "pop2023": 5460590,
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "growthRate": 0.0445,
+    "type": "w",
+    "rank": 72
+  },
+  {
+    "population": 5696130,
+    "pop2024": 5696130,
+    "pop2023": 5588480,
+    "city": "Alexandria",
+    "country": "Egypt",
+    "growthRate": 0.0193,
+    "type": "w",
+    "rank": 73
+  },
+  {
+    "population": 5581710,
+    "pop2024": 5581710,
+    "pop2023": 5561290,
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "growthRate": 0.0037,
+    "type": "w",
+    "rank": 74
+  },
+  {
+    "population": 5541170,
+    "pop2024": 5541170,
+    "pop2023": 5325160,
+    "city": "Nairobi",
+    "country": "Kenya",
+    "growthRate": 0.0406,
+    "type": "w",
+    "rank": 75
+  },
+  {
+    "population": 5513610,
+    "pop2024": 5513610,
+    "pop2023": 5379660,
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "growthRate": 0.0249,
+    "type": "w",
+    "rank": 76
+  },
+  {
+    "population": 5499680,
+    "pop2024": 5499680,
+    "pop2023": 5419880,
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "growthRate": 0.0147,
+    "type": "w",
+    "rank": 77
+  },
+  {
+    "population": 5478080,
+    "pop2024": 5478080,
+    "pop2023": 5490270,
+    "city": "Fukuoka",
+    "country": "Japan",
+    "growthRate": -0.0022,
+    "type": "w",
+    "rank": 78
+  },
+  {
+    "population": 5477090,
+    "pop2024": 5477090,
+    "pop2023": 5397100,
+    "city": "Ankara",
+    "country": "Turkey",
+    "growthRate": 0.0148,
+    "type": "w",
+    "rank": 79
+  },
+  {
+    "population": 5431800,
+    "pop2024": 5431800,
+    "pop2023": 5253380,
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "growthRate": 0.034,
+    "type": "w",
+    "rank": 80
+  },
+  {
+    "population": 5315600,
+    "pop2024": 5315600,
+    "pop2023": 5235410,
+    "city": "Melbourne",
+    "country": "Australia",
+    "growthRate": 0.0153,
+    "type": "w",
+    "rank": 81
+  },
+  {
+    "population": 5195360,
+    "pop2024": 5195360,
+    "pop2023": 5116650,
+    "city": "Monterrey",
+    "country": "Mexico",
+    "growthRate": 0.0154,
+    "type": "w",
+    "rank": 82
+  },
+  {
+    "population": 5184900,
+    "pop2024": 5184900,
+    "pop2023": 5120890,
+    "city": "Sydney",
+    "country": "Australia",
+    "growthRate": 0.0125,
+    "type": "w",
+    "rank": 83
+  },
+  {
+    "population": 5027980,
+    "pop2024": 5027980,
+    "pop2023": 4921490,
+    "city": "Changsha",
+    "country": "China",
+    "growthRate": 0.0216,
+    "type": "w",
+    "rank": 84
+  },
+  {
+    "population": 5005960,
+    "pop2024": 5005960,
+    "pop2023": 4865040,
+    "city": "Urumqi",
+    "country": "China",
+    "growthRate": 0.029,
+    "type": "w",
+    "rank": 85
+  },
+  {
+    "population": 4977830,
+    "pop2024": 4977830,
+    "pop2023": 4890280,
+    "city": "Cape Town",
+    "country": "South Africa",
+    "growthRate": 0.0179,
+    "type": "w",
+    "rank": 86
+  },
+  {
+    "population": 4943210,
+    "pop2024": 4943210,
+    "pop2023": 4862940,
+    "city": "Jiddah",
+    "country": "Saudi Arabia",
+    "growthRate": 0.0165,
+    "type": "w",
+    "rank": 87
+  },
+  {
+    "population": 4935270,
+    "pop2024": 4935270,
+    "pop2023": 4873050,
+    "city": "Brasilia",
+    "country": "Brazil",
+    "growthRate": 0.0128,
+    "type": "w",
+    "rank": 88
+  },
+  {
+    "population": 4861080,
+    "pop2024": 4861080,
+    "pop2023": 4761280,
+    "city": "Kunming",
+    "country": "China",
+    "growthRate": 0.021,
+    "type": "w",
+    "rank": 89
+  },
+  {
+    "population": 4802450,
+    "pop2024": 4802450,
+    "pop2023": 4710380,
+    "city": "Changchun",
+    "country": "China",
+    "growthRate": 0.0195,
+    "type": "w",
+    "rank": 90
+  },
+  {
+    "population": 4728380,
+    "pop2024": 4728380,
+    "pop2023": 4588670,
+    "city": "Kabul",
+    "country": "Afghanistan",
+    "growthRate": 0.0304,
+    "type": "w",
+    "rank": 91
+  },
+  {
+    "population": 4727290,
+    "pop2024": 4727290,
+    "pop2023": 4615760,
+    "city": "Hefei",
+    "country": "China",
+    "growthRate": 0.0242,
+    "type": "w",
+    "rank": 92
+  },
+  {
+    "population": 4681770,
+    "pop2024": 4681770,
+    "pop2023": 4509290,
+    "city": "Yaounde",
+    "country": "Cameroon",
+    "growthRate": 0.0382,
+    "type": "w",
+    "rank": 93
+  },
+  {
+    "population": 4659830,
+    "pop2024": 4659830,
+    "pop2023": 4537900,
+    "city": "Ningbo",
+    "country": "China",
+    "growthRate": 0.0269,
+    "type": "w",
+    "rank": 94
+  },
+  {
+    "population": 4656520,
+    "pop2024": 4656520,
+    "pop2023": 4573710,
+    "city": "Shantou",
+    "country": "China",
+    "growthRate": 0.0181,
+    "type": "w",
+    "rank": 95
+  },
+  {
+    "population": 4534880,
+    "pop2024": 4534880,
+    "pop2023": 4504150,
+    "city": "New Taipei",
+    "country": "Taiwan",
+    "growthRate": 0.0068,
+    "type": "w",
+    "rank": 96
+  },
+  {
+    "population": 4495730,
+    "pop2024": 4495730,
+    "pop2023": 4420860,
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "growthRate": 0.0169,
+    "type": "w",
+    "rank": 97
+  },
+  {
+    "population": 4490730,
+    "pop2024": 4490730,
+    "pop2023": 4348480,
+    "city": "Kano",
+    "country": "Nigeria",
+    "growthRate": 0.0327,
+    "type": "w",
+    "rank": 98
+  },
+  {
+    "population": 4454130,
+    "pop2024": 4454130,
+    "pop2023": 4370470,
+    "city": "Shijiazhuang",
+    "country": "China",
+    "growthRate": 0.0191,
+    "type": "w",
+    "rank": 99
+  },
+  {
+    "population": 4341640,
+    "pop2024": 4341640,
+    "pop2023": 4307960,
+    "city": "Montreal",
+    "country": "Canada",
+    "growthRate": 0.0078,
+    "type": "w",
+    "rank": 100
+  },
+  {
+    "population": 4331970,
+    "pop2024": 4331970,
+    "pop2023": 4315670,
+    "city": "Rome",
+    "country": "Italy",
+    "growthRate": 0.0038,
+    "type": "w",
+    "rank": 101
+  },
+  {
+    "population": 4308510,
+    "pop2024": 4308510,
+    "pop2023": 4207080,
+    "city": "Jaipur",
+    "country": "India",
+    "growthRate": 0.0241,
+    "type": "w",
+    "rank": 102
+  },
+  {
+    "population": 4305130,
+    "pop2024": 4305130,
+    "pop2023": 4263940,
+    "city": "Recife",
+    "country": "Brazil",
+    "growthRate": 0.0097,
+    "type": "w",
+    "rank": 103
+  },
+  {
+    "population": 4291460,
+    "pop2024": 4291460,
+    "pop2023": 4191890,
+    "city": "Nanning",
+    "country": "China",
+    "growthRate": 0.0238,
+    "type": "w",
+    "rank": 104
+  },
+  {
+    "population": 4246400,
+    "pop2024": 4246400,
+    "pop2023": 4206240,
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "growthRate": 0.0095,
+    "type": "w",
+    "rank": 105
+  },
+  {
+    "population": 4243960,
+    "pop2024": 4243960,
+    "pop2023": 4088560,
+    "city": "Kozhikode",
+    "country": "India",
+    "growthRate": 0.038,
+    "type": "w",
+    "rank": 106
+  },
+  {
+    "population": 4239870,
+    "pop2024": 4239870,
+    "pop2023": 4211930,
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "growthRate": 0.0066,
+    "type": "w",
+    "rank": 107
+  },
+  {
+    "population": 4226780,
+    "pop2024": 4226780,
+    "pop2023": 4145010,
+    "city": "Taiyuan Shanxi",
+    "country": "China",
+    "growthRate": 0.0197,
+    "type": "w",
+    "rank": 108
+  },
+  {
+    "population": 4203110,
+    "pop2024": 4203110,
+    "pop2023": 4063200,
+    "city": "Douala",
+    "country": "Cameroon",
+    "growthRate": 0.0344,
+    "type": "w",
+    "rank": 109
+  },
+  {
+    "population": 4190830,
+    "pop2024": 4190830,
+    "pop2023": 4118330,
+    "city": "Ekurhuleni",
+    "country": "South Africa",
+    "growthRate": 0.0176,
+    "type": "w",
+    "rank": 110
+  },
+  {
+    "population": 4184920,
+    "pop2024": 4184920,
+    "pop2023": 4009090,
+    "city": "Malappuram",
+    "country": "India",
+    "growthRate": 0.0439,
+    "type": "w",
+    "rank": 111
+  },
+  {
+    "population": 4137390,
+    "pop2024": 4137390,
+    "pop2023": 4102310,
+    "city": "Medellin",
+    "country": "Colombia",
+    "growthRate": 0.0086,
+    "type": "w",
+    "rank": 112
+  },
+  {
+    "population": 4085500,
+    "pop2024": 4085500,
+    "pop2023": 3981660,
+    "city": "Changzhou",
+    "country": "China",
+    "growthRate": 0.0261,
+    "type": "w",
+    "rank": 113
+  },
+  {
+    "population": 4050830,
+    "pop2024": 4050830,
+    "pop2023": 3846100,
+    "city": "Kampala",
+    "country": "Uganda",
+    "growthRate": 0.0532,
+    "type": "w",
+    "rank": 114
+  },
+  {
+    "population": 4048670,
+    "pop2024": 4048670,
+    "pop2023": 3872260,
+    "city": "Antananarivo",
+    "country": "Madagascar",
+    "growthRate": 0.0456,
+    "type": "w",
+    "rank": 115
+  },
+  {
+    "population": 4038210,
+    "pop2024": 4038210,
+    "pop2023": 3945410,
+    "city": "Lucknow",
+    "country": "India",
+    "growthRate": 0.0235,
+    "type": "w",
+    "rank": 116
+  },
+  {
+    "population": 4025740,
+    "pop2024": 4025740,
+    "pop2023": 3839650,
+    "city": "Abuja",
+    "country": "Nigeria",
+    "growthRate": 0.0485,
+    "type": "w",
+    "rank": 117
+  },
+  {
+    "population": 4016040,
+    "pop2024": 4016040,
+    "pop2023": 3920380,
+    "city": "Nanchang",
+    "country": "China",
+    "growthRate": 0.0244,
+    "type": "w",
+    "rank": 118
+  },
+  {
+    "population": 4009530,
+    "pop2024": 4009530,
+    "pop2023": 3919720,
+    "city": "Wenzhou",
+    "country": "China",
+    "growthRate": 0.0229,
+    "type": "w",
+    "rank": 119
+  },
+  {
+    "population": 4007470,
+    "pop2024": 4007470,
+    "pop2023": 3935480,
+    "city": "Xiamen",
+    "country": "China",
+    "growthRate": 0.0183,
+    "type": "w",
+    "rank": 120
+  },
+  {
+    "population": 4004320,
+    "pop2024": 4004320,
+    "pop2023": 3874910,
+    "city": "Ibadan",
+    "country": "Nigeria",
+    "growthRate": 0.0334,
+    "type": "w",
+    "rank": 121
+  },
+  {
+    "population": 3998750,
+    "pop2024": 3998750,
+    "pop2023": 3922200,
+    "city": "Fuzhou Fujian",
+    "country": "China",
+    "growthRate": 0.0195,
+    "type": "w",
+    "rank": 122
+  },
+  {
+    "population": 3994980,
+    "pop2024": 3994980,
+    "pop2023": 3958380,
+    "city": "Salvador",
+    "country": "Brazil",
+    "growthRate": 0.0092,
+    "type": "w",
+    "rank": 123
+  },
+  {
+    "population": 3950410,
+    "pop2024": 3950410,
+    "pop2023": 3892840,
+    "city": "Casablanca",
+    "country": "Morocco",
+    "growthRate": 0.0148,
+    "type": "w",
+    "rank": 124
+  },
+  {
+    "population": 3925210,
+    "pop2024": 3925210,
+    "pop2023": 3814700,
+    "city": "Tangshan Hebei",
+    "country": "China",
+    "growthRate": 0.029,
+    "type": "w",
+    "rank": 125
+  },
+  {
+    "population": 3903480,
+    "pop2024": 3903480,
+    "pop2023": 3768240,
+    "city": "Kumasi",
+    "country": "Ghana",
+    "growthRate": 0.0359,
+    "type": "w",
+    "rank": 126
+  },
+  {
+    "population": 3852460,
+    "pop2024": 3852460,
+    "pop2023": 3813080,
+    "city": "Curitiba",
+    "country": "Brazil",
+    "growthRate": 0.0103,
+    "type": "w",
+    "rank": 127
+  },
+  {
+    "population": 3830680,
+    "pop2024": 3830680,
+    "pop2023": 3729350,
+    "city": "Bekasi",
+    "country": "Indonesia",
+    "growthRate": 0.0272,
+    "type": "w",
+    "rank": 128
+  },
+  {
+    "population": 3800190,
+    "pop2024": 3800190,
+    "pop2023": 3710840,
+    "city": "Faisalabad",
+    "country": "Pakistan",
+    "growthRate": 0.0241,
+    "type": "w",
+    "rank": 129
+  },
+  {
+    "population": 3795936,
+    "pop2024": 3795936,
+    "pop2023": 3820914,
+    "city": "Los Angeles",
+    "country": "United States",
+    "growthRate": -0.0065,
+    "type": "us",
+    "rank": 130
+  },
+  {
+    "population": 3661450,
+    "pop2024": 3661450,
+    "pop2023": 3580900,
+    "city": "Guiyang",
+    "country": "China",
+    "growthRate": 0.0225,
+    "type": "w",
+    "rank": 131
+  },
+  {
+    "population": 3636550,
+    "pop2024": 3636550,
+    "pop2023": 3480100,
+    "city": "Port Harcourt",
+    "country": "Nigeria",
+    "growthRate": 0.045,
+    "type": "w",
+    "rank": 132
+  },
+  {
+    "population": 3605240,
+    "pop2024": 3605240,
+    "pop2023": 3482460,
+    "city": "Thrissur",
+    "country": "India",
+    "growthRate": 0.0353,
+    "type": "w",
+    "rank": 133
+  },
+  {
+    "population": 3587400,
+    "pop2024": 3587400,
+    "pop2023": 3523890,
+    "city": "Santo Domingo",
+    "country": "Dominican Republic",
+    "growthRate": 0.018,
+    "type": "w",
+    "rank": 134
+  },
+  {
+    "population": 3576870,
+    "pop2024": 3576870,
+    "pop2023": 3573940,
+    "city": "Berlin",
+    "country": "Germany",
+    "growthRate": 0.0008,
+    "type": "w",
+    "rank": 135
+  },
+  {
+    "population": 3568830,
+    "pop2024": 3568830,
+    "pop2023": 3510510,
+    "city": "Asuncion",
+    "country": "Paraguay",
+    "growthRate": 0.0166,
+    "type": "w",
+    "rank": 136
+  },
+  {
+    "population": 3540460,
+    "pop2024": 3540460,
+    "pop2023": 3429540,
+    "city": "Dakar",
+    "country": "Senegal",
+    "growthRate": 0.0323,
+    "type": "w",
+    "rank": 137
+  },
+  {
+    "population": 3507050,
+    "pop2024": 3507050,
+    "pop2023": 3406060,
+    "city": "Kochi",
+    "country": "India",
+    "growthRate": 0.0297,
+    "type": "w",
+    "rank": 138
+  },
+  {
+    "population": 3498740,
+    "pop2024": 3498740,
+    "pop2023": 3437350,
+    "city": "Wuxi",
+    "country": "China",
+    "growthRate": 0.0179,
+    "type": "w",
+    "rank": 139
+  },
+  {
+    "population": 3477420,
+    "pop2024": 3477420,
+    "pop2023": 3471950,
+    "city": "Busan",
+    "country": "South Korea",
+    "growthRate": 0.0016,
+    "type": "w",
+    "rank": 140
+  },
+  {
+    "population": 3458440,
+    "pop2024": 3458440,
+    "pop2023": 3422800,
+    "city": "Campinas",
+    "country": "Brazil",
+    "growthRate": 0.0104,
+    "type": "w",
+    "rank": 141
+  },
+  {
+    "population": 3415530,
+    "pop2024": 3415530,
+    "pop2023": 3367850,
+    "city": "Mashhad",
+    "country": "Iran",
+    "growthRate": 0.0142,
+    "type": "w",
+    "rank": 142
+  },
+  {
+    "population": 3407810,
+    "pop2024": 3407810,
+    "pop2023": 3292500,
+    "city": "Sanaa",
+    "country": "Yemen",
+    "growthRate": 0.035,
+    "type": "w",
+    "rank": 143
+  },
+  {
+    "population": 3394340,
+    "pop2024": 3394340,
+    "pop2023": 3344760,
+    "city": "Puebla",
+    "country": "Mexico",
+    "growthRate": 0.0148,
+    "type": "w",
+    "rank": 144
+  },
+  {
+    "population": 3393380,
+    "pop2024": 3393380,
+    "pop2023": 3302080,
+    "city": "Indore",
+    "country": "India",
+    "growthRate": 0.0276,
+    "type": "w",
+    "rank": 145
+  },
+  {
+    "population": 3365910,
+    "pop2024": 3365910,
+    "pop2023": 3297530,
+    "city": "Lanzhou",
+    "country": "China",
+    "growthRate": 0.0207,
+    "type": "w",
+    "rank": 146
+  },
+  {
+    "population": 3358930,
+    "pop2024": 3358930,
+    "pop2023": 3203920,
+    "city": "Ouagadougou",
+    "country": "Burkina Faso",
+    "growthRate": 0.0484,
+    "type": "w",
+    "rank": 147
+  },
+  {
+    "population": 3353600,
+    "pop2024": 3353600,
+    "pop2023": 3297760,
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "growthRate": 0.0169,
+    "type": "w",
+    "rank": 148
+  },
+  {
+    "population": 3324220,
+    "pop2024": 3324220,
+    "pop2023": 3181250,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "growthRate": 0.0449,
+    "type": "w",
+    "rank": 149
+  },
+  {
+    "population": 3286140,
+    "pop2024": 3286140,
+    "pop2023": 3234160,
+    "city": "Kanpur",
+    "country": "India",
+    "growthRate": 0.0161,
+    "type": "w",
+    "rank": 150
+  },
+  {
+    "population": 3262130,
+    "pop2024": 3262130,
+    "pop2023": 3228000,
+    "city": "Durban",
+    "country": "South Africa",
+    "growthRate": 0.0106,
+    "type": "w",
+    "rank": 151
+  },
+  {
+    "population": 3193270,
+    "pop2024": 3193270,
+    "pop2023": 3142470,
+    "city": "Guayaquil",
+    "country": "Ecuador",
+    "growthRate": 0.0162,
+    "type": "w",
+    "rank": 152
+  },
+  {
+    "population": 3183140,
+    "pop2024": 3183140,
+    "pop2023": 3157540,
+    "city": "Pyongyang",
+    "country": "North Korea",
+    "growthRate": 0.0081,
+    "type": "w",
+    "rank": 153
+  },
+  {
+    "population": 3160630,
+    "pop2024": 3160630,
+    "pop2023": 3154570,
+    "city": "Milan",
+    "country": "Italy",
+    "growthRate": 0.0019,
+    "type": "w",
+    "rank": 154
+  },
+  {
+    "population": 3159630,
+    "pop2024": 3159630,
+    "pop2023": 3095100,
+    "city": "Guatemala City",
+    "country": "Guatemala",
+    "growthRate": 0.0208,
+    "type": "w",
+    "rank": 155
+  },
+  {
+    "population": 3154590,
+    "pop2024": 3154590,
+    "pop2023": 3154460,
+    "city": "Athens",
+    "country": "Greece",
+    "growthRate": 0,
+    "type": "w",
+    "rank": 156
+  },
+  {
+    "population": 3133300,
+    "pop2024": 3133300,
+    "pop2023": 3041230,
+    "city": "Depok",
+    "country": "Indonesia",
+    "growthRate": 0.0303,
+    "type": "w",
+    "rank": 157
+  },
+  {
+    "population": 3120340,
+    "pop2024": 3120340,
+    "pop2023": 3088410,
+    "city": "Izmir",
+    "country": "Turkey",
+    "growthRate": 0.0103,
+    "type": "w",
+    "rank": 158
+  },
+  {
+    "population": 3106340,
+    "pop2024": 3106340,
+    "pop2023": 3046690,
+    "city": "Nagpur",
+    "country": "India",
+    "growthRate": 0.0196,
+    "type": "w",
+    "rank": 159
+  },
+  {
+    "population": 3088750,
+    "pop2024": 3088750,
+    "pop2023": 3044410,
+    "city": "Surabaya",
+    "country": "Indonesia",
+    "growthRate": 0.0146,
+    "type": "w",
+    "rank": 160
+  },
+  {
+    "population": 3086000,
+    "pop2024": 3086000,
+    "pop2023": 3005410,
+    "city": "Handan",
+    "country": "China",
+    "growthRate": 0.0268,
+    "type": "w",
+    "rank": 161
+  },
+  {
+    "population": 3083720,
+    "pop2024": 3083720,
+    "pop2023": 3009050,
+    "city": "Coimbatore",
+    "country": "India",
+    "growthRate": 0.0248,
+    "type": "w",
+    "rank": 162
+  },
+  {
+    "population": 3071050,
+    "pop2024": 3071050,
+    "pop2023": 2979890,
+    "city": "Huaian",
+    "country": "China",
+    "growthRate": 0.0306,
+    "type": "w",
+    "rank": 163
+  },
+  {
+    "population": 3060170,
+    "pop2024": 3060170,
+    "pop2023": 2987460,
+    "city": "Port-au-Prince",
+    "country": "Haiti",
+    "growthRate": 0.0243,
+    "type": "w",
+    "rank": 164
+  },
+  {
+    "population": 3051060,
+    "pop2024": 3051060,
+    "pop2023": 3010680,
+    "city": "Zhongshan",
+    "country": "China",
+    "growthRate": 0.0134,
+    "type": "w",
+    "rank": 165
+  },
+  {
+    "population": 3051020,
+    "pop2024": 3051020,
+    "pop2023": 3007580,
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "growthRate": 0.0144,
+    "type": "w",
+    "rank": 166
+  },
+  {
+    "population": 3050570,
+    "pop2024": 3050570,
+    "pop2023": 2929370,
+    "city": "Bamako",
+    "country": "Mali",
+    "growthRate": 0.0414,
+    "type": "w",
+    "rank": 167
+  },
+  {
+    "population": 3022860,
+    "pop2024": 3022860,
+    "pop2023": 2891750,
+    "city": "Mbuji-Mayi",
+    "country": "DR Congo",
+    "growthRate": 0.0453,
+    "type": "w",
+    "rank": 168
+  },
+  {
+    "population": 3020230,
+    "pop2024": 3020230,
+    "pop2023": 3016790,
+    "city": "Kiev",
+    "country": "Ukraine",
+    "growthRate": 0.0011,
+    "type": "w",
+    "rank": 169
+  },
+  {
+    "population": 3014610,
+    "pop2024": 3014610,
+    "pop2023": 3000540,
+    "city": "Lisbon",
+    "country": "Portugal",
+    "growthRate": 0.0047,
+    "type": "w",
+    "rank": 170
+  },
+  {
+    "population": 2994540,
+    "pop2024": 2994540,
+    "pop2023": 2917820,
+    "city": "Weifang",
+    "country": "China",
+    "growthRate": 0.0263,
+    "type": "w",
+    "rank": 171
+  },
+  {
+    "population": 2991730,
+    "pop2024": 2991730,
+    "pop2023": 2972140,
+    "city": "Caracas",
+    "country": "Venezuela",
+    "growthRate": 0.0066,
+    "type": "w",
+    "rank": 172
+  },
+  {
+    "population": 2984150,
+    "pop2024": 2984150,
+    "pop2023": 2891120,
+    "city": "Thiruvananthapuram",
+    "country": "India",
+    "growthRate": 0.0322,
+    "type": "w",
+    "rank": 173
+  },
+  {
+    "population": 2952120,
+    "pop2024": 2952120,
+    "pop2023": 2901810,
+    "city": "Algiers",
+    "country": "Algeria",
+    "growthRate": 0.0173,
+    "type": "w",
+    "rank": 174
+  },
+  {
+    "population": 2935530,
+    "pop2024": 2935530,
+    "pop2023": 2937360,
+    "city": "Shizuoka",
+    "country": "Japan",
+    "growthRate": -0.0006,
+    "type": "w",
+    "rank": 175
+  },
+  {
+    "population": 2933960,
+    "pop2024": 2933960,
+    "pop2023": 2811960,
+    "city": "Lubumbashi",
+    "country": "DR Congo",
+    "growthRate": 0.0434,
+    "type": "w",
+    "rank": 176
+  },
+  {
+    "population": 2890430,
+    "pop2024": 2890430,
+    "pop2023": 2863730,
+    "city": "Cali",
+    "country": "Colombia",
+    "growthRate": 0.0093,
+    "type": "w",
+    "rank": 177
+  },
+  {
+    "population": 2890420,
+    "pop2024": 2890420,
+    "pop2023": 2848470,
+    "city": "Goiania",
+    "country": "Brazil",
+    "growthRate": 0.0147,
+    "type": "w",
+    "rank": 178
+  },
+  {
+    "population": 2889900,
+    "pop2024": 2889900,
+    "pop2023": 2818100,
+    "city": "Pretoria",
+    "country": "South Africa",
+    "growthRate": 0.0255,
+    "type": "w",
+    "rank": 179
+  },
+  {
+    "population": 2882170,
+    "pop2024": 2882170,
+    "pop2023": 2805650,
+    "city": "Shaoxing",
+    "country": "China",
+    "growthRate": 0.0273,
+    "type": "w",
+    "rank": 180
+  },
+  {
+    "population": 2861690,
+    "pop2024": 2861690,
+    "pop2023": 2848560,
+    "city": "Incheon",
+    "country": "South Korea",
+    "growthRate": 0.0046,
+    "type": "w",
+    "rank": 181
+  },
+  {
+    "population": 2834510,
+    "pop2024": 2834510,
+    "pop2023": 2764580,
+    "city": "Yantai",
+    "country": "China",
+    "growthRate": 0.0253,
+    "type": "w",
+    "rank": 182
+  },
+  {
+    "population": 2828440,
+    "pop2024": 2828440,
+    "pop2023": 2780140,
+    "city": "Zibo",
+    "country": "China",
+    "growthRate": 0.0174,
+    "type": "w",
+    "rank": 183
+  },
+  {
+    "population": 2827610,
+    "pop2024": 2827610,
+    "pop2023": 2758590,
+    "city": "Huizhou",
+    "country": "China",
+    "growthRate": 0.025,
+    "type": "w",
+    "rank": 184
+  },
+  {
+    "population": 2811760,
+    "pop2024": 2811760,
+    "pop2023": 2791000,
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "growthRate": 0.0074,
+    "type": "w",
+    "rank": 185
+  },
+  {
+    "population": 2766330,
+    "pop2024": 2766330,
+    "pop2023": 2754200,
+    "city": "Taipei",
+    "country": "Taiwan",
+    "growthRate": 0.0044,
+    "type": "w",
+    "rank": 186
+  },
+  {
+    "population": 2726820,
+    "pop2024": 2726820,
+    "pop2023": 2610480,
+    "city": "Mogadishu",
+    "country": "Somalia",
+    "growthRate": 0.0446,
+    "type": "w",
+    "rank": 187
+  },
+  {
+    "population": 2724570,
+    "pop2024": 2724570,
+    "pop2023": 2637730,
+    "city": "Brazzaville",
+    "country": "Republic of the Congo",
+    "growthRate": 0.0329,
+    "type": "w",
+    "rank": 188
+  },
+  {
+    "population": 2721160,
+    "pop2024": 2721160,
+    "pop2023": 2660070,
+    "city": "Accra",
+    "country": "Ghana",
+    "growthRate": 0.023,
+    "type": "w",
+    "rank": 189
+  },
+  {
+    "population": 2714220,
+    "pop2024": 2714220,
+    "pop2023": 2674000,
+    "city": "Bandung",
+    "country": "Indonesia",
+    "growthRate": 0.015,
+    "type": "w",
+    "rank": 190
+  },
+  {
+    "population": 2685360,
+    "pop2024": 2685360,
+    "pop2023": 2584770,
+    "city": "Damascus",
+    "country": "Syria",
+    "growthRate": 0.0389,
+    "type": "w",
+    "rank": 191
+  },
+  {
+    "population": 2684810,
+    "pop2024": 2684810,
+    "pop2023": 2665100,
+    "city": "Birmingham",
+    "country": "United Kingdom",
+    "growthRate": 0.0074,
+    "type": "w",
+    "rank": 192
+  },
+  {
+    "population": 2682510,
+    "pop2024": 2682510,
+    "pop2023": 2657090,
+    "city": "Vancouver",
+    "country": "Canada",
+    "growthRate": 0.0096,
+    "type": "w",
+    "rank": 193
+  },
+  {
+    "population": 2674340,
+    "pop2024": 2674340,
+    "pop2023": 2626370,
+    "city": "Toluca de Lerdo",
+    "country": "Mexico",
+    "growthRate": 0.0183,
+    "type": "w",
+    "rank": 194
+  },
+  {
+    "population": 2666740,
+    "pop2024": 2666740,
+    "pop2023": 2602790,
+    "city": "Luoyang",
+    "country": "China",
+    "growthRate": 0.0246,
+    "type": "w",
+    "rank": 195
+  },
+  {
+    "population": 2660950,
+    "pop2024": 2660950,
+    "pop2023": 2666110,
+    "city": "Sapporo",
+    "country": "Japan",
+    "growthRate": -0.0019,
+    "type": "w",
+    "rank": 196
+  },
+  {
+    "population": 2638159,
+    "pop2024": 2638159,
+    "pop2023": 2664452,
+    "city": "Chicago",
+    "country": "United States",
+    "growthRate": -0.0099,
+    "type": "us",
+    "rank": 197
+  },
+  {
+    "population": 2633660,
+    "pop2024": 2633660,
+    "pop2023": 2603240,
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "growthRate": 0.0117,
+    "type": "w",
+    "rank": 198
+  },
+  {
+    "population": 2633240,
+    "pop2024": 2633240,
+    "pop2023": 2579760,
+    "city": "Patna",
+    "country": "India",
+    "growthRate": 0.0207,
+    "type": "w",
+    "rank": 199
+  },
+  {
+    "population": 2624860,
+    "pop2024": 2624860,
+    "pop2023": 2564500,
+    "city": "Bhopal",
+    "country": "India",
+    "growthRate": 0.0235,
+    "type": "w",
+    "rank": 200
+  },
+  {
+    "population": 2570980,
+    "pop2024": 2570980,
+    "pop2023": 2514080,
+    "city": "Tangerang",
+    "country": "Indonesia",
+    "growthRate": 0.0226,
+    "type": "w",
+    "rank": 201
+  },
+  {
+    "population": 2555720,
+    "pop2024": 2555720,
+    "pop2023": 2492230,
+    "city": "Nantong",
+    "country": "China",
+    "growthRate": 0.0255,
+    "type": "w",
+    "rank": 202
+  },
+  {
+    "population": 2536450,
+    "pop2024": 2536450,
+    "pop2023": 2504500,
+    "city": "Brisbane",
+    "country": "Australia",
+    "growthRate": 0.0128,
+    "type": "w",
+    "rank": 203
+  },
+  {
+    "population": 2510670,
+    "pop2024": 2510670,
+    "pop2023": 2475450,
+    "city": "Tunis",
+    "country": "Tunisia",
+    "growthRate": 0.0142,
+    "type": "w",
+    "rank": 204
+  },
+  {
+    "population": 2480550,
+    "pop2024": 2480550,
+    "pop2023": 2411780,
+    "city": "Peshawar",
+    "country": "Pakistan",
+    "growthRate": 0.0285,
+    "type": "w",
+    "rank": 205
+  },
+  {
+    "population": 2479070,
+    "pop2024": 2479070,
+    "pop2023": 2439050,
+    "city": "Medan",
+    "country": "Indonesia",
+    "growthRate": 0.0164,
+    "type": "w",
+    "rank": 206
+  },
+  {
+    "population": 2479060,
+    "pop2024": 2479060,
+    "pop2023": 2415420,
+    "city": "Gujranwala",
+    "country": "Pakistan",
+    "growthRate": 0.0263,
+    "type": "w",
+    "rank": 207
+  },
+  {
+    "population": 2464160,
+    "pop2024": 2464160,
+    "pop2023": 2432300,
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "growthRate": 0.0131,
+    "type": "w",
+    "rank": 208
+  },
+  {
+    "population": 2443690,
+    "pop2024": 2443690,
+    "pop2023": 2380640,
+    "city": "Hohhot",
+    "country": "China",
+    "growthRate": 0.0265,
+    "type": "w",
+    "rank": 209
+  },
+  {
+    "population": 2436620,
+    "pop2024": 2436620,
+    "pop2023": 2439560,
+    "city": "San Juan",
+    "country": "Puerto Rico",
+    "growthRate": -0.0012,
+    "type": "w",
+    "rank": 210
+  },
+  {
+    "population": 2432180,
+    "pop2024": 2432180,
+    "pop2023": 2409410,
+    "city": "Belem",
+    "country": "Brazil",
+    "growthRate": 0.0095,
+    "type": "w",
+    "rank": 211
+  },
+  {
+    "population": 2430390,
+    "pop2024": 2430390,
+    "pop2023": 2377320,
+    "city": "Rawalpindi",
+    "country": "Pakistan",
+    "growthRate": 0.0223,
+    "type": "w",
+    "rank": 212
+  },
+  {
+    "population": 2422340,
+    "pop2024": 2422340,
+    "pop2023": 2367550,
+    "city": "Agra",
+    "country": "India",
+    "growthRate": 0.0231,
+    "type": "w",
+    "rank": 213
+  },
+  {
+    "population": 2406850,
+    "pop2024": 2406850,
+    "pop2023": 2375640,
+    "city": "Manaus",
+    "country": "Brazil",
+    "growthRate": 0.0131,
+    "type": "w",
+    "rank": 214
+  },
+  {
+    "population": 2405660,
+    "pop2024": 2405660,
+    "pop2023": 2346140,
+    "city": "Kannur",
+    "country": "India",
+    "growthRate": 0.0254,
+    "type": "w",
+    "rank": 215
+  },
+  {
+    "population": 2402480,
+    "pop2024": 2402480,
+    "pop2023": 2421350,
+    "city": "Beirut",
+    "country": "Lebanon",
+    "growthRate": -0.0078,
+    "type": "w",
+    "rank": 216
+  },
+  {
+    "population": 2400830,
+    "pop2024": 2400830,
+    "pop2023": 2367630,
+    "city": "Maracaibo",
+    "country": "Venezuela",
+    "growthRate": 0.014,
+    "type": "w",
+    "rank": 217
+  },
+  {
+    "population": 2397410,
+    "pop2024": 2397410,
+    "pop2023": 2343450,
+    "city": "Liuzhou",
+    "country": "China",
+    "growthRate": 0.023,
+    "type": "w",
+    "rank": 218
+  },
+  {
+    "population": 2385110,
+    "pop2024": 2385110,
+    "pop2023": 2330930,
+    "city": "Visakhapatnam",
+    "country": "India",
+    "growthRate": 0.0232,
+    "type": "w",
+    "rank": 219
+  },
+  {
+    "population": 2381240,
+    "pop2024": 2381240,
+    "pop2023": 2334880,
+    "city": "Baotou",
+    "country": "China",
+    "growthRate": 0.0199,
+    "type": "w",
+    "rank": 220
+  },
+  {
+    "population": 2373360,
+    "pop2024": 2373360,
+    "pop2023": 2324080,
+    "city": "Vadodara",
+    "country": "India",
+    "growthRate": 0.0212,
+    "type": "w",
+    "rank": 221
+  },
+  {
+    "population": 2373300,
+    "pop2024": 2373300,
+    "pop2023": 2349400,
+    "city": "Barranquilla",
+    "country": "Colombia",
+    "growthRate": 0.0102,
+    "type": "w",
+    "rank": 222
+  },
+  {
+    "population": 2352680,
+    "pop2024": 2352680,
+    "pop2023": 2281200,
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "growthRate": 0.0313,
+    "type": "w",
+    "rank": 223
+  },
+  {
+    "population": 2341430,
+    "pop2024": 2341430,
+    "pop2023": 2342300,
+    "city": "Sendai",
+    "country": "Japan",
+    "growthRate": -0.0004,
+    "type": "w",
+    "rank": 224
+  },
+  {
+    "population": 2338720,
+    "pop2024": 2338720,
+    "pop2023": 2318850,
+    "city": "Taoyuan",
+    "country": "Taiwan",
+    "growthRate": 0.0086,
+    "type": "w",
+    "rank": 225
+  },
+  {
+    "population": 2332530,
+    "pop2024": 2332530,
+    "pop2023": 2287170,
+    "city": "Xuzhou",
+    "country": "China",
+    "growthRate": 0.0198,
+    "type": "w",
+    "rank": 226
+  },
+  {
+    "population": 2319119,
+    "pop2024": 2319119,
+    "pop2023": 2314157,
+    "city": "Houston",
+    "country": "United States",
+    "growthRate": 0.0021,
+    "type": "us",
+    "rank": 227
+  },
+  {
+    "population": 2317650,
+    "pop2024": 2317650,
+    "pop2023": 2203020,
+    "city": "Aleppo",
+    "country": "Syria",
+    "growthRate": 0.052,
+    "type": "w",
+    "rank": 228
+  },
+  {
+    "population": 2297220,
+    "pop2024": 2297220,
+    "pop2023": 2259790,
+    "city": "Tijuana",
+    "country": "Mexico",
+    "growthRate": 0.0166,
+    "type": "w",
+    "rank": 229
+  },
+  {
+    "population": 2294590,
+    "pop2024": 2294590,
+    "pop2023": 2258400,
+    "city": "Esfahan",
+    "country": "Iran",
+    "growthRate": 0.016,
+    "type": "w",
+    "rank": 230
+  },
+  {
+    "population": 2294300,
+    "pop2024": 2294300,
+    "pop2023": 2237370,
+    "city": "Nashik",
+    "country": "India",
+    "growthRate": 0.0254,
+    "type": "w",
+    "rank": 231
+  },
+  {
+    "population": 2290780,
+    "pop2024": 2290780,
+    "pop2023": 2229760,
+    "city": "Vijayawada",
+    "country": "India",
+    "growthRate": 0.0274,
+    "type": "w",
+    "rank": 232
+  },
+  {
+    "population": 2252690,
+    "pop2024": 2252690,
+    "pop2023": 2232240,
+    "city": "Amman",
+    "country": "Jordan",
+    "growthRate": 0.0092,
+    "type": "w",
+    "rank": 233
+  },
+  {
+    "population": 2250100,
+    "pop2024": 2250100,
+    "pop2023": 2176020,
+    "city": "Putian",
+    "country": "China",
+    "growthRate": 0.034,
+    "type": "w",
+    "rank": 234
+  },
+  {
+    "population": 2205410,
+    "pop2024": 2205410,
+    "pop2023": 2154600,
+    "city": "Multan",
+    "country": "Pakistan",
+    "growthRate": 0.0236,
+    "type": "w",
+    "rank": 235
+  },
+  {
+    "population": 2196820,
+    "pop2024": 2196820,
+    "pop2023": 2170510,
+    "city": "Grande Vitoria",
+    "country": "Brazil",
+    "growthRate": 0.0121,
+    "type": "w",
+    "rank": 236
+  },
+  {
+    "population": 2195260,
+    "pop2024": 2195260,
+    "pop2023": 2124800,
+    "city": "Wuhu Anhui",
+    "country": "China",
+    "growthRate": 0.0332,
+    "type": "w",
+    "rank": 237
+  },
+  {
+    "population": 2184560,
+    "pop2024": 2184560,
+    "pop2023": 2149930,
+    "city": "Mecca",
+    "country": "Saudi Arabia",
+    "growthRate": 0.0161,
+    "type": "w",
+    "rank": 238
+  },
+  {
+    "population": 2181940,
+    "pop2024": 2181940,
+    "pop2023": 2106610,
+    "city": "Kollam",
+    "country": "India",
+    "growthRate": 0.0358,
+    "type": "w",
+    "rank": 239
+  },
+  {
+    "population": 2180030,
+    "pop2024": 2180030,
+    "pop2023": 2179380,
+    "city": "Naples",
+    "country": "Italy",
+    "growthRate": 0.0003,
+    "type": "w",
+    "rank": 240
+  },
+  {
+    "population": 2179930,
+    "pop2024": 2179930,
+    "pop2023": 2181000,
+    "city": "Daegu",
+    "country": "South Korea",
+    "growthRate": -0.0005,
+    "type": "w",
+    "rank": 241
+  },
+  {
+    "population": 2178600,
+    "pop2024": 2178600,
+    "pop2023": 2110940,
+    "city": "Conakry",
+    "country": "Guinea",
+    "growthRate": 0.0321,
+    "type": "w",
+    "rank": 242
+  },
+  {
+    "population": 2175100,
+    "pop2024": 2175100,
+    "pop2023": 2131290,
+    "city": "Yangzhou",
+    "country": "China",
+    "growthRate": 0.0206,
+    "type": "w",
+    "rank": 243
+  },
+  {
+    "population": 2152520,
+    "pop2024": 2152520,
+    "pop2023": 2148930,
+    "city": "Havana",
+    "country": "Cuba",
+    "growthRate": 0.0017,
+    "type": "w",
+    "rank": 244
+  },
+  {
+    "population": 2152230,
+    "pop2024": 2152230,
+    "pop2023": 2102140,
+    "city": "Taizhou Zhejiang",
+    "country": "China",
+    "growthRate": 0.0238,
+    "type": "w",
+    "rank": 245
+  },
+  {
+    "population": 2149700,
+    "pop2024": 2149700,
+    "pop2023": 2107540,
+    "city": "Baoding",
+    "country": "China",
+    "growthRate": 0.02,
+    "type": "w",
+    "rank": 246
+  },
+  {
+    "population": 2143490,
+    "pop2024": 2143490,
+    "pop2023": 2118000,
+    "city": "Perth",
+    "country": "Australia",
+    "growthRate": 0.012,
+    "type": "w",
+    "rank": 247
+  },
+  {
+    "population": 2132180,
+    "pop2024": 2132180,
+    "pop2023": 2121990,
+    "city": "Brussels",
+    "country": "Belgium",
+    "growthRate": 0.0048,
+    "type": "w",
+    "rank": 248
+  },
+  {
+    "population": 2120050,
+    "pop2024": 2120050,
+    "pop2023": 2076360,
+    "city": "Linyi Shandong",
+    "country": "China",
+    "growthRate": 0.021,
+    "type": "w",
+    "rank": 249
+  },
+  {
+    "population": 2115510,
+    "pop2024": 2115510,
+    "pop2023": 2086320,
+    "city": "Bursa",
+    "country": "Turkey",
+    "growthRate": 0.014,
+    "type": "w",
+    "rank": 250
+  },
+  {
+    "population": 2096980,
+    "pop2024": 2096980,
+    "pop2023": 2043110,
+    "city": "Rajkot",
+    "country": "India",
+    "growthRate": 0.0264,
+    "type": "w",
+    "rank": 251
+  },
+  {
+    "population": 2064730,
+    "pop2024": 2064730,
+    "pop2023": 2057260,
+    "city": "Minsk",
+    "country": "Belarus",
+    "growthRate": 0.0036,
+    "type": "w",
+    "rank": 252
+  },
+  {
+    "population": 2062880,
+    "pop2024": 2062880,
+    "pop2023": 2067590,
+    "city": "Hiroshima",
+    "country": "Japan",
+    "growthRate": -0.0023,
+    "type": "w",
+    "rank": 253
+  },
+  {
+    "population": 2056650,
+    "pop2024": 2056650,
+    "pop2023": 2016090,
+    "city": "Haikou",
+    "country": "China",
+    "growthRate": 0.0201,
+    "type": "w",
+    "rank": 254
+  },
+  {
+    "population": 2044370,
+    "pop2024": 2044370,
+    "pop2023": 2000660,
+    "city": "Daqing",
+    "country": "China",
+    "growthRate": 0.0218,
+    "type": "w",
+    "rank": 255
+  },
+  {
+    "population": 2042730,
+    "pop2024": 2042730,
+    "pop2023": 1981620,
+    "city": "Lome",
+    "country": "Togo",
+    "growthRate": 0.0308,
+    "type": "w",
+    "rank": 256
+  },
+  {
+    "population": 2035630,
+    "pop2024": 2035630,
+    "pop2023": 1986440,
+    "city": "Lianyungang",
+    "country": "China",
+    "growthRate": 0.0248,
+    "type": "w",
+    "rank": 257
+  },
+  {
+    "population": 2034330,
+    "pop2024": 2034330,
+    "pop2023": 1993460,
+    "city": "Yancheng Jiangsu",
+    "country": "China",
+    "growthRate": 0.0205,
+    "type": "w",
+    "rank": 258
+  },
+  {
+    "population": 2015740,
+    "pop2024": 2015740,
+    "pop2023": 1976870,
+    "city": "Panama City",
+    "country": "Panama",
+    "growthRate": 0.0197,
+    "type": "w",
+    "rank": 259
+  },
+  {
+    "population": 2015210,
+    "pop2024": 2015210,
+    "pop2023": 1987300,
+    "city": "Almaty",
+    "country": "Kazakhstan",
+    "growthRate": 0.014,
+    "type": "w",
+    "rank": 260
+  },
+  {
+    "population": 2013570,
+    "pop2024": 2013570,
+    "pop2023": 1975310,
+    "city": "Semarang",
+    "country": "Indonesia",
+    "growthRate": 0.0194,
+    "type": "w",
+    "rank": 261
+  },
+  {
+    "population": 2011960,
+    "pop2024": 2011960,
+    "pop2023": 1967680,
+    "city": "Hyderabad",
+    "country": "Pakistan",
+    "growthRate": 0.0225,
+    "type": "w",
+    "rank": 262
+  },
+  {
+    "population": 2007260,
+    "pop2024": 2007260,
+    "pop2023": 1983440,
+    "city": "Valencia",
+    "country": "Venezuela",
+    "growthRate": 0.012,
+    "type": "w",
+    "rank": 263
+  },
+  {
+    "population": 1991460,
+    "pop2024": 1991460,
+    "pop2023": 1949400,
+    "city": "Davao City",
+    "country": "Philippines",
+    "growthRate": 0.0216,
+    "type": "w",
+    "rank": 264
+  },
+  {
+    "population": 1990490,
+    "pop2024": 1990490,
+    "pop2023": 1975270,
+    "city": "Vienna",
+    "country": "Austria",
+    "growthRate": 0.0077,
+    "type": "w",
+    "rank": 265
+  },
+  {
+    "population": 1989200,
+    "pop2024": 1989200,
+    "pop2023": 1959390,
+    "city": "Rabat",
+    "country": "Morocco",
+    "growthRate": 0.0152,
+    "type": "w",
+    "rank": 266
+  },
+  {
+    "population": 1988440,
+    "pop2024": 1988440,
+    "pop2023": 1951080,
+    "city": "Ludhiana",
+    "country": "India",
+    "growthRate": 0.0191,
+    "type": "w",
+    "rank": 267
+  },
+  {
+    "population": 1986670,
+    "pop2024": 1986670,
+    "pop2023": 1957000,
+    "city": "Quito",
+    "country": "Ecuador",
+    "growthRate": 0.0152,
+    "type": "w",
+    "rank": 268
+  },
+  {
+    "population": 1972560,
+    "pop2024": 1972560,
+    "pop2023": 1904630,
+    "city": "Benin City",
+    "country": "Nigeria",
+    "growthRate": 0.0357,
+    "type": "w",
+    "rank": 269
+  },
+  {
+    "population": 1965570,
+    "pop2024": 1965570,
+    "pop2023": 1935620,
+    "city": "La Paz",
+    "country": "Bolivia",
+    "growthRate": 0.0155,
+    "type": "w",
+    "rank": 270
+  },
+  {
+    "population": 1965110,
+    "pop2024": 1965110,
+    "pop2023": 1947780,
+    "city": "Baixada Santista",
+    "country": "Brazil",
+    "growthRate": 0.0089,
+    "type": "w",
+    "rank": 271
+  },
+  {
+    "population": 1942470,
+    "pop2024": 1942470,
+    "pop2023": 1928660,
+    "city": "West Yorkshire",
+    "country": "United Kingdom",
+    "growthRate": 0.0072,
+    "type": "w",
+    "rank": 272
+  },
+  {
+    "population": 1938920,
+    "pop2024": 1938920,
+    "pop2023": 1865170,
+    "city": "Can Tho",
+    "country": "Vietnam",
+    "growthRate": 0.0395,
+    "type": "w",
+    "rank": 273
+  },
+  {
+    "population": 1930370,
+    "pop2024": 1930370,
+    "pop2023": 1889830,
+    "city": "Zhuhai",
+    "country": "China",
+    "growthRate": 0.0215,
+    "type": "w",
+    "rank": 274
+  },
+  {
+    "population": 1924440,
+    "pop2024": 1924440,
+    "pop2023": 1898750,
+    "city": "Leon de los Aldamas",
+    "country": "Mexico",
+    "growthRate": 0.0135,
+    "type": "w",
+    "rank": 275
+  },
+  {
+    "population": 1920730,
+    "pop2024": 1920730,
+    "pop2023": 1869990,
+    "city": "Quanzhou",
+    "country": "China",
+    "growthRate": 0.0271,
+    "type": "w",
+    "rank": 276
+  },
+  {
+    "population": 1915040,
+    "pop2024": 1915040,
+    "pop2023": 1852400,
+    "city": "Matola",
+    "country": "Mozambique",
+    "growthRate": 0.0338,
+    "type": "w",
+    "rank": 277
+  },
+  {
+    "population": 1913670,
+    "pop2024": 1913670,
+    "pop2023": 1873690,
+    "city": "Datong",
+    "country": "China",
+    "growthRate": 0.0213,
+    "type": "w",
+    "rank": 278
+  },
+  {
+    "population": 1872200,
+    "pop2024": 1872200,
+    "pop2023": 1830860,
+    "city": "Sharjah",
+    "country": "United Arab Emirates",
+    "growthRate": 0.0226,
+    "type": "w",
+    "rank": 279
+  },
+  {
+    "population": 1871910,
+    "pop2024": 1871910,
+    "pop2023": 1834280,
+    "city": "Madurai",
+    "country": "India",
+    "growthRate": 0.0205,
+    "type": "w",
+    "rank": 280
+  },
+  {
+    "population": 1871110,
+    "pop2024": 1871110,
+    "pop2023": 1816810,
+    "city": "Raipur",
+    "country": "India",
+    "growthRate": 0.0299,
+    "type": "w",
+    "rank": 281
+  },
+  {
+    "population": 1856640,
+    "pop2024": 1856640,
+    "pop2023": 1835900,
+    "city": "Adana",
+    "country": "Turkey",
+    "growthRate": 0.0113,
+    "type": "w",
+    "rank": 282
+  },
+  {
+    "population": 1855730,
+    "pop2024": 1855730,
+    "pop2023": 1820110,
+    "city": "Santa Cruz",
+    "country": "Bolivia",
+    "growthRate": 0.0196,
+    "type": "w",
+    "rank": 283
+  },
+  {
+    "population": 1852670,
+    "pop2024": 1852670,
+    "pop2023": 1818420,
+    "city": "Palembang",
+    "country": "Indonesia",
+    "growthRate": 0.0188,
+    "type": "w",
+    "rank": 284
+  },
+  {
+    "population": 1847690,
+    "pop2024": 1847690,
+    "pop2023": 1792020,
+    "city": "Mosul",
+    "country": "Iraq",
+    "growthRate": 0.0311,
+    "type": "w",
+    "rank": 285
+  },
+  {
+    "population": 1840040,
+    "pop2024": 1840040,
+    "pop2023": 1788870,
+    "city": "Cixi",
+    "country": "China",
+    "growthRate": 0.0286,
+    "type": "w",
+    "rank": 286
+  },
+  {
+    "population": 1835400,
+    "pop2024": 1835400,
+    "pop2023": 1797800,
+    "city": "Meerut",
+    "country": "India",
+    "growthRate": 0.0209,
+    "type": "w",
+    "rank": 287
+  },
+  {
+    "population": 1833010,
+    "pop2024": 1833010,
+    "pop2023": 1804700,
+    "city": "Gaziantep",
+    "country": "Turkey",
+    "growthRate": 0.0157,
+    "type": "w",
+    "rank": 288
+  },
+  {
+    "population": 1826140,
+    "pop2024": 1826140,
+    "pop2023": 1780590,
+    "city": "La Laguna",
+    "country": "Mexico",
+    "growthRate": 0.0256,
+    "type": "w",
+    "rank": 289
+  },
+  {
+    "population": 1806150,
+    "pop2024": 1806150,
+    "pop2023": 1748140,
+    "city": "Batam",
+    "country": "Indonesia",
+    "growthRate": 0.0332,
+    "type": "w",
+    "rank": 290
+  },
+  {
+    "population": 1805730,
+    "pop2024": 1805730,
+    "pop2023": 1801940,
+    "city": "Turin",
+    "country": "Italy",
+    "growthRate": 0.0021,
+    "type": "w",
+    "rank": 291
+  },
+  {
+    "population": 1799450,
+    "pop2024": 1799450,
+    "pop2023": 1797520,
+    "city": "Warsaw",
+    "country": "Poland",
+    "growthRate": 0.0011,
+    "type": "w",
+    "rank": 292
+  },
+  {
+    "population": 1797470,
+    "pop2024": 1797470,
+    "pop2023": 1768510,
+    "city": "Jiangmen",
+    "country": "China",
+    "growthRate": 0.0164,
+    "type": "w",
+    "rank": 293
+  },
+  {
+    "population": 1789050,
+    "pop2024": 1789050,
+    "pop2023": 1754420,
+    "city": "Varanasi",
+    "country": "India",
+    "growthRate": 0.0197,
+    "type": "w",
+    "rank": 294
+  },
+  {
+    "population": 1787280,
+    "pop2024": 1787280,
+    "pop2023": 1787520,
+    "city": "Hamburg",
+    "country": "Germany",
+    "growthRate": -0.0001,
+    "type": "w",
+    "rank": 295
+  },
+  {
+    "population": 1781360,
+    "pop2024": 1781360,
+    "pop2023": 1774400,
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "growthRate": 0.0039,
+    "type": "w",
+    "rank": 296
+  },
+  {
+    "population": 1780390,
+    "pop2024": 1780390,
+    "pop2023": 1778050,
+    "city": "Budapest",
+    "country": "Hungary",
+    "growthRate": 0.0013,
+    "type": "w",
+    "rank": 297
+  },
+  {
+    "population": 1774400,
+    "pop2024": 1774400,
+    "pop2023": 1761190,
+    "city": "Lyon",
+    "country": "France",
+    "growthRate": 0.0075,
+    "type": "w",
+    "rank": 298
+  },
+  {
+    "population": 1772320,
+    "pop2024": 1772320,
+    "pop2023": 1742710,
+    "city": "Xiangyang",
+    "country": "China",
+    "growthRate": 0.017,
+    "type": "w",
+    "rank": 299
+  },
+  {
+    "population": 1767520,
+    "pop2024": 1767520,
+    "pop2023": 1776380,
+    "city": "Bucharest",
+    "country": "Romania",
+    "growthRate": -0.005,
+    "type": "w",
+    "rank": 300
+  },
+  {
+    "population": 1758100,
+    "pop2024": 1758100,
+    "pop2023": 1711240,
+    "city": "Yichang",
+    "country": "China",
+    "growthRate": 0.0274,
+    "type": "w",
+    "rank": 301
+  },
+  {
+    "population": 1757700,
+    "pop2024": 1757700,
+    "pop2023": 1716590,
+    "city": "Yinchuan",
+    "country": "China",
+    "growthRate": 0.0239,
+    "type": "w",
+    "rank": 302
+  },
+  {
+    "population": 1742750,
+    "pop2024": 1742750,
+    "pop2023": 1720950,
+    "city": "Shiraz",
+    "country": "Iran",
+    "growthRate": 0.0127,
+    "type": "w",
+    "rank": 303
+  },
+  {
+    "population": 1738720,
+    "pop2024": 1738720,
+    "pop2023": 1664440,
+    "city": "Kananga",
+    "country": "DR Congo",
+    "growthRate": 0.0446,
+    "type": "w",
+    "rank": 304
+  },
+  {
+    "population": 1737500,
+    "pop2024": 1737500,
+    "pop2023": 1698280,
+    "city": "Srinagar",
+    "country": "India",
+    "growthRate": 0.0231,
+    "type": "w",
+    "rank": 305
+  },
+  {
+    "population": 1735360,
+    "pop2024": 1735360,
+    "pop2023": 1678020,
+    "city": "Monrovia",
+    "country": "Liberia",
+    "growthRate": 0.0342,
+    "type": "w",
+    "rank": 306
+  },
+  {
+    "population": 1731860,
+    "pop2024": 1731860,
+    "pop2023": 1677170,
+    "city": "Tiruppur",
+    "country": "India",
+    "growthRate": 0.0326,
+    "type": "w",
+    "rank": 307
+  },
+  {
+    "population": 1730520,
+    "pop2024": 1730520,
+    "pop2023": 1695060,
+    "city": "Jamshedpur",
+    "country": "India",
+    "growthRate": 0.0209,
+    "type": "w",
+    "rank": 308
+  },
+  {
+    "population": 1726330,
+    "pop2024": 1726330,
+    "pop2023": 1664970,
+    "city": "Suqian",
+    "country": "China",
+    "growthRate": 0.0369,
+    "type": "w",
+    "rank": 309
+  },
+  {
+    "population": 1725280,
+    "pop2024": 1725280,
+    "pop2023": 1683390,
+    "city": "Aurangabad",
+    "country": "India",
+    "growthRate": 0.0249,
+    "type": "w",
+    "rank": 310
+  },
+  {
+    "population": 1723730,
+    "pop2024": 1723730,
+    "pop2023": 1680960,
+    "city": "Qinhuangdao",
+    "country": "China",
+    "growthRate": 0.0254,
+    "type": "w",
+    "rank": 311
+  },
+  {
+    "population": 1719600,
+    "pop2024": 1719600,
+    "pop2023": 1700070,
+    "city": "Stockholm",
+    "country": "Sweden",
+    "growthRate": 0.0115,
+    "type": "w",
+    "rank": 312
+  },
+  {
+    "population": 1713450,
+    "pop2024": 1713450,
+    "pop2023": 1689500,
+    "city": "Anshan",
+    "country": "China",
+    "growthRate": 0.0142,
+    "type": "w",
+    "rank": 313
+  },
+  {
+    "population": 1708150,
+    "pop2024": 1708150,
+    "pop2023": 1698090,
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "growthRate": 0.0059,
+    "type": "w",
+    "rank": 314
+  },
+  {
+    "population": 1705080,
+    "pop2024": 1705080,
+    "pop2023": 1666600,
+    "city": "Xining",
+    "country": "China",
+    "growthRate": 0.0231,
+    "type": "w",
+    "rank": 315
+  },
+  {
+    "population": 1704930,
+    "pop2024": 1704930,
+    "pop2023": 1673090,
+    "city": "Makassar",
+    "country": "Indonesia",
+    "growthRate": 0.019,
+    "type": "w",
+    "rank": 316
+  },
+  {
+    "population": 1702010,
+    "pop2024": 1702010,
+    "pop2023": 1661850,
+    "city": "Hengyang",
+    "country": "China",
+    "growthRate": 0.0242,
+    "type": "w",
+    "rank": 317
+  },
+  {
+    "population": 1701510,
+    "pop2024": 1701510,
+    "pop2023": 1694760,
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "growthRate": 0.004,
+    "type": "w",
+    "rank": 318
+  },
+  {
+    "population": 1699360,
+    "pop2024": 1699360,
+    "pop2023": 1672630,
+    "city": "Ulaanbaatar",
+    "country": "Mongolia",
+    "growthRate": 0.016,
+    "type": "w",
+    "rank": 319
+  },
+  {
+    "population": 1694910,
+    "pop2024": 1694910,
+    "pop2023": 1623380,
+    "city": "Onitsha",
+    "country": "Nigeria",
+    "growthRate": 0.0441,
+    "type": "w",
+    "rank": 320
+  },
+  {
+    "population": 1693700,
+    "pop2024": 1693700,
+    "pop2023": 1668780,
+    "city": "Jilin",
+    "country": "China",
+    "growthRate": 0.0149,
+    "type": "w",
+    "rank": 321
+  },
+  {
+    "population": 1693380,
+    "pop2024": 1693380,
+    "pop2023": 1642350,
+    "city": "Anyang",
+    "country": "China",
+    "growthRate": 0.0311,
+    "type": "w",
+    "rank": 322
+  },
+  {
+    "population": 1692770,
+    "pop2024": 1692770,
+    "pop2023": 1673220,
+    "city": "Auckland",
+    "country": "New Zealand",
+    "growthRate": 0.0117,
+    "type": "w",
+    "rank": 323
+  },
+  {
+    "population": 1678030,
+    "pop2024": 1678030,
+    "pop2023": 1660740,
+    "city": "Tabriz",
+    "country": "Iran",
+    "growthRate": 0.0104,
+    "type": "w",
+    "rank": 324
+  },
+  {
+    "population": 1676170,
+    "pop2024": 1676170,
+    "pop2023": 1650320,
+    "city": "Muscat",
+    "country": "Oman",
+    "growthRate": 0.0157,
+    "type": "w",
+    "rank": 325
+  },
+  {
+    "population": 1665020,
+    "pop2024": 1665020,
+    "pop2023": 1639610,
+    "city": "Calgary",
+    "country": "Canada",
+    "growthRate": 0.0155,
+    "type": "w",
+    "rank": 326
+  },
+  {
+    "population": 1662607,
+    "pop2024": 1662607,
+    "pop2023": 1650070,
+    "city": "Phoenix",
+    "country": "United States",
+    "growthRate": 0.0076,
+    "type": "us",
+    "rank": 327
+  },
+  {
+    "population": 1662410,
+    "pop2024": 1662410,
+    "pop2023": 1635460,
+    "city": "Qiqihaer",
+    "country": "China",
+    "growthRate": 0.0165,
+    "type": "w",
+    "rank": 328
+  },
+  {
+    "population": 1655620,
+    "pop2024": 1655620,
+    "pop2023": 1592320,
+    "city": "N-Djamena",
+    "country": "Chad",
+    "growthRate": 0.0398,
+    "type": "w",
+    "rank": 329
+  },
+  {
+    "population": 1635710,
+    "pop2024": 1635710,
+    "pop2023": 1627550,
+    "city": "Marseille",
+    "country": "France",
+    "growthRate": 0.005,
+    "type": "w",
+    "rank": 330
+  },
+  {
+    "population": 1625940,
+    "pop2024": 1625940,
+    "pop2023": 1611650,
+    "city": "Cordoba",
+    "country": "Argentina",
+    "growthRate": 0.0089,
+    "type": "w",
+    "rank": 331
+  },
+  {
+    "population": 1625320,
+    "pop2024": 1625320,
+    "pop2023": 1586550,
+    "city": "Jodhpur",
+    "country": "India",
+    "growthRate": 0.0244,
+    "type": "w",
+    "rank": 332
+  },
+  {
+    "population": 1621640,
+    "pop2024": 1621640,
+    "pop2023": 1571010,
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "growthRate": 0.0322,
+    "type": "w",
+    "rank": 333
+  },
+  {
+    "population": 1613040,
+    "pop2024": 1613040,
+    "pop2023": 1594100,
+    "city": "Rosario",
+    "country": "Argentina",
+    "growthRate": 0.0119,
+    "type": "w",
+    "rank": 334
+  },
+  {
+    "population": 1609260,
+    "pop2024": 1609260,
+    "pop2023": 1568020,
+    "city": "Tegucigalpa",
+    "country": "Honduras",
+    "growthRate": 0.0263,
+    "type": "w",
+    "rank": 335
+  },
+  {
+    "population": 1604080,
+    "pop2024": 1604080,
+    "pop2023": 1582310,
+    "city": "Ciudad Juarez",
+    "country": "Mexico",
+    "growthRate": 0.0138,
+    "type": "w",
+    "rank": 336
+  },
+  {
+    "population": 1603200,
+    "pop2024": 1603200,
+    "pop2023": 1578130,
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "growthRate": 0.0159,
+    "type": "w",
+    "rank": 337
+  },
+  {
+    "population": 1603010,
+    "pop2024": 1603010,
+    "pop2023": 1593610,
+    "city": "Karaj",
+    "country": "Iran",
+    "growthRate": 0.0059,
+    "type": "w",
+    "rank": 338
+  },
+  {
+    "population": 1598980,
+    "pop2024": 1598980,
+    "pop2023": 1572570,
+    "city": "Medina",
+    "country": "Saudi Arabia",
+    "growthRate": 0.0168,
+    "type": "w",
+    "rank": 339
+  },
+  {
+    "population": 1595960,
+    "pop2024": 1595960,
+    "pop2023": 1569560,
+    "city": "Jining Shandong",
+    "country": "China",
+    "growthRate": 0.0168,
+    "type": "w",
+    "rank": 340
+  },
+  {
+    "population": 1593280,
+    "pop2024": 1593280,
+    "pop2023": 1567000,
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "growthRate": 0.0168,
+    "type": "w",
+    "rank": 341
+  },
+  {
+    "population": 1584510,
+    "pop2024": 1584510,
+    "pop2023": 1576420,
+    "city": "Munich",
+    "country": "Germany",
+    "growthRate": 0.0051,
+    "type": "w",
+    "rank": 342
+  },
+  {
+    "population": 1584240,
+    "pop2024": 1584240,
+    "pop2023": 1547260,
+    "city": "Ranchi",
+    "country": "India",
+    "growthRate": 0.0239,
+    "type": "w",
+    "rank": 343
+  },
+  {
+    "population": 1581700,
+    "pop2024": 1581700,
+    "pop2023": 1577440,
+    "city": "Daejon",
+    "country": "South Korea",
+    "growthRate": 0.0027,
+    "type": "w",
+    "rank": 344
+  },
+  {
+    "population": 1568120,
+    "pop2024": 1568120,
+    "pop2023": 1536170,
+    "city": "Zhangjiakou",
+    "country": "China",
+    "growthRate": 0.0208,
+    "type": "w",
+    "rank": 345
+  },
+  {
+    "population": 1567620,
+    "pop2024": 1567620,
+    "pop2023": 1544450,
+    "city": "Edmonton",
+    "country": "Canada",
+    "growthRate": 0.015,
+    "type": "w",
+    "rank": 346
+  },
+  {
+    "population": 1563020,
+    "pop2024": 1563020,
+    "pop2023": 1531860,
+    "city": "Mandalay",
+    "country": "Myanmar",
+    "growthRate": 0.0203,
+    "type": "w",
+    "rank": 347
+  },
+  {
+    "population": 1559080,
+    "pop2024": 1559080,
+    "pop2023": 1552900,
+    "city": "Gaoxiong",
+    "country": "Taiwan",
+    "growthRate": 0.004,
+    "type": "w",
+    "rank": 348
+  },
+  {
+    "population": 1558470,
+    "pop2024": 1558470,
+    "pop2023": 1516800,
+    "city": "Kota",
+    "country": "India",
+    "growthRate": 0.0275,
+    "type": "w",
+    "rank": 349
+  },
+  {
+    "population": 1556410,
+    "pop2024": 1556410,
+    "pop2023": 1535320,
+    "city": "Natal",
+    "country": "Brazil",
+    "growthRate": 0.0137,
+    "type": "w",
+    "rank": 350
+  },
+  {
+    "population": 1552150,
+    "pop2024": 1552150,
+    "pop2023": 1491960,
+    "city": "Nouakchott",
+    "country": "Mauritania",
+    "growthRate": 0.0403,
+    "type": "w",
+    "rank": 351
+  },
+  {
+    "population": 1551000,
+    "pop2024": 1551000,
+    "pop2023": 1522120,
+    "city": "Jabalpur",
+    "country": "India",
+    "growthRate": 0.019,
+    "type": "w",
+    "rank": 352
+  },
+  {
+    "population": 1538600,
+    "pop2024": 1538600,
+    "pop2023": 1512670,
+    "city": "Huainan",
+    "country": "China",
+    "growthRate": 0.0171,
+    "type": "w",
+    "rank": 353
+  },
+  {
+    "population": 1536020,
+    "pop2024": 1536020,
+    "pop2023": 1523630,
+    "city": "Grande Sao Luis",
+    "country": "Brazil",
+    "growthRate": 0.0081,
+    "type": "w",
+    "rank": 354
+  },
+  {
+    "population": 1534080,
+    "pop2024": 1534080,
+    "pop2023": 1505030,
+    "city": "Asansol",
+    "country": "India",
+    "growthRate": 0.0193,
+    "type": "w",
+    "rank": 355
+  },
+  {
+    "population": 1533828,
+    "pop2024": 1533828,
+    "pop2023": 1550542,
+    "city": "Philadelphia",
+    "country": "United States",
+    "growthRate": -0.0108,
+    "type": "us",
+    "rank": 356
+  },
+  {
+    "population": 1532970,
+    "pop2024": 1532970,
+    "pop2023": 1527730,
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "growthRate": 0.0034,
+    "type": "w",
+    "rank": 357
+  },
+  {
+    "population": 1532900,
+    "pop2024": 1532900,
+    "pop2023": 1529470,
+    "city": "Gwangju",
+    "country": "South Korea",
+    "growthRate": 0.0022,
+    "type": "w",
+    "rank": 358
+  },
+  {
+    "population": 1525750,
+    "pop2024": 1525750,
+    "pop2023": 1483320,
+    "city": "Yiwu",
+    "country": "China",
+    "growthRate": 0.0286,
+    "type": "w",
+    "rank": 359
+  },
+  {
+    "population": 1520630,
+    "pop2024": 1520630,
+    "pop2023": 1496300,
+    "city": "Chaozhou",
+    "country": "China",
+    "growthRate": 0.0163,
+    "type": "w",
+    "rank": 360
+  },
+  {
+    "population": 1513974,
+    "pop2024": 1513974,
+    "pop2023": 1495295,
+    "city": "San Antonio",
+    "country": "United States",
+    "growthRate": 0.0125,
+    "type": "us",
+    "rank": 361
+  },
+  {
+    "population": 1508850,
+    "pop2024": 1508850,
+    "pop2023": 1475020,
+    "city": "Gwalior",
+    "country": "India",
+    "growthRate": 0.0229,
+    "type": "w",
+    "rank": 362
+  },
+  {
+    "population": 1508040,
+    "pop2024": 1508040,
+    "pop2023": 1459680,
+    "city": "Ganzhou",
+    "country": "China",
+    "growthRate": 0.0331,
+    "type": "w",
+    "rank": 363
+  },
+  {
+    "population": 1499600,
+    "pop2024": 1499600,
+    "pop2023": 1443430,
+    "city": "Homs",
+    "country": "Syria",
+    "growthRate": 0.0389,
+    "type": "w",
+    "rank": 364
+  },
+  {
+    "population": 1496260,
+    "pop2024": 1496260,
+    "pop2023": 1437230,
+    "city": "Niamey",
+    "country": "Niger",
+    "growthRate": 0.0411,
+    "type": "w",
+    "rank": 365
+  },
+  {
+    "population": 1495220,
+    "pop2024": 1495220,
+    "pop2023": 1440400,
+    "city": "Mombasa",
+    "country": "Kenya",
+    "growthRate": 0.0381,
+    "type": "w",
+    "rank": 366
+  },
+  {
+    "population": 1493350,
+    "pop2024": 1493350,
+    "pop2023": 1465150,
+    "city": "Allahabad",
+    "country": "India",
+    "growthRate": 0.0192,
+    "type": "w",
+    "rank": 367
+  },
+  {
+    "population": 1485160,
+    "pop2024": 1485160,
+    "pop2023": 1448120,
+    "city": "Basra",
+    "country": "Iraq",
+    "growthRate": 0.0256,
+    "type": "w",
+    "rank": 368
+  },
+  {
+    "population": 1483510,
+    "pop2024": 1483510,
+    "pop2023": 1423400,
+    "city": "Kisangani",
+    "country": "DR Congo",
+    "growthRate": 0.0422,
+    "type": "w",
+    "rank": 369
+  },
+  {
+    "population": 1482460,
+    "pop2024": 1482460,
+    "pop2023": 1461990,
+    "city": "San Jose",
+    "country": "Costa Rica",
+    "growthRate": 0.014,
+    "type": "w",
+    "rank": 370
+  },
+  {
+    "population": 1480470,
+    "pop2024": 1480470,
+    "pop2023": 1451750,
+    "city": "Amritsar",
+    "country": "India",
+    "growthRate": 0.0198,
+    "type": "w",
+    "rank": 371
+  },
+  {
+    "population": 1477600,
+    "pop2024": 1477600,
+    "pop2023": 1446810,
+    "city": "Taizhou Jiangsu",
+    "country": "China",
+    "growthRate": 0.0213,
+    "type": "w",
+    "rank": 372
+  },
+  {
+    "population": 1472710,
+    "pop2024": 1472710,
+    "pop2023": 1454220,
+    "city": "Chon Buri",
+    "country": "Thailand",
+    "growthRate": 0.0127,
+    "type": "w",
+    "rank": 373
+  },
+  {
+    "population": 1470920,
+    "pop2024": 1470920,
+    "pop2023": 1424980,
+    "city": "Jiaxing",
+    "country": "China",
+    "growthRate": 0.0322,
+    "type": "w",
+    "rank": 374
+  },
+  {
+    "population": 1465930,
+    "pop2024": 1465930,
+    "pop2023": 1429320,
+    "city": "Weihai",
+    "country": "China",
+    "growthRate": 0.0256,
+    "type": "w",
+    "rank": 375
+  },
+  {
+    "population": 1463650,
+    "pop2024": 1463650,
+    "pop2023": 1422970,
+    "city": "Hai Phong",
+    "country": "Vietnam",
+    "growthRate": 0.0286,
+    "type": "w",
+    "rank": 376
+  },
+  {
+    "population": 1451570,
+    "pop2024": 1451570,
+    "pop2023": 1437190,
+    "city": "Ottawa",
+    "country": "Canada",
+    "growthRate": 0.01,
+    "type": "w",
+    "rank": 377
+  },
+  {
+    "population": 1443350,
+    "pop2024": 1443350,
+    "pop2023": 1431540,
+    "city": "Zurich",
+    "country": "Switzerland",
+    "growthRate": 0.0082,
+    "type": "w",
+    "rank": 378
+  },
+  {
+    "population": 1441910,
+    "pop2024": 1441910,
+    "pop2023": 1416060,
+    "city": "Taian Shandong",
+    "country": "China",
+    "growthRate": 0.0183,
+    "type": "w",
+    "rank": 379
+  },
+  {
+    "population": 1436820,
+    "pop2024": 1436820,
+    "pop2023": 1413470,
+    "city": "Queretaro",
+    "country": "Mexico",
+    "growthRate": 0.0165,
+    "type": "w",
+    "rank": 380
+  },
+  {
+    "population": 1435120,
+    "pop2024": 1435120,
+    "pop2023": 1421830,
+    "city": "Joao Pessoa",
+    "country": "Brazil",
+    "growthRate": 0.0093,
+    "type": "w",
+    "rank": 381
+  },
+  {
+    "population": 1434460,
+    "pop2024": 1434460,
+    "pop2023": 1398260,
+    "city": "Kaifeng",
+    "country": "China",
+    "growthRate": 0.0259,
+    "type": "w",
+    "rank": 382
+  },
+  {
+    "population": 1430690,
+    "pop2024": 1430690,
+    "pop2023": 1400250,
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "growthRate": 0.0217,
+    "type": "w",
+    "rank": 383
+  },
+  {
+    "population": 1429940,
+    "pop2024": 1429940,
+    "pop2023": 1407630,
+    "city": "Konya",
+    "country": "Turkey",
+    "growthRate": 0.0158,
+    "type": "w",
+    "rank": 384
+  },
+  {
+    "population": 1428800,
+    "pop2024": 1428800,
+    "pop2023": 1373520,
+    "city": "Liuyang",
+    "country": "China",
+    "growthRate": 0.0402,
+    "type": "w",
+    "rank": 385
+  },
+  {
+    "population": 1427890,
+    "pop2024": 1427890,
+    "pop2023": 1378080,
+    "city": "Liuan",
+    "country": "China",
+    "growthRate": 0.0361,
+    "type": "w",
+    "rank": 386
+  },
+  {
+    "population": 1426580,
+    "pop2024": 1426580,
+    "pop2023": 1391260,
+    "city": "Rizhao",
+    "country": "China",
+    "growthRate": 0.0254,
+    "type": "w",
+    "rank": 387
+  },
+  {
+    "population": 1418980,
+    "pop2024": 1418980,
+    "pop2023": 1421050,
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "growthRate": -0.0015,
+    "type": "w",
+    "rank": 388
+  },
+  {
+    "population": 1414530,
+    "pop2024": 1414530,
+    "pop2023": 1389780,
+    "city": "Dhanbad",
+    "country": "India",
+    "growthRate": 0.0178,
+    "type": "w",
+    "rank": 389
+  },
+  {
+    "population": 1412710,
+    "pop2024": 1412710,
+    "pop2023": 1377570,
+    "city": "Nanchong",
+    "country": "China",
+    "growthRate": 0.0255,
+    "type": "w",
+    "rank": 390
+  },
+  {
+    "population": 1410790,
+    "pop2024": 1410790,
+    "pop2023": 1379380,
+    "city": "Dongying",
+    "country": "China",
+    "growthRate": 0.0228,
+    "type": "w",
+    "rank": 391
+  },
+  {
+    "population": 1410700,
+    "pop2024": 1410700,
+    "pop2023": 1408140,
+    "city": "Belgrade",
+    "country": "Serbia",
+    "growthRate": 0.0018,
+    "type": "w",
+    "rank": 392
+  },
+  {
+    "population": 1406090,
+    "pop2024": 1406090,
+    "pop2023": 1376450,
+    "city": "Zunyi",
+    "country": "China",
+    "growthRate": 0.0215,
+    "type": "w",
+    "rank": 393
+  },
+  {
+    "population": 1399310,
+    "pop2024": 1399310,
+    "pop2023": 1372000,
+    "city": "Zhanjiang",
+    "country": "China",
+    "growthRate": 0.0199,
+    "type": "w",
+    "rank": 394
+  },
+  {
+    "population": 1396630,
+    "pop2024": 1396630,
+    "pop2023": 1381500,
+    "city": "Bucaramanga",
+    "country": "Colombia",
+    "growthRate": 0.011,
+    "type": "w",
+    "rank": 395
+  },
+  {
+    "population": 1393450,
+    "pop2024": 1393450,
+    "pop2023": 1329280,
+    "city": "Uyo",
+    "country": "Nigeria",
+    "growthRate": 0.0483,
+    "type": "w",
+    "rank": 396
+  },
+  {
+    "population": 1391200,
+    "pop2024": 1391200,
+    "pop2023": 1381000,
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "growthRate": 0.0074,
+    "type": "w",
+    "rank": 397
+  },
+  {
+    "population": 1388996,
+    "pop2024": 1388996,
+    "pop2023": 1388320,
+    "city": "San Diego",
+    "country": "United States",
+    "growthRate": 0.0005,
+    "type": "us",
+    "rank": 398
+  },
+  {
+    "population": 1387380,
+    "pop2024": 1387380,
+    "pop2023": 1354020,
+    "city": "Shiyan",
+    "country": "China",
+    "growthRate": 0.0246,
+    "type": "w",
+    "rank": 399
+  },
+  {
+    "population": 1381860,
+    "pop2024": 1381860,
+    "pop2023": 1369070,
+    "city": "Taizhong",
+    "country": "Taiwan",
+    "growthRate": 0.0093,
+    "type": "w",
+    "rank": 400
+  },
+  {
+    "population": 1380720,
+    "pop2024": 1380720,
+    "pop2023": 1348660,
+    "city": "Bareilly",
+    "country": "India",
+    "growthRate": 0.0238,
+    "type": "w",
+    "rank": 401
+  },
+  {
+    "population": 1379370,
+    "pop2024": 1379370,
+    "pop2023": 1336390,
+    "city": "Pointe-Noire",
+    "country": "Republic of the Congo",
+    "growthRate": 0.0322,
+    "type": "w",
+    "rank": 402
+  },
+  {
+    "population": 1379280,
+    "pop2024": 1379280,
+    "pop2023": 1366780,
+    "city": "Adelaide",
+    "country": "Australia",
+    "growthRate": 0.0091,
+    "type": "w",
+    "rank": 403
+  },
+  {
+    "population": 1378230,
+    "pop2024": 1378230,
+    "pop2023": 1365350,
+    "city": "Suweon",
+    "country": "South Korea",
+    "growthRate": 0.0094,
+    "type": "w",
+    "rank": 404
+  },
+  {
+    "population": 1378010,
+    "pop2024": 1378010,
+    "pop2023": 1310750,
+    "city": "Mwanza",
+    "country": "Tanzania",
+    "growthRate": 0.0513,
+    "type": "w",
+    "rank": 405
+  },
+  {
+    "population": 1376450,
+    "pop2024": 1376450,
+    "pop2023": 1351380,
+    "city": "Mianyang Sichuan",
+    "country": "China",
+    "growthRate": 0.0186,
+    "type": "w",
+    "rank": 406
+  },
+  {
+    "population": 1376150,
+    "pop2024": 1376150,
+    "pop2023": 1358870,
+    "city": "Samut Prakan",
+    "country": "Thailand",
+    "growthRate": 0.0127,
+    "type": "w",
+    "rank": 407
+  },
+  {
+    "population": 1375980,
+    "pop2024": 1375980,
+    "pop2023": 1363510,
+    "city": "Maceio",
+    "country": "Brazil",
+    "growthRate": 0.0091,
+    "type": "w",
+    "rank": 408
+  },
+  {
+    "population": 1373800,
+    "pop2024": 1373800,
+    "pop2023": 1354170,
+    "city": "Qom",
+    "country": "Iran",
+    "growthRate": 0.0145,
+    "type": "w",
+    "rank": 409
+  },
+  {
+    "population": 1372400,
+    "pop2024": 1372400,
+    "pop2023": 1347240,
+    "city": "Antalya",
+    "country": "Turkey",
+    "growthRate": 0.0187,
+    "type": "w",
+    "rank": 410
+  },
+  {
+    "population": 1361990,
+    "pop2024": 1361990,
+    "pop2023": 1348520,
+    "city": "Joinville",
+    "country": "Brazil",
+    "growthRate": 0.01,
+    "type": "w",
+    "rank": 411
+  },
+  {
+    "population": 1360780,
+    "pop2024": 1360780,
+    "pop2023": 1322920,
+    "city": "Tengzhou",
+    "country": "China",
+    "growthRate": 0.0286,
+    "type": "w",
+    "rank": 412
+  },
+  {
+    "population": 1355560,
+    "pop2024": 1355560,
+    "pop2023": 1323170,
+    "city": "Yingkou",
+    "country": "China",
+    "growthRate": 0.0245,
+    "type": "w",
+    "rank": 413
+  },
+  {
+    "population": 1352910,
+    "pop2024": 1352910,
+    "pop2023": 1329290,
+    "city": "Ad-Dammam",
+    "country": "Saudi Arabia",
+    "growthRate": 0.0178,
+    "type": "w",
+    "rank": 414
+  },
+  {
+    "population": 1349990,
+    "pop2024": 1349990,
+    "pop2023": 1310430,
+    "city": "Suzhou",
+    "country": "China",
+    "growthRate": 0.0302,
+    "type": "w",
+    "rank": 415
+  },
+  {
+    "population": 1348850,
+    "pop2024": 1348850,
+    "pop2023": 1314180,
+    "city": "Tanger",
+    "country": "Morocco",
+    "growthRate": 0.0264,
+    "type": "w",
+    "rank": 416
+  },
+  {
+    "population": 1347560,
+    "pop2024": 1347560,
+    "pop2023": 1309170,
+    "city": "Freetown",
+    "country": "Sierra Leone",
+    "growthRate": 0.0293,
+    "type": "w",
+    "rank": 417
+  },
+  {
+    "population": 1346810,
+    "pop2024": 1346810,
+    "pop2023": 1337790,
+    "city": "Helsinki",
+    "country": "Finland",
+    "growthRate": 0.0067,
+    "type": "w",
+    "rank": 418
+  },
+  {
+    "population": 1346020,
+    "pop2024": 1346020,
+    "pop2023": 1312370,
+    "city": "Aligarh",
+    "country": "India",
+    "growthRate": 0.0256,
+    "type": "w",
+    "rank": 419
+  },
+  {
+    "population": 1335970,
+    "pop2024": 1335970,
+    "pop2023": 1301740,
+    "city": "Moradabad",
+    "country": "India",
+    "growthRate": 0.0263,
+    "type": "w",
+    "rank": 420
+  },
+  {
+    "population": 1334530,
+    "pop2024": 1334530,
+    "pop2023": 1303360,
+    "city": "Pekan Baru",
+    "country": "Indonesia",
+    "growthRate": 0.0239,
+    "type": "w",
+    "rank": 421
+  },
+  {
+    "population": 1333930,
+    "pop2024": 1333930,
+    "pop2023": 1303900,
+    "city": "Maoming",
+    "country": "China",
+    "growthRate": 0.023,
+    "type": "w",
+    "rank": 422
+  },
+  {
+    "population": 1333100,
+    "pop2024": 1333100,
+    "pop2023": 1276320,
+    "city": "Lilongwe",
+    "country": "Malawi",
+    "growthRate": 0.0445,
+    "type": "w",
+    "rank": 423
+  },
+  {
+    "population": 1329300,
+    "pop2024": 1329300,
+    "pop2023": 1324650,
+    "city": "Porto",
+    "country": "Portugal",
+    "growthRate": 0.0035,
+    "type": "w",
+    "rank": 424
+  },
+  {
+    "population": 1327950,
+    "pop2024": 1327950,
+    "pop2023": 1323340,
+    "city": "Prague",
+    "country": "Czech Republic",
+    "growthRate": 0.0035,
+    "type": "w",
+    "rank": 425
+  },
+  {
+    "population": 1324110,
+    "pop2024": 1324110,
+    "pop2023": 1291280,
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "growthRate": 0.0254,
+    "type": "w",
+    "rank": 426
+  },
+  {
+    "population": 1320780,
+    "pop2024": 1320780,
+    "pop2023": 1282480,
+    "city": "Jieyang",
+    "country": "China",
+    "growthRate": 0.0299,
+    "type": "w",
+    "rank": 427
+  },
+  {
+    "population": 1317280,
+    "pop2024": 1317280,
+    "pop2023": 1304560,
+    "city": "Fushun Liaoning",
+    "country": "China",
+    "growthRate": 0.0098,
+    "type": "w",
+    "rank": 428
+  },
+  {
+    "population": 1316460,
+    "pop2024": 1316460,
+    "pop2023": 1288240,
+    "city": "Mysore",
+    "country": "India",
+    "growthRate": 0.0219,
+    "type": "w",
+    "rank": 429
+  },
+  {
+    "population": 1314920,
+    "pop2024": 1314920,
+    "pop2023": 1252890,
+    "city": "Abomey-Calavi",
+    "country": "Benin",
+    "growthRate": 0.0495,
+    "type": "w",
+    "rank": 430
+  },
+  {
+    "population": 1314780,
+    "pop2024": 1314780,
+    "pop2023": 1281790,
+    "city": "Ruian",
+    "country": "China",
+    "growthRate": 0.0257,
+    "type": "w",
+    "rank": 431
+  },
+  {
+    "population": 1313310,
+    "pop2024": 1313310,
+    "pop2023": 1290040,
+    "city": "Fes",
+    "country": "Morocco",
+    "growthRate": 0.018,
+    "type": "w",
+    "rank": 432
+  },
+  {
+    "population": 1312630,
+    "pop2024": 1312630,
+    "pop2023": 1295930,
+    "city": "Port Elizabeth",
+    "country": "South Africa",
+    "growthRate": 0.0129,
+    "type": "w",
+    "rank": 433
+  },
+  {
+    "population": 1309900,
+    "pop2024": 1309900,
+    "pop2023": 1294490,
+    "city": "Florianopolis",
+    "country": "Brazil",
+    "growthRate": 0.0119,
+    "type": "w",
+    "rank": 434
+  },
+  {
+    "population": 1309370,
+    "pop2024": 1309370,
+    "pop2023": 1293620,
+    "city": "Ahvaz",
+    "country": "Iran",
+    "growthRate": 0.0122,
+    "type": "w",
+    "rank": 435
+  },
+  {
+    "population": 1308470,
+    "pop2024": 1308470,
+    "pop2023": 1248780,
+    "city": "Bukavu",
+    "country": "DR Congo",
+    "growthRate": 0.0478,
+    "type": "w",
+    "rank": 436
+  },
+  {
+    "population": 1302753,
+    "pop2024": 1302753,
+    "pop2023": 1302868,
+    "city": "Dallas",
+    "country": "United States",
+    "growthRate": -0.0001,
+    "type": "us",
+    "rank": 437
+  },
+  {
+    "population": 1300990,
+    "pop2024": 1300990,
+    "pop2023": 1239190,
+    "city": "Nnewi",
+    "country": "Nigeria",
+    "growthRate": 0.0499,
+    "type": "w",
+    "rank": 438
+  },
+  {
+    "population": 1296230,
+    "pop2024": 1296230,
+    "pop2023": 1291880,
+    "city": "Kazan",
+    "country": "Russia",
+    "growthRate": 0.0034,
+    "type": "w",
+    "rank": 439
+  },
+  {
+    "population": 1296060,
+    "pop2024": 1296060,
+    "pop2023": 1257940,
+    "city": "Jinhua",
+    "country": "China",
+    "growthRate": 0.0303,
+    "type": "w",
+    "rank": 440
+  },
+  {
+    "population": 1292130,
+    "pop2024": 1292130,
+    "pop2023": 1273320,
+    "city": "San Luis Potosi",
+    "country": "Mexico",
+    "growthRate": 0.0148,
+    "type": "w",
+    "rank": 441
+  },
+  {
+    "population": 1290230,
+    "pop2024": 1290230,
+    "pop2023": 1261080,
+    "city": "Baoji",
+    "country": "China",
+    "growthRate": 0.0231,
+    "type": "w",
+    "rank": 442
+  },
+  {
+    "population": 1289670,
+    "pop2024": 1289670,
+    "pop2023": 1266030,
+    "city": "Durg-Bhilainagar",
+    "country": "India",
+    "growthRate": 0.0187,
+    "type": "w",
+    "rank": 443
+  },
+  {
+    "population": 1289250,
+    "pop2024": 1289250,
+    "pop2023": 1257640,
+    "city": "Bhubaneswar",
+    "country": "India",
+    "growthRate": 0.0251,
+    "type": "w",
+    "rank": 444
+  },
+  {
+    "population": 1287950,
+    "pop2024": 1287950,
+    "pop2023": 1247550,
+    "city": "Kigali",
+    "country": "Rwanda",
+    "growthRate": 0.0324,
+    "type": "w",
+    "rank": 445
+  },
+  {
+    "population": 1287540,
+    "pop2024": 1287540,
+    "pop2023": 1288110,
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "growthRate": -0.0004,
+    "type": "w",
+    "rank": 446
+  },
+  {
+    "population": 1285750,
+    "pop2024": 1285750,
+    "pop2023": 1256580,
+    "city": "Pingdingshan Henan",
+    "country": "China",
+    "growthRate": 0.0232,
+    "type": "w",
+    "rank": 447
+  },
+  {
+    "population": 1284550,
+    "pop2024": 1284550,
+    "pop2023": 1270170,
+    "city": "Dublin",
+    "country": "Ireland",
+    "growthRate": 0.0113,
+    "type": "w",
+    "rank": 448
+  },
+  {
+    "population": 1282760,
+    "pop2024": 1282760,
+    "pop2023": 1254160,
+    "city": "Puning",
+    "country": "China",
+    "growthRate": 0.0228,
+    "type": "w",
+    "rank": 449
+  },
+  {
+    "population": 1279540,
+    "pop2024": 1279540,
+    "pop2023": 1252410,
+    "city": "Chifeng",
+    "country": "China",
+    "growthRate": 0.0217,
+    "type": "w",
+    "rank": 450
+  },
+  {
+    "population": 1277240,
+    "pop2024": 1277240,
+    "pop2023": 1254520,
+    "city": "Zhuzhou",
+    "country": "China",
+    "growthRate": 0.0181,
+    "type": "w",
+    "rank": 451
+  },
+  {
+    "population": 1277050,
+    "pop2024": 1277050,
+    "pop2023": 1206770,
+    "city": "Bujumbura",
+    "country": "Burundi",
+    "growthRate": 0.0582,
+    "type": "w",
+    "rank": 452
+  },
+  {
+    "population": 1275400,
+    "pop2024": 1275400,
+    "pop2023": 1250670,
+    "city": "Zhenjiang Jiangsu",
+    "country": "China",
+    "growthRate": 0.0198,
+    "type": "w",
+    "rank": 453
+  },
+  {
+    "population": 1272870,
+    "pop2024": 1272870,
+    "pop2023": 1230640,
+    "city": "Liupanshui",
+    "country": "China",
+    "growthRate": 0.0343,
+    "type": "w",
+    "rank": 454
+  },
+  {
+    "population": 1267870,
+    "pop2024": 1267870,
+    "pop2023": 1254190,
+    "city": "Barquisimeto",
+    "country": "Venezuela",
+    "growthRate": 0.0109,
+    "type": "w",
+    "rank": 455
+  },
+  {
+    "population": 1266790,
+    "pop2024": 1266790,
+    "pop2023": 1232450,
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "growthRate": 0.0279,
+    "type": "w",
+    "rank": 456
+  },
+  {
+    "population": 1264860,
+    "pop2024": 1264860,
+    "pop2023": 1236270,
+    "city": "Huaibei",
+    "country": "China",
+    "growthRate": 0.0231,
+    "type": "w",
+    "rank": 457
+  },
+  {
+    "population": 1258120,
+    "pop2024": 1258120,
+    "pop2023": 1213780,
+    "city": "Tasikmalaya",
+    "country": "Indonesia",
+    "growthRate": 0.0365,
+    "type": "w",
+    "rank": 458
+  },
+  {
+    "population": 1256550,
+    "pop2024": 1256550,
+    "pop2023": 1242940,
+    "city": "Maracay",
+    "country": "Venezuela",
+    "growthRate": 0.0109,
+    "type": "w",
+    "rank": 459
+  },
+  {
+    "population": 1256160,
+    "pop2024": 1256160,
+    "pop2023": 1231440,
+    "city": "Bogor",
+    "country": "Indonesia",
+    "growthRate": 0.0201,
+    "type": "w",
+    "rank": 460
+  },
+  {
+    "population": 1253230,
+    "pop2024": 1253230,
+    "pop2023": 1220630,
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "growthRate": 0.0267,
+    "type": "w",
+    "rank": 461
+  },
+  {
+    "population": 1250300,
+    "pop2024": 1250300,
+    "pop2023": 1224630,
+    "city": "Nanyang Henan",
+    "country": "China",
+    "growthRate": 0.021,
+    "type": "w",
+    "rank": 462
+  },
+  {
+    "population": 1250300,
+    "pop2024": 1250300,
+    "pop2023": 1251330,
+    "city": "Nizhniy Novgorod",
+    "country": "Russia",
+    "growthRate": -0.0008,
+    "type": "w",
+    "rank": 463
+  },
+  {
+    "population": 1249380,
+    "pop2024": 1249380,
+    "pop2023": 1223910,
+    "city": "Xiangtan Hunan",
+    "country": "China",
+    "growthRate": 0.0208,
+    "type": "w",
+    "rank": 464
+  },
+  {
+    "population": 1247180,
+    "pop2024": 1247180,
+    "pop2023": 1207280,
+    "city": "Pizhou",
+    "country": "China",
+    "growthRate": 0.033,
+    "type": "w",
+    "rank": 465
+  },
+  {
+    "population": 1244980,
+    "pop2024": 1244980,
+    "pop2023": 1221960,
+    "city": "Tiruchirappalli",
+    "country": "India",
+    "growthRate": 0.0188,
+    "type": "w",
+    "rank": 466
+  },
+  {
+    "population": 1243880,
+    "pop2024": 1243880,
+    "pop2023": 1240930,
+    "city": "Chelyabinsk",
+    "country": "Russia",
+    "growthRate": 0.0024,
+    "type": "w",
+    "rank": 467
+  },
+  {
+    "population": 1242320,
+    "pop2024": 1242320,
+    "pop2023": 1226430,
+    "city": "Mendoza",
+    "country": "Argentina",
+    "growthRate": 0.013,
+    "type": "w",
+    "rank": 468
+  },
+  {
+    "population": 1241150,
+    "pop2024": 1241150,
+    "pop2023": 1197940,
+    "city": "Luohe",
+    "country": "China",
+    "growthRate": 0.0361,
+    "type": "w",
+    "rank": 469
+  },
+  {
+    "population": 1240160,
+    "pop2024": 1240160,
+    "pop2023": 1183040,
+    "city": "Xiongan",
+    "country": "China",
+    "growthRate": 0.0483,
+    "type": "w",
+    "rank": 470
+  },
+  {
+    "population": 1239700,
+    "pop2024": 1239700,
+    "pop2023": 1214780,
+    "city": "Chandigarh",
+    "country": "India",
+    "growthRate": 0.0205,
+    "type": "w",
+    "rank": 471
+  },
+  {
+    "population": 1239650,
+    "pop2024": 1239650,
+    "pop2023": 1220600,
+    "city": "Merida",
+    "country": "Mexico",
+    "growthRate": 0.0156,
+    "type": "w",
+    "rank": 472
+  },
+  {
+    "population": 1238380,
+    "pop2024": 1238380,
+    "pop2023": 1215380,
+    "city": "Jinzhou",
+    "country": "China",
+    "growthRate": 0.0189,
+    "type": "w",
+    "rank": 473
+  },
+  {
+    "population": 1237550,
+    "pop2024": 1237550,
+    "pop2023": 1216850,
+    "city": "Benxi",
+    "country": "China",
+    "growthRate": 0.017,
+    "type": "w",
+    "rank": 474
+  },
+  {
+    "population": 1233580,
+    "pop2024": 1233580,
+    "pop2023": 1200220,
+    "city": "Binzhou",
+    "country": "China",
+    "growthRate": 0.0278,
+    "type": "w",
+    "rank": 475
+  },
+  {
+    "population": 1230410,
+    "pop2024": 1230410,
+    "pop2023": 1188800,
+    "city": "Aba",
+    "country": "Nigeria",
+    "growthRate": 0.035,
+    "type": "w",
+    "rank": 476
+  },
+  {
+    "population": 1228770,
+    "pop2024": 1228770,
+    "pop2023": 1213350,
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "growthRate": 0.0127,
+    "type": "w",
+    "rank": 477
+  },
+  {
+    "population": 1225590,
+    "pop2024": 1225590,
+    "pop2023": 1175990,
+    "city": "Bazhong",
+    "country": "China",
+    "growthRate": 0.0422,
+    "type": "w",
+    "rank": 478
+  },
+  {
+    "population": 1221500,
+    "pop2024": 1221500,
+    "pop2023": 1190350,
+    "city": "Quetta",
+    "country": "Pakistan",
+    "growthRate": 0.0262,
+    "type": "w",
+    "rank": 479
+  },
+  {
+    "population": 1221450,
+    "pop2024": 1221450,
+    "pop2023": 1187400,
+    "city": "Kaduna",
+    "country": "Nigeria",
+    "growthRate": 0.0287,
+    "type": "w",
+    "rank": 480
+  },
+  {
+    "population": 1218070,
+    "pop2024": 1218070,
+    "pop2023": 1196840,
+    "city": "Guilin",
+    "country": "China",
+    "growthRate": 0.0177,
+    "type": "w",
+    "rank": 481
+  },
+  {
+    "population": 1207860,
+    "pop2024": 1207860,
+    "pop2023": 1171690,
+    "city": "Saharanpur",
+    "country": "India",
+    "growthRate": 0.0309,
+    "type": "w",
+    "rank": 482
+  },
+  {
+    "population": 1205430,
+    "pop2024": 1205430,
+    "pop2023": 1181190,
+    "city": "Hubli-Dharwad",
+    "country": "India",
+    "growthRate": 0.0205,
+    "type": "w",
+    "rank": 483
+  },
+  {
+    "population": 1201400,
+    "pop2024": 1201400,
+    "pop2023": 1169860,
+    "city": "Yueqing",
+    "country": "China",
+    "growthRate": 0.027,
+    "type": "w",
+    "rank": 484
+  },
+  {
+    "population": 1199460,
+    "pop2024": 1199460,
+    "pop2023": 1176330,
+    "city": "Guwahati",
+    "country": "India",
+    "growthRate": 0.0197,
+    "type": "w",
+    "rank": 485
+  },
+  {
+    "population": 1196980,
+    "pop2024": 1196980,
+    "pop2023": 1178480,
+    "city": "Mexicali",
+    "country": "Mexico",
+    "growthRate": 0.0157,
+    "type": "w",
+    "rank": 486
+  },
+  {
+    "population": 1194760,
+    "pop2024": 1194760,
+    "pop2023": 1169950,
+    "city": "Salem",
+    "country": "India",
+    "growthRate": 0.0212,
+    "type": "w",
+    "rank": 487
+  },
+  {
+    "population": 1193250,
+    "pop2024": 1193250,
+    "pop2023": 1162790,
+    "city": "Maputo",
+    "country": "Mozambique",
+    "growthRate": 0.0262,
+    "type": "w",
+    "rank": 488
+  },
+  {
+    "population": 1192440,
+    "pop2024": 1192440,
+    "pop2023": 1183290,
+    "city": "Tripoli",
+    "country": "Libya",
+    "growthRate": 0.0077,
+    "type": "w",
+    "rank": 489
+  },
+  {
+    "population": 1186480,
+    "pop2024": 1186480,
+    "pop2023": 1174430,
+    "city": "Haifa",
+    "country": "Israel",
+    "growthRate": 0.0103,
+    "type": "w",
+    "rank": 490
+  },
+  {
+    "population": 1186230,
+    "pop2024": 1186230,
+    "pop2023": 1162240,
+    "city": "Bandar Lampung",
+    "country": "Indonesia",
+    "growthRate": 0.0206,
+    "type": "w",
+    "rank": 491
+  },
+  {
+    "population": 1185050,
+    "pop2024": 1185050,
+    "pop2023": 1128650,
+    "city": "Bobo-Dioulasso",
+    "country": "Burkina Faso",
+    "growthRate": 0.05,
+    "type": "w",
+    "rank": 492
+  },
+  {
+    "population": 1181820,
+    "pop2024": 1181820,
+    "pop2023": 1174020,
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "growthRate": 0.0066,
+    "type": "w",
+    "rank": 493
+  },
+  {
+    "population": 1181020,
+    "pop2024": 1181020,
+    "pop2023": 1155070,
+    "city": "Shimkent",
+    "country": "Kazakhstan",
+    "growthRate": 0.0225,
+    "type": "w",
+    "rank": 494
+  },
+  {
+    "population": 1180680,
+    "pop2024": 1180680,
+    "pop2023": 1180740,
+    "city": "Omsk",
+    "country": "Russia",
+    "growthRate": -0.0001,
+    "type": "w",
+    "rank": 495
+  },
+  {
+    "population": 1179300,
+    "pop2024": 1179300,
+    "pop2023": 1161450,
+    "city": "Aguascalientes",
+    "country": "Mexico",
+    "growthRate": 0.0154,
+    "type": "w",
+    "rank": 496
+  },
+  {
+    "population": 1176620,
+    "pop2024": 1176620,
+    "pop2023": 1127200,
+    "city": "Hargeysa",
+    "country": "Somalia",
+    "growthRate": 0.0438,
+    "type": "w",
+    "rank": 497
+  },
+  {
+    "population": 1173100,
+    "pop2024": 1173100,
+    "pop2023": 1166790,
+    "city": "Krasnoyarsk",
+    "country": "Russia",
+    "growthRate": 0.0054,
+    "type": "w",
+    "rank": 498
+  },
+  {
+    "population": 1160840,
+    "pop2024": 1160840,
+    "pop2023": 1140600,
+    "city": "Xinxiang",
+    "country": "China",
+    "growthRate": 0.0177,
+    "type": "w",
+    "rank": 499
+  },
+  {
+    "population": 1159370,
+    "pop2024": 1159370,
+    "pop2023": 1126250,
+    "city": "Siliguri",
+    "country": "India",
+    "growthRate": 0.0294,
+    "type": "w",
+    "rank": 500
+  },
+  {
+    "population": 1159260,
+    "pop2024": 1159260,
+    "pop2023": 1131360,
+    "city": "Wenling",
+    "country": "China",
+    "growthRate": 0.0247,
+    "type": "w",
+    "rank": 501
+  },
+  {
+    "population": 1154450,
+    "pop2024": 1154450,
+    "pop2023": 1155730,
+    "city": "Samara",
+    "country": "Russia",
+    "growthRate": -0.0011,
+    "type": "w",
+    "rank": 502
+  },
+  {
+    "population": 1150860,
+    "pop2024": 1150860,
+    "pop2023": 1133630,
+    "city": "Zaozhuang",
+    "country": "China",
+    "growthRate": 0.0152,
+    "type": "w",
+    "rank": 503
+  },
+  {
+    "population": 1149010,
+    "pop2024": 1149010,
+    "pop2023": 1143720,
+    "city": "Cologne",
+    "country": "Germany",
+    "growthRate": 0.0046,
+    "type": "w",
+    "rank": 504
+  },
+  {
+    "population": 1147970,
+    "pop2024": 1147970,
+    "pop2023": 1135670,
+    "city": "Yongin",
+    "country": "South Korea",
+    "growthRate": 0.0108,
+    "type": "w",
+    "rank": 505
+  },
+  {
+    "population": 1146790,
+    "pop2024": 1146790,
+    "pop2023": 1144800,
+    "city": "Ufa",
+    "country": "Russia",
+    "growthRate": 0.0017,
+    "type": "w",
+    "rank": 506
+  },
+  {
+    "population": 1146340,
+    "pop2024": 1146340,
+    "pop2023": 1120690,
+    "city": "Fuyang",
+    "country": "China",
+    "growthRate": 0.0229,
+    "type": "w",
+    "rank": 507
+  },
+  {
+    "population": 1145220,
+    "pop2024": 1145220,
+    "pop2023": 1093310,
+    "city": "Ikorodu",
+    "country": "Nigeria",
+    "growthRate": 0.0475,
+    "type": "w",
+    "rank": 508
+  },
+  {
+    "population": 1143000,
+    "pop2024": 1143000,
+    "pop2023": 1110820,
+    "city": "Bien Hoa",
+    "country": "Vietnam",
+    "growthRate": 0.029,
+    "type": "w",
+    "rank": 509
+  },
+  {
+    "population": 1142680,
+    "pop2024": 1142680,
+    "pop2023": 1118830,
+    "city": "Jalandhar",
+    "country": "India",
+    "growthRate": 0.0213,
+    "type": "w",
+    "rank": 510
+  },
+  {
+    "population": 1142540,
+    "pop2024": 1142540,
+    "pop2023": 1120680,
+    "city": "Panjin",
+    "country": "China",
+    "growthRate": 0.0195,
+    "type": "w",
+    "rank": 511
+  },
+  {
+    "population": 1140260,
+    "pop2024": 1140260,
+    "pop2023": 1112680,
+    "city": "Ma'anshan",
+    "country": "China",
+    "growthRate": 0.0248,
+    "type": "w",
+    "rank": 512
+  },
+  {
+    "population": 1140170,
+    "pop2024": 1140170,
+    "pop2023": 1123840,
+    "city": "Cuernavaca",
+    "country": "Mexico",
+    "growthRate": 0.0145,
+    "type": "w",
+    "rank": 513
+  },
+  {
+    "population": 1139640,
+    "pop2024": 1139640,
+    "pop2023": 1138850,
+    "city": "Rostov-on-Don",
+    "country": "Russia",
+    "growthRate": 0.0007,
+    "type": "w",
+    "rank": 514
+  },
+  {
+    "population": 1135340,
+    "pop2024": 1135340,
+    "pop2023": 1116300,
+    "city": "Chihuahua",
+    "country": "Mexico",
+    "growthRate": 0.0171,
+    "type": "w",
+    "rank": 515
+  },
+  {
+    "population": 1131720,
+    "pop2024": 1131720,
+    "pop2023": 1100270,
+    "city": "Fuzhou Jiangxi",
+    "country": "China",
+    "growthRate": 0.0286,
+    "type": "w",
+    "rank": 516
+  },
+  {
+    "population": 1131230,
+    "pop2024": 1131230,
+    "pop2023": 1077110,
+    "city": "Tshikapa",
+    "country": "DR Congo",
+    "growthRate": 0.0502,
+    "type": "w",
+    "rank": 517
+  },
+  {
+    "population": 1130890,
+    "pop2024": 1130890,
+    "pop2023": 1106740,
+    "city": "Shangrao",
+    "country": "China",
+    "growthRate": 0.0218,
+    "type": "w",
+    "rank": 518
+  },
+  {
+    "population": 1128180,
+    "pop2024": 1128180,
+    "pop2023": 1100320,
+    "city": "Samarinda",
+    "country": "Indonesia",
+    "growthRate": 0.0253,
+    "type": "w",
+    "rank": 519
+  },
+  {
+    "population": 1127720,
+    "pop2024": 1127720,
+    "pop2023": 1104740,
+    "city": "Bishkek",
+    "country": "Kyrgyzstan",
+    "growthRate": 0.0208,
+    "type": "w",
+    "rank": 520
+  },
+  {
+    "population": 1127600,
+    "pop2024": 1127600,
+    "pop2023": 1103200,
+    "city": "Zhaoqing",
+    "country": "China",
+    "growthRate": 0.0221,
+    "type": "w",
+    "rank": 521
+  },
+  {
+    "population": 1123380,
+    "pop2024": 1123380,
+    "pop2023": 1116050,
+    "city": "San Salvador",
+    "country": "El Salvador",
+    "growthRate": 0.0066,
+    "type": "w",
+    "rank": 522
+  },
+  {
+    "population": 1122040,
+    "pop2024": 1122040,
+    "pop2023": 1078630,
+    "city": "Yichun Jiangxi",
+    "country": "China",
+    "growthRate": 0.0402,
+    "type": "w",
+    "rank": 523
+  },
+  {
+    "population": 1119790,
+    "pop2024": 1119790,
+    "pop2023": 1084970,
+    "city": "Chenzhou",
+    "country": "China",
+    "growthRate": 0.0321,
+    "type": "w",
+    "rank": 524
+  },
+  {
+    "population": 1119530,
+    "pop2024": 1119530,
+    "pop2023": 1077930,
+    "city": "Sekondi Takoradi",
+    "country": "Ghana",
+    "growthRate": 0.0386,
+    "type": "w",
+    "rank": 525
+  },
+  {
+    "population": 1116500,
+    "pop2024": 1116500,
+    "pop2023": 1087410,
+    "city": "Leshan",
+    "country": "China",
+    "growthRate": 0.0268,
+    "type": "w",
+    "rank": 526
+  },
+  {
+    "population": 1116190,
+    "pop2024": 1116190,
+    "pop2023": 1079670,
+    "city": "Aden",
+    "country": "Yemen",
+    "growthRate": 0.0338,
+    "type": "w",
+    "rank": 527
+  },
+  {
+    "population": 1114080,
+    "pop2024": 1114080,
+    "pop2023": 1105280,
+    "city": "Goyang",
+    "country": "South Korea",
+    "growthRate": 0.008,
+    "type": "w",
+    "rank": 528
+  },
+  {
+    "population": 1113330,
+    "pop2024": 1113330,
+    "pop2023": 1096940,
+    "city": "Diyarbakir",
+    "country": "Turkey",
+    "growthRate": 0.0149,
+    "type": "w",
+    "rank": 529
+  },
+  {
+    "population": 1111750,
+    "pop2024": 1111750,
+    "pop2023": 1072670,
+    "city": "Asmara",
+    "country": "Eritrea",
+    "growthRate": 0.0364,
+    "type": "w",
+    "rank": 530
+  },
+  {
+    "population": 1108360,
+    "pop2024": 1108360,
+    "pop2023": 1080680,
+    "city": "Dezhou",
+    "country": "China",
+    "growthRate": 0.0256,
+    "type": "w",
+    "rank": 531
+  },
+  {
+    "population": 1108070,
+    "pop2024": 1108070,
+    "pop2023": 1089890,
+    "city": "Jingzhou Hubei",
+    "country": "China",
+    "growthRate": 0.0167,
+    "type": "w",
+    "rank": 532
+  },
+  {
+    "population": 1107120,
+    "pop2024": 1107120,
+    "pop2023": 1094510,
+    "city": "Managua",
+    "country": "Nicaragua",
+    "growthRate": 0.0115,
+    "type": "w",
+    "rank": 533
+  },
+  {
+    "population": 1107000,
+    "pop2024": 1107000,
+    "pop2023": 1086210,
+    "city": "Johor Bahru",
+    "country": "Malaysia",
+    "growthRate": 0.0191,
+    "type": "w",
+    "rank": 534
+  },
+  {
+    "population": 1101610,
+    "pop2024": 1101610,
+    "pop2023": 1084620,
+    "city": "Kermanshah",
+    "country": "Iran",
+    "growthRate": 0.0157,
+    "type": "w",
+    "rank": 535
+  },
+  {
+    "population": 1101310,
+    "pop2024": 1101310,
+    "pop2023": 1056950,
+    "city": "Nyala",
+    "country": "Sudan",
+    "growthRate": 0.042,
+    "type": "w",
+    "rank": 536
+  },
+  {
+    "population": 1100870,
+    "pop2024": 1100870,
+    "pop2023": 1085990,
+    "city": "Oslo",
+    "country": "Norway",
+    "growthRate": 0.0137,
+    "type": "w",
+    "rank": 537
+  },
+  {
+    "population": 1100390,
+    "pop2024": 1100390,
+    "pop2023": 1074880,
+    "city": "Kirkuk",
+    "country": "Iraq",
+    "growthRate": 0.0237,
+    "type": "w",
+    "rank": 538
+  },
+  {
+    "population": 1097540,
+    "pop2024": 1097540,
+    "pop2023": 1094810,
+    "city": "Yerevan",
+    "country": "Armenia",
+    "growthRate": 0.0025,
+    "type": "w",
+    "rank": 539
+  },
+  {
+    "population": 1096460,
+    "pop2024": 1096460,
+    "pop2023": 1087600,
+    "city": "Cartagena",
+    "country": "Colombia",
+    "growthRate": 0.0081,
+    "type": "w",
+    "rank": 540
+  },
+  {
+    "population": 1093690,
+    "pop2024": 1093690,
+    "pop2023": 1059900,
+    "city": "Changshu",
+    "country": "China",
+    "growthRate": 0.0319,
+    "type": "w",
+    "rank": 541
+  },
+  {
+    "population": 1091810,
+    "pop2024": 1091810,
+    "pop2023": 1067650,
+    "city": "Huzhou",
+    "country": "China",
+    "growthRate": 0.0226,
+    "type": "w",
+    "rank": 542
+  },
+  {
+    "population": 1091740,
+    "pop2024": 1091740,
+    "pop2023": 1063880,
+    "city": "Xuchang",
+    "country": "China",
+    "growthRate": 0.0262,
+    "type": "w",
+    "rank": 543
+  },
+  {
+    "population": 1088130,
+    "pop2024": 1088130,
+    "pop2023": 1070320,
+    "city": "Solapur",
+    "country": "India",
+    "growthRate": 0.0166,
+    "type": "w",
+    "rank": 544
+  },
+  {
+    "population": 1085200,
+    "pop2024": 1085200,
+    "pop2023": 1079120,
+    "city": "Lille",
+    "country": "France",
+    "growthRate": 0.0056,
+    "type": "w",
+    "rank": 545
+  },
+  {
+    "population": 1084820,
+    "pop2024": 1084820,
+    "pop2023": 1069400,
+    "city": "Mersin",
+    "country": "Turkey",
+    "growthRate": 0.0144,
+    "type": "w",
+    "rank": 546
+  },
+  {
+    "population": 1084470,
+    "pop2024": 1084470,
+    "pop2023": 1082240,
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "growthRate": 0.0021,
+    "type": "w",
+    "rank": 547
+  },
+  {
+    "population": 1084120,
+    "pop2024": 1084120,
+    "pop2023": 1081770,
+    "city": "Perm",
+    "country": "Russia",
+    "growthRate": 0.0022,
+    "type": "w",
+    "rank": 548
+  },
+  {
+    "population": 1083720,
+    "pop2024": 1083720,
+    "pop2023": 1080810,
+    "city": "Voronezh",
+    "country": "Russia",
+    "growthRate": 0.0027,
+    "type": "w",
+    "rank": 549
+  },
+  {
+    "population": 1075240,
+    "pop2024": 1075240,
+    "pop2023": 1053040,
+    "city": "Denpasar",
+    "country": "Indonesia",
+    "growthRate": 0.0211,
+    "type": "w",
+    "rank": 550
+  },
+  {
+    "population": 1070750,
+    "pop2024": 1070750,
+    "pop2023": 1060460,
+    "city": "Toulouse",
+    "country": "France",
+    "growthRate": 0.0097,
+    "type": "w",
+    "rank": 551
+  },
+  {
+    "population": 1070620,
+    "pop2024": 1070620,
+    "pop2023": 1030970,
+    "city": "Blantyre-Limbe",
+    "country": "Malawi",
+    "growthRate": 0.0385,
+    "type": "w",
+    "rank": 552
+  },
+  {
+    "population": 1070120,
+    "pop2024": 1070120,
+    "pop2023": 1056990,
+    "city": "Aracaju",
+    "country": "Brazil",
+    "growthRate": 0.0124,
+    "type": "w",
+    "rank": 553
+  },
+  {
+    "population": 1067170,
+    "pop2024": 1067170,
+    "pop2023": 1049690,
+    "city": "Marrakech",
+    "country": "Morocco",
+    "growthRate": 0.0167,
+    "type": "w",
+    "rank": 554
+  },
+  {
+    "population": 1066900,
+    "pop2024": 1066900,
+    "pop2023": 1038960,
+    "city": "Qujing",
+    "country": "China",
+    "growthRate": 0.0269,
+    "type": "w",
+    "rank": 555
+  },
+  {
+    "population": 1064170,
+    "pop2024": 1064170,
+    "pop2023": 1048890,
+    "city": "Yueyang",
+    "country": "China",
+    "growthRate": 0.0146,
+    "type": "w",
+    "rank": 556
+  },
+  {
+    "population": 1063710,
+    "pop2024": 1063710,
+    "pop2023": 1030500,
+    "city": "Ilorin",
+    "country": "Nigeria",
+    "growthRate": 0.0322,
+    "type": "w",
+    "rank": 557
+  },
+  {
+    "population": 1062570,
+    "pop2024": 1062570,
+    "pop2023": 1047250,
+    "city": "Tampico",
+    "country": "Mexico",
+    "growthRate": 0.0146,
+    "type": "w",
+    "rank": 558
+  },
+  {
+    "population": 1061090,
+    "pop2024": 1061090,
+    "pop2023": 1057220,
+    "city": "Antwerp",
+    "country": "Belgium",
+    "growthRate": 0.0037,
+    "type": "w",
+    "rank": 559
+  },
+  {
+    "population": 1059660,
+    "pop2024": 1059660,
+    "pop2023": 1050460,
+    "city": "Teresina",
+    "country": "Brazil",
+    "growthRate": 0.0088,
+    "type": "w",
+    "rank": 560
+  },
+  {
+    "population": 1055920,
+    "pop2024": 1055920,
+    "pop2023": 1020400,
+    "city": "Guiping",
+    "country": "China",
+    "growthRate": 0.0348,
+    "type": "w",
+    "rank": 561
+  },
+  {
+    "population": 1055600,
+    "pop2024": 1055600,
+    "pop2023": 1031090,
+    "city": "Warangal",
+    "country": "India",
+    "growthRate": 0.0238,
+    "type": "w",
+    "rank": 562
+  },
+  {
+    "population": 1055370,
+    "pop2024": 1055370,
+    "pop2023": 1054440,
+    "city": "Changwon",
+    "country": "South Korea",
+    "growthRate": 0.0009,
+    "type": "w",
+    "rank": 563
+  },
+  {
+    "population": 1052850,
+    "pop2024": 1052850,
+    "pop2023": 1033640,
+    "city": "Padang",
+    "country": "Indonesia",
+    "growthRate": 0.0186,
+    "type": "w",
+    "rank": 564
+  },
+  {
+    "population": 1050320,
+    "pop2024": 1050320,
+    "pop2023": 1034130,
+    "city": "Saltillo",
+    "country": "Mexico",
+    "growthRate": 0.0157,
+    "type": "w",
+    "rank": 565
+  },
+  {
+    "population": 1049490,
+    "pop2024": 1049490,
+    "pop2023": 1023760,
+    "city": "Xintai",
+    "country": "China",
+    "growthRate": 0.0251,
+    "type": "w",
+    "rank": 566
+  },
+  {
+    "population": 1045000,
+    "pop2024": 1045000,
+    "pop2023": 1022600,
+    "city": "Cancun",
+    "country": "Mexico",
+    "growthRate": 0.0219,
+    "type": "w",
+    "rank": 567
+  },
+  {
+    "population": 1042610,
+    "pop2024": 1042610,
+    "pop2023": 1024940,
+    "city": "Cebu City",
+    "country": "Philippines",
+    "growthRate": 0.0172,
+    "type": "w",
+    "rank": 568
+  },
+  {
+    "population": 1039230,
+    "pop2024": 1039230,
+    "pop2023": 1026770,
+    "city": "San Miguel de Tucuman",
+    "country": "Argentina",
+    "growthRate": 0.0121,
+    "type": "w",
+    "rank": 569
+  },
+  {
+    "population": 1034500,
+    "pop2024": 1034500,
+    "pop2023": 995747,
+    "city": "Hamah",
+    "country": "Syria",
+    "growthRate": 0.0389,
+    "type": "w",
+    "rank": 570
+  },
+  {
+    "population": 1032770,
+    "pop2024": 1032770,
+    "pop2023": 1018980,
+    "city": "Acapulco de Juarez",
+    "country": "Mexico",
+    "growthRate": 0.0135,
+    "type": "w",
+    "rank": 571
+  },
+  {
+    "population": 1031420,
+    "pop2024": 1031420,
+    "pop2023": 986921,
+    "city": "Warri",
+    "country": "Nigeria",
+    "growthRate": 0.0451,
+    "type": "w",
+    "rank": 572
+  },
+  {
+    "population": 1025510,
+    "pop2024": 1025510,
+    "pop2023": 1013240,
+    "city": "Kayseri",
+    "country": "Turkey",
+    "growthRate": 0.0121,
+    "type": "w",
+    "rank": 573
+  },
+  {
+    "population": 1024520,
+    "pop2024": 1024520,
+    "pop2023": 993097,
+    "city": "Chengde",
+    "country": "China",
+    "growthRate": 0.0316,
+    "type": "w",
+    "rank": 574
+  },
+  {
+    "population": 1022920,
+    "pop2024": 1022920,
+    "pop2023": 983352,
+    "city": "Owerri",
+    "country": "Nigeria",
+    "growthRate": 0.0402,
+    "type": "w",
+    "rank": 575
+  },
+  {
+    "population": 1021920,
+    "pop2024": 1021920,
+    "pop2023": 1018010,
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "growthRate": 0.0038,
+    "type": "w",
+    "rank": 576
+  },
+  {
+    "population": 1021580,
+    "pop2024": 1021580,
+    "pop2023": 999721,
+    "city": "Pingxiang Jiangxi",
+    "country": "China",
+    "growthRate": 0.0219,
+    "type": "w",
+    "rank": 577
+  },
+  {
+    "population": 1019600,
+    "pop2024": 1019600,
+    "pop2023": 991208,
+    "city": "Zhucheng",
+    "country": "China",
+    "growthRate": 0.0286,
+    "type": "w",
+    "rank": 578
+  },
+  {
+    "population": 1017780,
+    "pop2024": 1017780,
+    "pop2023": 1005010,
+    "city": "Songkhla",
+    "country": "Thailand",
+    "growthRate": 0.0127,
+    "type": "w",
+    "rank": 579
+  },
+  {
+    "population": 1016580,
+    "pop2024": 1016580,
+    "pop2023": 1008600,
+    "city": "Valparaiso",
+    "country": "Chile",
+    "growthRate": 0.0079,
+    "type": "w",
+    "rank": 580
+  },
+  {
+    "population": 1016400,
+    "pop2024": 1016400,
+    "pop2023": 991876,
+    "city": "Dehradun",
+    "country": "India",
+    "growthRate": 0.0247,
+    "type": "w",
+    "rank": 581
+  },
+  {
+    "population": 1013670,
+    "pop2024": 1013670,
+    "pop2023": 1000950,
+    "city": "Nonthaburi",
+    "country": "Thailand",
+    "growthRate": 0.0127,
+    "type": "w",
+    "rank": 582
+  },
+  {
+    "population": 1013190,
+    "pop2024": 1013190,
+    "pop2023": 978327,
+    "city": "Leiyang",
+    "country": "China",
+    "growthRate": 0.0356,
+    "type": "w",
+    "rank": 583
+  },
+  {
+    "population": 1012790,
+    "pop2024": 1012790,
+    "pop2023": 986899,
+    "city": "Dushanbe",
+    "country": "Tajikistan",
+    "growthRate": 0.0262,
+    "type": "w",
+    "rank": 584
+  },
+  {
+    "population": 1012580,
+    "pop2024": 1012580,
+    "pop2023": 969322,
+    "city": "Nampula",
+    "country": "Mozambique",
+    "growthRate": 0.0446,
+    "type": "w",
+    "rank": 585
+  },
+  {
+    "population": 1011120,
+    "pop2024": 1011120,
+    "pop2023": 984193,
+    "city": "Misratah",
+    "country": "Libya",
+    "growthRate": 0.0274,
+    "type": "w",
+    "rank": 586
+  },
+  {
+    "population": 1010550,
+    "pop2024": 1010550,
+    "pop2023": 1001160,
+    "city": "Krasnodar",
+    "country": "Russia",
+    "growthRate": 0.0094,
+    "type": "w",
+    "rank": 587
+  },
+  {
+    "population": 1009730,
+    "pop2024": 1009730,
+    "pop2023": 986248,
+    "city": "Laiwu",
+    "country": "China",
+    "growthRate": 0.0238,
+    "type": "w",
+    "rank": 588
+  },
+  {
+    "population": 1009590,
+    "pop2024": 1009590,
+    "pop2023": 1000480,
+    "city": "Bordeaux",
+    "country": "France",
+    "growthRate": 0.0091,
+    "type": "w",
+    "rank": 589
+  },
+  {
+    "population": 1008990,
+    "pop2024": 1008990,
+    "pop2023": 993175,
+    "city": "Jixi Heilongjiang",
+    "country": "China",
+    "growthRate": 0.0159,
+    "type": "w",
+    "rank": 590
+  },
+  {
+    "population": 1008220,
+    "pop2024": 1008220,
+    "pop2023": 982021,
+    "city": "San Pedro Sula",
+    "country": "Honduras",
+    "growthRate": 0.0267,
+    "type": "w",
+    "rank": 591
+  },
+  {
+    "population": 1007600,
+    "pop2024": 1007600,
+    "pop2023": 1007720,
+    "city": "Odesa",
+    "country": "Ukraine",
+    "growthRate": -0.0001,
+    "type": "w",
+    "rank": 592
+  },
+  {
+    "population": 1004250,
+    "pop2024": 1004250,
+    "pop2023": 982777,
+    "city": "Jiujiang",
+    "country": "China",
+    "growthRate": 0.0218,
+    "type": "w",
+    "rank": 593
+  },
+  {
+    "population": 1003020,
+    "pop2024": 1003020,
+    "pop2023": 958548,
+    "city": "Lubango",
+    "country": "Angola",
+    "growthRate": 0.0464,
+    "type": "w",
+    "rank": 594
+  },
+  {
+    "population": 1002460,
+    "pop2024": 1002460,
+    "pop2023": 988744,
+    "city": "Morelia",
+    "country": "Mexico",
+    "growthRate": 0.0139,
+    "type": "w",
+    "rank": 595
+  },
+  {
+    "population": 1001160,
+    "pop2024": 1001160,
+    "pop2023": 970129,
+    "city": "Jos",
+    "country": "Nigeria",
+    "growthRate": 0.032,
+    "type": "w",
+    "rank": 596
+  },
+  {
+    "population": 999374,
+    "pop2024": 999374,
+    "pop2023": 964291,
+    "city": "Sylhet",
+    "country": "Bangladesh",
+    "growthRate": 0.0364,
+    "type": "w",
+    "rank": 597
+  },
+  {
+    "population": 998146,
+    "pop2024": 998146,
+    "pop2023": 979248,
+    "city": "Agadir",
+    "country": "Morocco",
+    "growthRate": 0.0193,
+    "type": "w",
+    "rank": 598
+  },
+  {
+    "population": 997164,
+    "pop2024": 997164,
+    "pop2023": 985843,
+    "city": "Jacksonville",
+    "country": "United States",
+    "growthRate": 0.0115,
+    "type": "us",
+    "rank": 599
+  },
+  {
+    "population": 996756,
+    "pop2024": 996756,
+    "pop2023": 978468,
+    "city": "Fort Worth",
+    "country": "United States",
+    "growthRate": 0.0187,
+    "type": "us",
+    "rank": 600
+  },
+  {
+    "population": 993352,
+    "pop2024": 993352,
+    "pop2023": 995078,
+    "city": "Volgograd",
+    "country": "Russia",
+    "growthRate": -0.0017,
+    "type": "w",
+    "rank": 601
+  },
+  {
+    "population": 992414,
+    "pop2024": 992414,
+    "pop2023": 975348,
+    "city": "Mudanjiang",
+    "country": "China",
+    "growthRate": 0.0175,
+    "type": "w",
+    "rank": 602
+  },
+  {
+    "population": 990310,
+    "pop2024": 990310,
+    "pop2023": 967428,
+    "city": "Guigang",
+    "country": "China",
+    "growthRate": 0.0237,
+    "type": "w",
+    "rank": 603
+  },
+  {
+    "population": 987814,
+    "pop2024": 987814,
+    "pop2023": 958487,
+    "city": "Najaf",
+    "country": "Iraq",
+    "growthRate": 0.0306,
+    "type": "w",
+    "rank": 604
+  },
+  {
+    "population": 985965,
+    "pop2024": 985965,
+    "pop2023": 958335,
+    "city": "Bangui",
+    "country": "Central African Republic",
+    "growthRate": 0.0288,
+    "type": "w",
+    "rank": 605
+  },
+  {
+    "population": 984567,
+    "pop2024": 984567,
+    "pop2023": 979882,
+    "city": "Austin",
+    "country": "United States",
+    "growthRate": 0.0048,
+    "type": "us",
+    "rank": 606
+  },
+  {
+    "population": 983707,
+    "pop2024": 983707,
+    "pop2023": 961991,
+    "city": "Rajshahi",
+    "country": "Bangladesh",
+    "growthRate": 0.0226,
+    "type": "w",
+    "rank": 607
+  },
+  {
+    "population": 983694,
+    "pop2024": 983694,
+    "pop2023": 955663,
+    "city": "Hengshui",
+    "country": "China",
+    "growthRate": 0.0293,
+    "type": "w",
+    "rank": 608
+  },
+  {
+    "population": 983097,
+    "pop2024": 983097,
+    "pop2023": 969804,
+    "city": "Jerusalem",
+    "country": "Israel",
+    "growthRate": 0.0137,
+    "type": "w",
+    "rank": 609
+  },
+  {
+    "population": 980054,
+    "pop2024": 980054,
+    "pop2023": 955519,
+    "city": "Zhangzhou",
+    "country": "China",
+    "growthRate": 0.0257,
+    "type": "w",
+    "rank": 610
+  },
+  {
+    "population": 979303,
+    "pop2024": 979303,
+    "pop2023": 952278,
+    "city": "Xinyu",
+    "country": "China",
+    "growthRate": 0.0284,
+    "type": "w",
+    "rank": 611
+  },
+  {
+    "population": 978614,
+    "pop2024": 978614,
+    "pop2023": 951822,
+    "city": "Linfen",
+    "country": "China",
+    "growthRate": 0.0281,
+    "type": "w",
+    "rank": 612
+  },
+  {
+    "population": 978317,
+    "pop2024": 978317,
+    "pop2023": 953768,
+    "city": "Tianmen",
+    "country": "China",
+    "growthRate": 0.0257,
+    "type": "w",
+    "rank": 613
+  },
+  {
+    "population": 978202,
+    "pop2024": 978202,
+    "pop2023": 964266,
+    "city": "Ciudad Guayana",
+    "country": "Venezuela",
+    "growthRate": 0.0145,
+    "type": "w",
+    "rank": 614
+  },
+  {
+    "population": 977081,
+    "pop2024": 977081,
+    "pop2023": 960349,
+    "city": "Zamboanga City",
+    "country": "Philippines",
+    "growthRate": 0.0174,
+    "type": "w",
+    "rank": 615
+  },
+  {
+    "population": 976606,
+    "pop2024": 976606,
+    "pop2023": 956079,
+    "city": "Yangjiang",
+    "country": "China",
+    "growthRate": 0.0215,
+    "type": "w",
+    "rank": 616
+  },
+  {
+    "population": 974518,
+    "pop2024": 974518,
+    "pop2023": 940600,
+    "city": "Taiz",
+    "country": "Yemen",
+    "growthRate": 0.0361,
+    "type": "w",
+    "rank": 617
+  },
+  {
+    "population": 972485,
+    "pop2024": 972485,
+    "pop2023": 963045,
+    "city": "Cucuta",
+    "country": "Colombia",
+    "growthRate": 0.0098,
+    "type": "w",
+    "rank": 618
+  },
+  {
+    "population": 971296,
+    "pop2024": 971296,
+    "pop2023": 958998,
+    "city": "Arequipa",
+    "country": "Peru",
+    "growthRate": 0.0128,
+    "type": "w",
+    "rank": 619
+  },
+  {
+    "population": 970907,
+    "pop2024": 970907,
+    "pop2023": 936997,
+    "city": "Liling",
+    "country": "China",
+    "growthRate": 0.0362,
+    "type": "w",
+    "rank": 620
+  },
+  {
+    "population": 968288,
+    "pop2024": 968288,
+    "pop2023": 946653,
+    "city": "Antipolo",
+    "country": "Philippines",
+    "growthRate": 0.0229,
+    "type": "w",
+    "rank": 621
+  },
+  {
+    "population": 968070,
+    "pop2024": 968070,
+    "pop2023": 955226,
+    "city": "Veracruz",
+    "country": "Mexico",
+    "growthRate": 0.0134,
+    "type": "w",
+    "rank": 622
+  },
+  {
+    "population": 967627,
+    "pop2024": 967627,
+    "pop2023": 951417,
+    "city": "Reynosa",
+    "country": "Mexico",
+    "growthRate": 0.017,
+    "type": "w",
+    "rank": 623
+  },
+  {
+    "population": 965483,
+    "pop2024": 965483,
+    "pop2023": 955104,
+    "city": "Khulna",
+    "country": "Bangladesh",
+    "growthRate": 0.0109,
+    "type": "w",
+    "rank": 624
+  },
+  {
+    "population": 963160,
+    "pop2024": 963160,
+    "pop2023": 939166,
+    "city": "Deyang",
+    "country": "China",
+    "growthRate": 0.0255,
+    "type": "w",
+    "rank": 625
+  },
+  {
+    "population": 962126,
+    "pop2024": 962126,
+    "pop2023": 950048,
+    "city": "Pathum Thani",
+    "country": "Thailand",
+    "growthRate": 0.0127,
+    "type": "w",
+    "rank": 626
+  },
+  {
+    "population": 959784,
+    "pop2024": 959784,
+    "pop2023": 944465,
+    "city": "Bengbu",
+    "country": "China",
+    "growthRate": 0.0162,
+    "type": "w",
+    "rank": 627
+  },
+  {
+    "population": 959250,
+    "pop2024": 959250,
+    "pop2023": 933395,
+    "city": "Jiangyin",
+    "country": "China",
+    "growthRate": 0.0277,
+    "type": "w",
+    "rank": 628
+  },
+  {
+    "population": 959202,
+    "pop2024": 959202,
+    "pop2023": 951531,
+    "city": "Southampton",
+    "country": "United Kingdom",
+    "growthRate": 0.0081,
+    "type": "w",
+    "rank": 629
+  },
+  {
+    "population": 958118,
+    "pop2024": 958118,
+    "pop2023": 943530,
+    "city": "Villahermosa",
+    "country": "Mexico",
+    "growthRate": 0.0155,
+    "type": "w",
+    "rank": 630
+  },
+  {
+    "population": 956976,
+    "pop2024": 956976,
+    "pop2023": 927532,
+    "city": "Baishan",
+    "country": "China",
+    "growthRate": 0.0317,
+    "type": "w",
+    "rank": 631
+  },
+  {
+    "population": 956433,
+    "pop2024": 956433,
+    "pop2023": 969655,
+    "city": "San Jose",
+    "country": "United States",
+    "growthRate": -0.0136,
+    "type": "us",
+    "rank": 632
+  },
+  {
+    "population": 951808,
+    "pop2024": 951808,
+    "pop2023": 948149,
+    "city": "Nice",
+    "country": "France",
+    "growthRate": 0.0039,
+    "type": "w",
+    "rank": 633
+  },
+  {
+    "population": 950768,
+    "pop2024": 950768,
+    "pop2023": 935947,
+    "city": "Oran",
+    "country": "Algeria",
+    "growthRate": 0.0158,
+    "type": "w",
+    "rank": 634
+  },
+  {
+    "population": 947734,
+    "pop2024": 947734,
+    "pop2023": 934341,
+    "city": "West Rand",
+    "country": "South Africa",
+    "growthRate": 0.0143,
+    "type": "w",
+    "rank": 635
+  },
+  {
+    "population": 947634,
+    "pop2024": 947634,
+    "pop2023": 904676,
+    "city": "Cabinda",
+    "country": "Angola",
+    "growthRate": 0.0475,
+    "type": "w",
+    "rank": 636
+  },
+  {
+    "population": 947460,
+    "pop2024": 947460,
+    "pop2023": 904139,
+    "city": "Umuahia",
+    "country": "Nigeria",
+    "growthRate": 0.0479,
+    "type": "w",
+    "rank": 637
+  },
+  {
+    "population": 944877,
+    "pop2024": 944877,
+    "pop2023": 905814,
+    "city": "Bogra",
+    "country": "Bangladesh",
+    "growthRate": 0.0431,
+    "type": "w",
+    "rank": 638
+  },
+  {
+    "population": 944812,
+    "pop2024": 944812,
+    "pop2023": 919654,
+    "city": "Bahawalpur",
+    "country": "Pakistan",
+    "growthRate": 0.0274,
+    "type": "w",
+    "rank": 639
+  },
+  {
+    "population": 942159,
+    "pop2024": 942159,
+    "pop2023": 941508,
+    "city": "Seongnam",
+    "country": "South Korea",
+    "growthRate": 0.0007,
+    "type": "w",
+    "rank": 640
+  },
+  {
+    "population": 940205,
+    "pop2024": 940205,
+    "pop2023": 918324,
+    "city": "Guntur",
+    "country": "India",
+    "growthRate": 0.0238,
+    "type": "w",
+    "rank": 641
+  },
+  {
+    "population": 936766,
+    "pop2024": 936766,
+    "pop2023": 941586,
+    "city": "Dnipro",
+    "country": "Ukraine",
+    "growthRate": -0.0051,
+    "type": "w",
+    "rank": 642
+  },
+  {
+    "population": 934936,
+    "pop2024": 934936,
+    "pop2023": 926095,
+    "city": "Campo Grande",
+    "country": "Brazil",
+    "growthRate": 0.0095,
+    "type": "w",
+    "rank": 643
+  },
+  {
+    "population": 933392,
+    "pop2024": 933392,
+    "pop2023": 919443,
+    "city": "Malang",
+    "country": "Indonesia",
+    "growthRate": 0.0152,
+    "type": "w",
+    "rank": 644
+  },
+  {
+    "population": 932892,
+    "pop2024": 932892,
+    "pop2023": 922425,
+    "city": "Londrina",
+    "country": "Brazil",
+    "growthRate": 0.0113,
+    "type": "w",
+    "rank": 645
+  },
+  {
+    "population": 932648,
+    "pop2024": 932648,
+    "pop2023": 917936,
+    "city": "Dandong",
+    "country": "China",
+    "growthRate": 0.016,
+    "type": "w",
+    "rank": 646
+  },
+  {
+    "population": 930620,
+    "pop2024": 930620,
+    "pop2023": 910743,
+    "city": "Changzhi",
+    "country": "China",
+    "growthRate": 0.0218,
+    "type": "w",
+    "rank": 647
+  },
+  {
+    "population": 929961,
+    "pop2024": 929961,
+    "pop2023": 915060,
+    "city": "Hermosillo",
+    "country": "Mexico",
+    "growthRate": 0.0163,
+    "type": "w",
+    "rank": 648
+  },
+  {
+    "population": 924670,
+    "pop2024": 924670,
+    "pop2023": 906581,
+    "city": "Bhiwandi",
+    "country": "India",
+    "growthRate": 0.02,
+    "type": "w",
+    "rank": 649
+  },
+  {
+    "population": 923715,
+    "pop2024": 923715,
+    "pop2023": 914036,
+    "city": "La Plata",
+    "country": "Argentina",
+    "growthRate": 0.0106,
+    "type": "w",
+    "rank": 650
+  },
+  {
+    "population": 923164,
+    "pop2024": 923164,
+    "pop2023": 911311,
+    "city": "Charlotte",
+    "country": "United States",
+    "growthRate": 0.013,
+    "type": "us",
+    "rank": 651
+  },
+  {
+    "population": 922871,
+    "pop2024": 922871,
+    "pop2023": 917032,
+    "city": "Liverpool",
+    "country": "United Kingdom",
+    "growthRate": 0.0064,
+    "type": "w",
+    "rank": 652
+  },
+  {
+    "population": 921601,
+    "pop2024": 921601,
+    "pop2023": 902353,
+    "city": "Ashgabat",
+    "country": "Turkmenistan",
+    "growthRate": 0.0213,
+    "type": "w",
+    "rank": 653
+  },
+  {
+    "population": 920916,
+    "pop2024": 920916,
+    "pop2023": 911862,
+    "city": "Concepcion",
+    "country": "Chile",
+    "growthRate": 0.0099,
+    "type": "w",
+    "rank": 654
+  },
+  {
+    "population": 919280,
+    "pop2024": 919280,
+    "pop2023": 897983,
+    "city": "Puducherry",
+    "country": "India",
+    "growthRate": 0.0237,
+    "type": "w",
+    "rank": 655
+  },
+  {
+    "population": 919026,
+    "pop2024": 919026,
+    "pop2023": 898338,
+    "city": "Changde",
+    "country": "China",
+    "growthRate": 0.023,
+    "type": "w",
+    "rank": 656
+  },
+  {
+    "population": 918675,
+    "pop2024": 918675,
+    "pop2023": 913376,
+    "city": "Bergamo",
+    "country": "Italy",
+    "growthRate": 0.0058,
+    "type": "w",
+    "rank": 657
+  },
+  {
+    "population": 918218,
+    "pop2024": 918218,
+    "pop2023": 894388,
+    "city": "Firozabad",
+    "country": "India",
+    "growthRate": 0.0266,
+    "type": "w",
+    "rank": 658
+  },
+  {
+    "population": 917639,
+    "pop2024": 917639,
+    "pop2023": 896716,
+    "city": "Erbil",
+    "country": "Iraq",
+    "growthRate": 0.0233,
+    "type": "w",
+    "rank": 659
+  },
+  {
+    "population": 916862,
+    "pop2024": 916862,
+    "pop2023": 903815,
+    "city": "Tyumen",
+    "country": "Russia",
+    "growthRate": 0.0144,
+    "type": "w",
+    "rank": 660
+  },
+  {
+    "population": 916632,
+    "pop2024": 916632,
+    "pop2023": 903896,
+    "city": "Trujillo",
+    "country": "Peru",
+    "growthRate": 0.0141,
+    "type": "w",
+    "rank": 661
+  },
+  {
+    "population": 916238,
+    "pop2024": 916238,
+    "pop2023": 900692,
+    "city": "Liaoyang",
+    "country": "China",
+    "growthRate": 0.0173,
+    "type": "w",
+    "rank": 662
+  },
+  {
+    "population": 915823,
+    "pop2024": 915823,
+    "pop2023": 895111,
+    "city": "Shangqiu",
+    "country": "China",
+    "growthRate": 0.0231,
+    "type": "w",
+    "rank": 663
+  },
+  {
+    "population": 915427,
+    "pop2024": 915427,
+    "pop2023": 913175,
+    "city": "Columbus",
+    "country": "United States",
+    "growthRate": 0.0025,
+    "type": "us",
+    "rank": 664
+  },
+  {
+    "population": 914300,
+    "pop2024": 914300,
+    "pop2023": 912734,
+    "city": "Ulsan",
+    "country": "South Korea",
+    "growthRate": 0.0017,
+    "type": "w",
+    "rank": 665
+  },
+  {
+    "population": 913075,
+    "pop2024": 913075,
+    "pop2023": 897694,
+    "city": "Tuxtla Gutierrez",
+    "country": "Mexico",
+    "growthRate": 0.0171,
+    "type": "w",
+    "rank": 666
+  },
+  {
+    "population": 906765,
+    "pop2024": 906765,
+    "pop2023": 875496,
+    "city": "Kuerle",
+    "country": "China",
+    "growthRate": 0.0357,
+    "type": "w",
+    "rank": 667
+  },
+  {
+    "population": 905868,
+    "pop2024": 905868,
+    "pop2023": 892254,
+    "city": "Soshanguve",
+    "country": "South Africa",
+    "growthRate": 0.0153,
+    "type": "w",
+    "rank": 668
+  },
+  {
+    "population": 904070,
+    "pop2024": 904070,
+    "pop2023": 886381,
+    "city": "Xingtai",
+    "country": "China",
+    "growthRate": 0.02,
+    "type": "w",
+    "rank": 669
+  },
+  {
+    "population": 903910,
+    "pop2024": 903910,
+    "pop2023": 888620,
+    "city": "Culiacan",
+    "country": "Mexico",
+    "growthRate": 0.0172,
+    "type": "w",
+    "rank": 670
+  },
+  {
+    "population": 902621,
+    "pop2024": 902621,
+    "pop2023": 871457,
+    "city": "Quzhou",
+    "country": "China",
+    "growthRate": 0.0358,
+    "type": "w",
+    "rank": 671
+  },
+  {
+    "population": 901820,
+    "pop2024": 901820,
+    "pop2023": 870465,
+    "city": "Cherthala",
+    "country": "India",
+    "growthRate": 0.036,
+    "type": "w",
+    "rank": 672
+  },
+  {
+    "population": 893107,
+    "pop2024": 893107,
+    "pop2023": 876930,
+    "city": "Huangshi",
+    "country": "China",
+    "growthRate": 0.0184,
+    "type": "w",
+    "rank": 673
+  },
+  {
+    "population": 889767,
+    "pop2024": 889767,
+    "pop2023": 876131,
+    "city": "Fuxin",
+    "country": "China",
+    "growthRate": 0.0156,
+    "type": "w",
+    "rank": 674
+  },
+  {
+    "population": 885882,
+    "pop2024": 885882,
+    "pop2023": 839046,
+    "city": "Lokoja",
+    "country": "Nigeria",
+    "growthRate": 0.0558,
+    "type": "w",
+    "rank": 675
+  },
+  {
+    "population": 884753,
+    "pop2024": 884753,
+    "pop2023": 872438,
+    "city": "Hufuf-Mubarraz",
+    "country": "Saudi Arabia",
+    "growthRate": 0.0141,
+    "type": "w",
+    "rank": 676
+  },
+  {
+    "population": 883920,
+    "pop2024": 883920,
+    "pop2023": 869773,
+    "city": "Libreville",
+    "country": "Gabon",
+    "growthRate": 0.0163,
+    "type": "w",
+    "rank": 677
+  },
+  {
+    "population": 883326,
+    "pop2024": 883326,
+    "pop2023": 860522,
+    "city": "Yongzhou",
+    "country": "China",
+    "growthRate": 0.0265,
+    "type": "w",
+    "rank": 678
+  },
+  {
+    "population": 882986,
+    "pop2024": 882986,
+    "pop2023": 861978,
+    "city": "Xinghua",
+    "country": "China",
+    "growthRate": 0.0244,
+    "type": "w",
+    "rank": 679
+  },
+  {
+    "population": 882209,
+    "pop2024": 882209,
+    "pop2023": 887716,
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "growthRate": -0.0062,
+    "type": "w",
+    "rank": 680
+  },
+  {
+    "population": 881480,
+    "pop2024": 881480,
+    "pop2023": 864910,
+    "city": "Yibin",
+    "country": "China",
+    "growthRate": 0.0192,
+    "type": "w",
+    "rank": 681
+  },
+  {
+    "population": 876665,
+    "pop2024": 876665,
+    "pop2023": 879293,
+    "city": "Indianapolis",
+    "country": "United States",
+    "growthRate": -0.003,
+    "type": "us",
+    "rank": 682
+  },
+  {
+    "population": 875552,
+    "pop2024": 875552,
+    "pop2023": 846560,
+    "city": "Enugu",
+    "country": "Nigeria",
+    "growthRate": 0.0342,
+    "type": "w",
+    "rank": 683
+  },
+  {
+    "population": 875392,
+    "pop2024": 875392,
+    "pop2023": 869625,
+    "city": "Tainan",
+    "country": "Taiwan",
+    "growthRate": 0.0066,
+    "type": "w",
+    "rank": 684
+  },
+  {
+    "population": 873268,
+    "pop2024": 873268,
+    "pop2023": 855191,
+    "city": "Xinyang",
+    "country": "China",
+    "growthRate": 0.0211,
+    "type": "w",
+    "rank": 685
+  },
+  {
+    "population": 872424,
+    "pop2024": 872424,
+    "pop2023": 857225,
+    "city": "Ipoh",
+    "country": "Malaysia",
+    "growthRate": 0.0177,
+    "type": "w",
+    "rank": 686
+  },
+  {
+    "population": 870714,
+    "pop2024": 870714,
+    "pop2023": 857683,
+    "city": "Luzhou",
+    "country": "China",
+    "growthRate": 0.0152,
+    "type": "w",
+    "rank": 687
+  },
+  {
+    "population": 870502,
+    "pop2024": 870502,
+    "pop2023": 859209,
+    "city": "Banghazi",
+    "country": "Libya",
+    "growthRate": 0.0131,
+    "type": "w",
+    "rank": 688
+  },
+  {
+    "population": 870201,
+    "pop2024": 870201,
+    "pop2023": 844747,
+    "city": "Maiduguri",
+    "country": "Nigeria",
+    "growthRate": 0.0301,
+    "type": "w",
+    "rank": 689
+  },
+  {
+    "population": 869585,
+    "pop2024": 869585,
+    "pop2023": 851630,
+    "city": "Yangquan",
+    "country": "China",
+    "growthRate": 0.0211,
+    "type": "w",
+    "rank": 690
+  },
+  {
+    "population": 869575,
+    "pop2024": 869575,
+    "pop2023": 843754,
+    "city": "Huaihua",
+    "country": "China",
+    "growthRate": 0.0306,
+    "type": "w",
+    "rank": 691
+  },
+  {
+    "population": 869479,
+    "pop2024": 869479,
+    "pop2023": 849580,
+    "city": "Xiaogan",
+    "country": "China",
+    "growthRate": 0.0234,
+    "type": "w",
+    "rank": 692
+  },
+  {
+    "population": 858672,
+    "pop2024": 858672,
+    "pop2023": 837479,
+    "city": "Tianshui",
+    "country": "China",
+    "growthRate": 0.0253,
+    "type": "w",
+    "rank": 693
+  },
+  {
+    "population": 856339,
+    "pop2024": 856339,
+    "pop2023": 812090,
+    "city": "Bunia",
+    "country": "DR Congo",
+    "growthRate": 0.0545,
+    "type": "w",
+    "rank": 694
+  },
+  {
+    "population": 854946,
+    "pop2024": 854946,
+    "pop2023": 830125,
+    "city": "Bozhou",
+    "country": "China",
+    "growthRate": 0.0299,
+    "type": "w",
+    "rank": 695
+  },
+  {
+    "population": 853635,
+    "pop2024": 853635,
+    "pop2023": 818628,
+    "city": "Kottayam",
+    "country": "India",
+    "growthRate": 0.0428,
+    "type": "w",
+    "rank": 696
+  },
+  {
+    "population": 852608,
+    "pop2024": 852608,
+    "pop2023": 834782,
+    "city": "Zhuji",
+    "country": "China",
+    "growthRate": 0.0214,
+    "type": "w",
+    "rank": 697
+  },
+  {
+    "population": 851399,
+    "pop2024": 851399,
+    "pop2023": 826414,
+    "city": "Kunshan",
+    "country": "China",
+    "growthRate": 0.0302,
+    "type": "w",
+    "rank": 698
+  },
+  {
+    "population": 851061,
+    "pop2024": 851061,
+    "pop2023": 844249,
+    "city": "Quebec City",
+    "country": "Canada",
+    "growthRate": 0.0081,
+    "type": "w",
+    "rank": 699
+  },
+  {
+    "population": 850233,
+    "pop2024": 850233,
+    "pop2023": 849687,
+    "city": "Palermo",
+    "country": "Italy",
+    "growthRate": 0.0006,
+    "type": "w",
+    "rank": 700
+  },
+  {
+    "population": 849251,
+    "pop2024": 849251,
+    "pop2023": 841108,
+    "city": "Winnipeg",
+    "country": "Canada",
+    "growthRate": 0.0097,
+    "type": "w",
+    "rank": 701
+  },
+  {
+    "population": 848443,
+    "pop2024": 848443,
+    "pop2023": 835900,
+    "city": "Orumiyeh",
+    "country": "Iran",
+    "growthRate": 0.015,
+    "type": "w",
+    "rank": 702
+  },
+  {
+    "population": 848002,
+    "pop2024": 848002,
+    "pop2023": 834065,
+    "city": "Eskisehir",
+    "country": "Turkey",
+    "growthRate": 0.0167,
+    "type": "w",
+    "rank": 703
+  },
+  {
+    "population": 843207,
+    "pop2024": 843207,
+    "pop2023": 809468,
+    "city": "Benguela",
+    "country": "Angola",
+    "growthRate": 0.0417,
+    "type": "w",
+    "rank": 704
+  },
+  {
+    "population": 841928,
+    "pop2024": 841928,
+    "pop2023": 818057,
+    "city": "Jincheng",
+    "country": "China",
+    "growthRate": 0.0292,
+    "type": "w",
+    "rank": 705
+  },
+  {
+    "population": 839770,
+    "pop2024": 839770,
+    "pop2023": 838301,
+    "city": "Valencia",
+    "country": "Spain",
+    "growthRate": 0.0018,
+    "type": "w",
+    "rank": 706
+  },
+  {
+    "population": 838928,
+    "pop2024": 838928,
+    "pop2023": 826777,
+    "city": "Heze",
+    "country": "China",
+    "growthRate": 0.0147,
+    "type": "w",
+    "rank": 707
+  },
+  {
+    "population": 837687,
+    "pop2024": 837687,
+    "pop2023": 838377,
+    "city": "Saratov",
+    "country": "Russia",
+    "growthRate": -0.0008,
+    "type": "w",
+    "rank": 708
+  },
+  {
+    "population": 837660,
+    "pop2024": 837660,
+    "pop2023": 816293,
+    "city": "Nellore",
+    "country": "India",
+    "growthRate": 0.0262,
+    "type": "w",
+    "rank": 709
+  },
+  {
+    "population": 836344,
+    "pop2024": 836344,
+    "pop2023": 821132,
+    "city": "Huludao",
+    "country": "China",
+    "growthRate": 0.0185,
+    "type": "w",
+    "rank": 710
+  },
+  {
+    "population": 835850,
+    "pop2024": 835850,
+    "pop2023": 800010,
+    "city": "Zanzibar",
+    "country": "Tanzania",
+    "growthRate": 0.0448,
+    "type": "w",
+    "rank": 711
+  },
+  {
+    "population": 835805,
+    "pop2024": 835805,
+    "pop2023": 825581,
+    "city": "Barcelona Puerto La Cruz",
+    "country": "Venezuela",
+    "growthRate": 0.0124,
+    "type": "w",
+    "rank": 712
+  },
+  {
+    "population": 835802,
+    "pop2024": 835802,
+    "pop2023": 818566,
+    "city": "Bikaner",
+    "country": "India",
+    "growthRate": 0.0211,
+    "type": "w",
+    "rank": 713
+  },
+  {
+    "population": 834639,
+    "pop2024": 834639,
+    "pop2023": 821192,
+    "city": "Haicheng",
+    "country": "China",
+    "growthRate": 0.0164,
+    "type": "w",
+    "rank": 714
+  },
+  {
+    "population": 831360,
+    "pop2024": 831360,
+    "pop2023": 813394,
+    "city": "Gebze",
+    "country": "Turkey",
+    "growthRate": 0.0221,
+    "type": "w",
+    "rank": 715
+  },
+  {
+    "population": 830623,
+    "pop2024": 830623,
+    "pop2023": 811451,
+    "city": "Taixing",
+    "country": "China",
+    "growthRate": 0.0236,
+    "type": "w",
+    "rank": 716
+  },
+  {
+    "population": 830004,
+    "pop2024": 830004,
+    "pop2023": 813369,
+    "city": "Liaocheng",
+    "country": "China",
+    "growthRate": 0.0205,
+    "type": "w",
+    "rank": 717
+  },
+  {
+    "population": 829361,
+    "pop2024": 829361,
+    "pop2023": 804537,
+    "city": "Zhumadian",
+    "country": "China",
+    "growthRate": 0.0309,
+    "type": "w",
+    "rank": 718
+  },
+  {
+    "population": 828712,
+    "pop2024": 828712,
+    "pop2023": 823431,
+    "city": "Newcastle upon Tyne",
+    "country": "United Kingdom",
+    "growthRate": 0.0064,
+    "type": "w",
+    "rank": 719
+  },
+  {
+    "population": 827967,
+    "pop2024": 827967,
+    "pop2023": 807833,
+    "city": "Langfang",
+    "country": "China",
+    "growthRate": 0.0249,
+    "type": "w",
+    "rank": 720
+  },
+  {
+    "population": 826919,
+    "pop2024": 826919,
+    "pop2023": 826981,
+    "city": "Bucheon",
+    "country": "South Korea",
+    "growthRate": -0.0001,
+    "type": "w",
+    "rank": 721
+  },
+  {
+    "population": 823199,
+    "pop2024": 823199,
+    "pop2023": 800793,
+    "city": "Sulaimaniya",
+    "country": "Iraq",
+    "growthRate": 0.028,
+    "type": "w",
+    "rank": 722
+  },
+  {
+    "population": 822863,
+    "pop2024": 822863,
+    "pop2023": 811041,
+    "city": "Xalapa",
+    "country": "Mexico",
+    "growthRate": 0.0146,
+    "type": "w",
+    "rank": 723
+  },
+  {
+    "population": 822471,
+    "pop2024": 822471,
+    "pop2023": 783243,
+    "city": "Malanje",
+    "country": "Angola",
+    "growthRate": 0.0501,
+    "type": "w",
+    "rank": 724
+  },
+  {
+    "population": 821765,
+    "pop2024": 821765,
+    "pop2023": 791931,
+    "city": "Anqiu",
+    "country": "China",
+    "growthRate": 0.0377,
+    "type": "w",
+    "rank": 725
+  },
+  {
+    "population": 821435,
+    "pop2024": 821435,
+    "pop2023": 813320,
+    "city": "Sorocaba",
+    "country": "Brazil",
+    "growthRate": 0.01,
+    "type": "w",
+    "rank": 726
+  },
+  {
+    "population": 821154,
+    "pop2024": 821154,
+    "pop2023": 797964,
+    "city": "Gaomi",
+    "country": "China",
+    "growthRate": 0.0291,
+    "type": "w",
+    "rank": 727
+  },
+  {
+    "population": 820886,
+    "pop2024": 820886,
+    "pop2023": 802600,
+    "city": "Dasmarinas",
+    "country": "Philippines",
+    "growthRate": 0.0228,
+    "type": "w",
+    "rank": 728
+  },
+  {
+    "population": 820297,
+    "pop2024": 820297,
+    "pop2023": 803194,
+    "city": "Cagayan de Oro City",
+    "country": "Philippines",
+    "growthRate": 0.0213,
+    "type": "w",
+    "rank": 729
+  },
+  {
+    "population": 818761,
+    "pop2024": 818761,
+    "pop2023": 795835,
+    "city": "Hanchuan",
+    "country": "China",
+    "growthRate": 0.0288,
+    "type": "w",
+    "rank": 730
+  },
+  {
+    "population": 818037,
+    "pop2024": 818037,
+    "pop2023": 796756,
+    "city": "Meishan",
+    "country": "China",
+    "growthRate": 0.0267,
+    "type": "w",
+    "rank": 731
+  },
+  {
+    "population": 816848,
+    "pop2024": 816848,
+    "pop2023": 814332,
+    "city": "Bologna",
+    "country": "Italy",
+    "growthRate": 0.0031,
+    "type": "w",
+    "rank": 732
+  },
+  {
+    "population": 815869,
+    "pop2024": 815869,
+    "pop2023": 798382,
+    "city": "Ar-Rayyan",
+    "country": "Qatar",
+    "growthRate": 0.0219,
+    "type": "w",
+    "rank": 733
+  },
+  {
+    "population": 814980,
+    "pop2024": 814980,
+    "pop2023": 814524,
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "growthRate": 0.0006,
+    "type": "w",
+    "rank": 734
+  },
+  {
+    "population": 814491,
+    "pop2024": 814491,
+    "pop2023": 791214,
+    "city": "Muzaffarnagar",
+    "country": "India",
+    "growthRate": 0.0294,
+    "type": "w",
+    "rank": 735
+  },
+  {
+    "population": 813379,
+    "pop2024": 813379,
+    "pop2023": 786192,
+    "city": "Kayamkulam",
+    "country": "India",
+    "growthRate": 0.0346,
+    "type": "w",
+    "rank": 736
+  },
+  {
+    "population": 813078,
+    "pop2024": 813078,
+    "pop2023": 806757,
+    "city": "Nottingham",
+    "country": "United Kingdom",
+    "growthRate": 0.0078,
+    "type": "w",
+    "rank": 737
+  },
+  {
+    "population": 811446,
+    "pop2024": 811446,
+    "pop2023": 801853,
+    "city": "Nakhon Ratchasima",
+    "country": "Thailand",
+    "growthRate": 0.012,
+    "type": "w",
+    "rank": 738
+  },
+  {
+    "population": 810450,
+    "pop2024": 810450,
+    "pop2023": 789755,
+    "city": "Danyang",
+    "country": "China",
+    "growthRate": 0.0262,
+    "type": "w",
+    "rank": 739
+  },
+  {
+    "population": 810149,
+    "pop2024": 810149,
+    "pop2023": 771514,
+    "city": "Ibb",
+    "country": "Yemen",
+    "growthRate": 0.0501,
+    "type": "w",
+    "rank": 740
+  },
+  {
+    "population": 808263,
+    "pop2024": 808263,
+    "pop2023": 792620,
+    "city": "Amravati",
+    "country": "India",
+    "growthRate": 0.0197,
+    "type": "w",
+    "rank": 741
+  },
+  {
+    "population": 808079,
+    "pop2024": 808079,
+    "pop2023": 796509,
+    "city": "Jiaozuo",
+    "country": "China",
+    "growthRate": 0.0145,
+    "type": "w",
+    "rank": 742
+  },
+  {
+    "population": 802900,
+    "pop2024": 802900,
+    "pop2023": 793927,
+    "city": "Vereeniging",
+    "country": "South Africa",
+    "growthRate": 0.0113,
+    "type": "w",
+    "rank": 743
+  },
+  {
+    "population": 801634,
+    "pop2024": 801634,
+    "pop2023": 788276,
+    "city": "Gorakhpur",
+    "country": "India",
+    "growthRate": 0.0169,
+    "type": "w",
+    "rank": 744
+  },
+  {
+    "population": 800636,
+    "pop2024": 800636,
+    "pop2023": 778187,
+    "city": "Gaza",
+    "country": "Palestine",
+    "growthRate": 0.0288,
+    "type": "w",
+    "rank": 745
+  },
+  {
+    "population": 800529,
+    "pop2024": 800529,
+    "pop2023": 796437,
+    "city": "Frankfurt",
+    "country": "Germany",
+    "growthRate": 0.0051,
+    "type": "w",
+    "rank": 746
+  },
+  {
+    "population": 795987,
+    "pop2024": 795987,
+    "pop2023": 779535,
+    "city": "Anqing",
+    "country": "China",
+    "growthRate": 0.0211,
+    "type": "w",
+    "rank": 747
+  },
+  {
+    "population": 795916,
+    "pop2024": 795916,
+    "pop2023": 797865,
+    "city": "Niigata",
+    "country": "Japan",
+    "growthRate": -0.0024,
+    "type": "w",
+    "rank": 748
+  },
+  {
+    "population": 795808,
+    "pop2024": 795808,
+    "pop2023": 771515,
+    "city": "Oshogbo",
+    "country": "Nigeria",
+    "growthRate": 0.0315,
+    "type": "w",
+    "rank": 749
+  },
+  {
+    "population": 795777,
+    "pop2024": 795777,
+    "pop2023": 776076,
+    "city": "Linhai",
+    "country": "China",
+    "growthRate": 0.0254,
+    "type": "w",
+    "rank": 750
+  },
+  {
+    "population": 794279,
+    "pop2024": 794279,
+    "pop2023": 784230,
+    "city": "Shaoguan",
+    "country": "China",
+    "growthRate": 0.0128,
+    "type": "w",
+    "rank": 751
+  },
+  {
+    "population": 794143,
+    "pop2024": 794143,
+    "pop2023": 774321,
+    "city": "Erduosi-Ordoss",
+    "country": "China",
+    "growthRate": 0.0256,
+    "type": "w",
+    "rank": 752
+  },
+  {
+    "population": 793545,
+    "pop2024": 793545,
+    "pop2023": 760129,
+    "city": "Merca",
+    "country": "Somalia",
+    "growthRate": 0.044,
+    "type": "w",
+    "rank": 753
+  },
+  {
+    "population": 792925,
+    "pop2024": 792925,
+    "pop2023": 778280,
+    "city": "Bur Sa'id",
+    "country": "Egypt",
+    "growthRate": 0.0188,
+    "type": "w",
+    "rank": 754
+  },
+  {
+    "population": 792350,
+    "pop2024": 792350,
+    "pop2023": 762981,
+    "city": "Kitwe",
+    "country": "Zambia",
+    "growthRate": 0.0385,
+    "type": "w",
+    "rank": 755
+  },
+  {
+    "population": 791839,
+    "pop2024": 791839,
+    "pop2023": 767188,
+    "city": "Yan'an",
+    "country": "China",
+    "growthRate": 0.0321,
+    "type": "w",
+    "rank": 756
+  },
+  {
+    "population": 789558,
+    "pop2024": 789558,
+    "pop2023": 775559,
+    "city": "Cuttack",
+    "country": "India",
+    "growthRate": 0.0181,
+    "type": "w",
+    "rank": 757
+  },
+  {
+    "population": 788478,
+    "pop2024": 788478,
+    "pop2023": 808988,
+    "city": "San Francisco",
+    "country": "United States",
+    "growthRate": -0.0253,
+    "type": "us",
+    "rank": 758
+  },
+  {
+    "population": 786843,
+    "pop2024": 786843,
+    "pop2023": 781047,
+    "city": "Hamilton",
+    "country": "Canada",
+    "growthRate": 0.0074,
+    "type": "w",
+    "rank": 759
+  },
+  {
+    "population": 786197,
+    "pop2024": 786197,
+    "pop2023": 766007,
+    "city": "Zaria",
+    "country": "Nigeria",
+    "growthRate": 0.0264,
+    "type": "w",
+    "rank": 760
+  },
+  {
+    "population": 785125,
+    "pop2024": 785125,
+    "pop2023": 770959,
+    "city": "Banjarmasin",
+    "country": "Indonesia",
+    "growthRate": 0.0184,
+    "type": "w",
+    "rank": 761
+  },
+  {
+    "population": 783041,
+    "pop2024": 783041,
+    "pop2023": 759150,
+    "city": "Dengzhou",
+    "country": "China",
+    "growthRate": 0.0315,
+    "type": "w",
+    "rank": 762
+  },
+  {
+    "population": 783020,
+    "pop2024": 783020,
+    "pop2023": 767161,
+    "city": "Belgaum",
+    "country": "India",
+    "growthRate": 0.0207,
+    "type": "w",
+    "rank": 763
+  },
+  {
+    "population": 781925,
+    "pop2024": 781925,
+    "pop2023": 764628,
+    "city": "Malegaon",
+    "country": "India",
+    "growthRate": 0.0226,
+    "type": "w",
+    "rank": 764
+  },
+  {
+    "population": 781875,
+    "pop2024": 781875,
+    "pop2023": 744247,
+    "city": "Goma",
+    "country": "DR Congo",
+    "growthRate": 0.0506,
+    "type": "w",
+    "rank": 765
+  },
+  {
+    "population": 779684,
+    "pop2024": 779684,
+    "pop2023": 768075,
+    "city": "Zigong",
+    "country": "China",
+    "growthRate": 0.0151,
+    "type": "w",
+    "rank": 766
+  },
+  {
+    "population": 778628,
+    "pop2024": 778628,
+    "pop2023": 766782,
+    "city": "Qingyuan",
+    "country": "China",
+    "growthRate": 0.0154,
+    "type": "w",
+    "rank": 767
+  },
+  {
+    "population": 777193,
+    "pop2024": 777193,
+    "pop2023": 754711,
+    "city": "Yuncheng",
+    "country": "China",
+    "growthRate": 0.0298,
+    "type": "w",
+    "rank": 768
+  },
+  {
+    "population": 776404,
+    "pop2024": 776404,
+    "pop2023": 761169,
+    "city": "Shaoyang",
+    "country": "China",
+    "growthRate": 0.02,
+    "type": "w",
+    "rank": 769
+  },
+  {
+    "population": 775672,
+    "pop2024": 775672,
+    "pop2023": 757224,
+    "city": "Yanji",
+    "country": "China",
+    "growthRate": 0.0244,
+    "type": "w",
+    "rank": 770
+  },
+  {
+    "population": 775455,
+    "pop2024": 775455,
+    "pop2023": 752744,
+    "city": "Tirupati",
+    "country": "India",
+    "growthRate": 0.0302,
+    "type": "w",
+    "rank": 771
+  },
+  {
+    "population": 775097,
+    "pop2024": 775097,
+    "pop2023": 758185,
+    "city": "Maturin",
+    "country": "Venezuela",
+    "growthRate": 0.0223,
+    "type": "w",
+    "rank": 772
+  },
+  {
+    "population": 774356,
+    "pop2024": 774356,
+    "pop2023": 750102,
+    "city": "Yuxi",
+    "country": "China",
+    "growthRate": 0.0323,
+    "type": "w",
+    "rank": 773
+  },
+  {
+    "population": 773141,
+    "pop2024": 773141,
+    "pop2023": 744371,
+    "city": "Akure",
+    "country": "Nigeria",
+    "growthRate": 0.0387,
+    "type": "w",
+    "rank": 774
+  },
+  {
+    "population": 772756,
+    "pop2024": 772756,
+    "pop2023": 756158,
+    "city": "Tongliao",
+    "country": "China",
+    "growthRate": 0.022,
+    "type": "w",
+    "rank": 775
+  },
+  {
+    "population": 770962,
+    "pop2024": 770962,
+    "pop2023": 753325,
+    "city": "Sialkot",
+    "country": "Pakistan",
+    "growthRate": 0.0234,
+    "type": "w",
+    "rank": 776
+  },
+  {
+    "population": 770032,
+    "pop2024": 770032,
+    "pop2023": 752916,
+    "city": "Tongling",
+    "country": "China",
+    "growthRate": 0.0227,
+    "type": "w",
+    "rank": 777
+  },
+  {
+    "population": 769396,
+    "pop2024": 769396,
+    "pop2023": 769417,
+    "city": "Krakow",
+    "country": "Poland",
+    "growthRate": 0,
+    "type": "w",
+    "rank": 778
+  },
+  {
+    "population": 768822,
+    "pop2024": 768822,
+    "pop2023": 766703,
+    "city": "Ansan",
+    "country": "South Korea",
+    "growthRate": 0.0028,
+    "type": "w",
+    "rank": 779
+  },
+  {
+    "population": 768512,
+    "pop2024": 768512,
+    "pop2023": 751679,
+    "city": "Wuzhou",
+    "country": "China",
+    "growthRate": 0.0224,
+    "type": "w",
+    "rank": 780
+  },
+  {
+    "population": 767532,
+    "pop2024": 767532,
+    "pop2023": 748257,
+    "city": "Dazhou",
+    "country": "China",
+    "growthRate": 0.0258,
+    "type": "w",
+    "rank": 781
+  },
+  {
+    "population": 765887,
+    "pop2024": 765887,
+    "pop2023": 750097,
+    "city": "Suining Sichuan",
+    "country": "China",
+    "growthRate": 0.0211,
+    "type": "w",
+    "rank": 782
+  },
+  {
+    "population": 763312,
+    "pop2024": 763312,
+    "pop2023": 749073,
+    "city": "Mangalore",
+    "country": "India",
+    "growthRate": 0.019,
+    "type": "w",
+    "rank": 783
+  },
+  {
+    "population": 761903,
+    "pop2024": 761903,
+    "pop2023": 749763,
+    "city": "Jiamusi",
+    "country": "China",
+    "growthRate": 0.0162,
+    "type": "w",
+    "rank": 784
+  },
+  {
+    "population": 759915,
+    "pop2024": 759915,
+    "pop2023": 755078,
+    "city": "Seattle",
+    "country": "United States",
+    "growthRate": 0.0064,
+    "type": "us",
+    "rank": 785
+  },
+  {
+    "population": 759157,
+    "pop2024": 759157,
+    "pop2023": 734699,
+    "city": "Al-Hudaydah",
+    "country": "Yemen",
+    "growthRate": 0.0333,
+    "type": "w",
+    "rank": 786
+  },
+  {
+    "population": 757915,
+    "pop2024": 757915,
+    "pop2023": 741818,
+    "city": "Sargodha",
+    "country": "Pakistan",
+    "growthRate": 0.0217,
+    "type": "w",
+    "rank": 787
+  },
+  {
+    "population": 757823,
+    "pop2024": 757823,
+    "pop2023": 722836,
+    "city": "Nay Pyi Taw",
+    "country": "Myanmar",
+    "growthRate": 0.0484,
+    "type": "w",
+    "rank": 788
+  },
+  {
+    "population": 757506,
+    "pop2024": 757506,
+    "pop2023": 729768,
+    "city": "Tamale",
+    "country": "Ghana",
+    "growthRate": 0.038,
+    "type": "w",
+    "rank": 789
+  },
+  {
+    "population": 757137,
+    "pop2024": 757137,
+    "pop2023": 749188,
+    "city": "Sao Jose dos Campos",
+    "country": "Brazil",
+    "growthRate": 0.0106,
+    "type": "w",
+    "rank": 790
+  },
+  {
+    "population": 757035,
+    "pop2024": 757035,
+    "pop2023": 739682,
+    "city": "Bacoor",
+    "country": "Philippines",
+    "growthRate": 0.0235,
+    "type": "w",
+    "rank": 791
+  },
+  {
+    "population": 756344,
+    "pop2024": 756344,
+    "pop2023": 738200,
+    "city": "Dongtai",
+    "country": "China",
+    "growthRate": 0.0246,
+    "type": "w",
+    "rank": 792
+  },
+  {
+    "population": 755752,
+    "pop2024": 755752,
+    "pop2023": 733810,
+    "city": "Zhangjiagang",
+    "country": "China",
+    "growthRate": 0.0299,
+    "type": "w",
+    "rank": 793
+  },
+  {
+    "population": 755577,
+    "pop2024": 755577,
+    "pop2023": 738552,
+    "city": "Nanded Waghala",
+    "country": "India",
+    "growthRate": 0.0231,
+    "type": "w",
+    "rank": 794
+  },
+  {
+    "population": 754446,
+    "pop2024": 754446,
+    "pop2023": 743491,
+    "city": "Xianyang Shaanxi",
+    "country": "China",
+    "growthRate": 0.0147,
+    "type": "w",
+    "rank": 795
+  },
+  {
+    "population": 753708,
+    "pop2024": 753708,
+    "pop2023": 729276,
+    "city": "Amara",
+    "country": "Iraq",
+    "growthRate": 0.0335,
+    "type": "w",
+    "rank": 796
+  },
+  {
+    "population": 753392,
+    "pop2024": 753392,
+    "pop2023": 748428,
+    "city": "Zarqa",
+    "country": "Jordan",
+    "growthRate": 0.0066,
+    "type": "w",
+    "rank": 797
+  },
+  {
+    "population": 751493,
+    "pop2024": 751493,
+    "pop2023": 737128,
+    "city": "Bhavnagar",
+    "country": "India",
+    "growthRate": 0.0195,
+    "type": "w",
+    "rank": 798
+  },
+  {
+    "population": 751303,
+    "pop2024": 751303,
+    "pop2023": 745876,
+    "city": "Sheffield",
+    "country": "United Kingdom",
+    "growthRate": 0.0073,
+    "type": "w",
+    "rank": 799
+  },
+  {
+    "population": 751297,
+    "pop2024": 751297,
+    "pop2023": 727641,
+    "city": "Huambo",
+    "country": "Angola",
+    "growthRate": 0.0325,
+    "type": "w",
+    "rank": 800
+  },
+  {
+    "population": 750174,
+    "pop2024": 750174,
+    "pop2023": 742115,
+    "city": "Ribeirao Preto",
+    "country": "Brazil",
+    "growthRate": 0.0109,
+    "type": "w",
+    "rank": 801
+  },
+  {
+    "population": 750036,
+    "pop2024": 750036,
+    "pop2023": 738495,
+    "city": "Panzhihua",
+    "country": "China",
+    "growthRate": 0.0156,
+    "type": "w",
+    "rank": 802
+  }
+]

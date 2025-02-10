@@ -1,0 +1,215 @@
+Notes: 
+3) Simulation Codes (iterative improvement):
+import random
+import networkx as nx
+
+# simulating games with a random and strategic approach
+def simulate_games(graph, num_games=100):
+    wins_random = 0
+    wins_strategic = 0
+    max_moves = len(graph.nodes)  # max moves = total number of places (countries + cities)
+
+    for _ in range(num_games):
+        # random strategy
+        current = random.choice(list(graph.nodes))
+        visited = set()
+        path_length_random = 0
+        while path_length_random < max_moves:
+            neighbors = list(graph.successors(current))
+            if not neighbors or current in visited:  # stop if stuck or revisiting
+                break
+            visited.add(current)
+            current = random.choice(neighbors)
+            path_length_random += 1
+        
+        # strategic strategy (pick highest out-degree)
+        current = max(nx.degree_centrality(graph), key=nx.degree_centrality(graph).get)
+        visited = set()
+        path_length_strategic = 0
+        while path_length_strategic < max_moves:
+            neighbors = list(graph.successors(current))
+            if not neighbors or current in visited:  # stop if stuck or revisiting
+                break
+            visited.add(current)
+            current = max(neighbors, key=lambda x: graph.out_degree(x))
+            path_length_strategic += 1
+        
+        # compare strategies
+        if path_length_strategic > path_length_random:
+            wins_strategic += 1
+        else:
+            wins_random += 1
+    
+    print(f"Strategic win rate: {wins_strategic / num_games * 100:.1f}%")
+    print(f"Random win rate: {wins_random / num_games * 100:.1f}%")
+
+simulate_games(country_graph, num_games=100)
+
+OUTPUT:
+Strategic win rate: 10.0%
+Random win rate: 90.0%
+
+4) import random
+
+def simulate_game(graph, strategy="random", trap_score=None):
+    """
+    Simulate a single game on graph using the specified strategy.
+    Returns the path length achieved.
+    """
+    max_moves = len(list(graph.nodes()))
+    current = random.choice(list(graph.nodes()))
+    visited = set()
+    path_length = 0
+    while path_length < max_moves:
+        neighbors = list(graph.successors(current))
+        valid_moves = [n for n in neighbors if n not in visited]
+        if not valid_moves:
+            break
+        visited.add(current)
+        if strategy == "random":
+            current = random.choice(valid_moves)
+        elif strategy == "min_out":
+            # Choose neighbor with minimum out-degree (minimizes opponent options)
+            current = min(valid_moves, key=lambda x: graph.out_degree(x))
+        elif strategy == "composite":
+            # Composite metric: lower out-degree and higher trap score are desirable
+            current = min(valid_moves, key=lambda x: graph.out_degree(x) - (trap_score.get(x, 0)))
+        elif strategy == "lookahead":
+            # One-step lookahead: choose neighbor that minimizes maximum out-degree among its successors
+            def lookahead_value(n):
+                opp_moves = list(graph.successors(n))
+                return max([graph.out_degree(m) for m in opp_moves], default=0)
+            current = min(valid_moves, key=lookahead_value)
+        else:
+            current = random.choice(valid_moves)
+        path_length += 1
+    return path_length
+
+def simulate_games(graph, num_games=100, strategy="min_out", trap_score=None):
+    wins = 0
+    total = 0
+    for _ in range(num_games):
+        length_strat = simulate_game(graph, strategy=strategy, trap_score=trap_score)
+        length_random = simulate_game(graph, strategy="random")
+        if length_strat > length_random:
+            wins += 1
+        total += 1
+    win_rate = wins / total * 100
+    print(f"{strategy.capitalize()} Strategy win rate: {win_rate:.1f}%")
+    return win_rate
+
+print("Simulation Results for Country Graph:")
+simulate_games(country_graph, num_games=100, strategy="min_out")
+simulate_games(country_graph, num_games=100, strategy="composite", trap_score=trap_score)
+simulate_games(country_graph, num_games=100, strategy="lookahead")
+simulate_games(country_graph, num_games=100, strategy="random")  # baseline
+
+Output:
+Simulation Results for Country Graph: 
+Min_out Strategy win rate: 4.0%
+Composite Strategy win rate: 7.0%
+Lookahead Strategy win rate: 25.0%
+Random Strategy win rate: 35.0%
+
+
+5) Finally, we try to compute the metrics regarding places with the least amount of starting letter (for example: 5 countries in the dataset start with the letter 'x') and then check if the amount of countries whose ending letter is 'x' is more than the amount of countries whose starting letter is 'x'. Prefer nodes ending with rare letters (e.g., "X"). Implement a strategy that does this for all letters and uses that information to win the game.
+Furthermore, We must simulate an actual game between 2 strategies (random strategy vs the strategy we implement). Which means you must define both strategies in separate functions and then randomly decide which strategy starts the game. Then the strategies work turn by turn until the end of the game. This is how the function must be implemented.
+1) Revise the Game Simulation Strategy:
+Current Issue: The simulation in code cell 13 yields a very low win rate for the “strategic” approach (10% vs. 90% random).
+Improvement: Instead of simply choosing the highest out-degree neighbor, consider a more nuanced strategy such as:
+A) Minimizing Opponent Options: Select moves that lead to nodes with the fewest outgoing edges (i.e., minimal opponent moves).
+B) Incorporate the Trap Score: Combine out-degree with your custom trap score to choose moves that are likely to “trap” the opponent.  
+C) Game-Theoretic Approach: Explore a minimax or look-ahead strategy to simulate a few moves ahead.
+Action: Revise the simulation code to implement one or more of these strategies and compare win rates.
+
+code:
+import random
+
+def get_valid_moves(graph, current, visited):
+    """Return valid successors of current that have not been visited."""
+    return [n for n in graph.successors(current) if n not in visited]
+
+# Random strategy move: simply chooses a random valid move.
+def random_move(graph, current, visited):
+    moves = get_valid_moves(graph, current, visited)
+    return random.choice(moves) if moves else None
+
+# Letter Gap Strategy move:
+# For each valid move, we look at its last letter and choose the move for which the number of nodes starting with that letter (in the full graph) is minimal.
+def letter_gap_move(graph, current, visited, start_counts):
+    moves = get_valid_moves(graph, current, visited)
+    if not moves:
+        return None
+    # For each candidate move, get its last letter and then fetch the number of nodes starting with that letter.
+    best_move = min(moves, key=lambda m: start_counts.get(m[-1], 0))
+    return best_move
+
+def compute_start_counts(graph):
+    """Precompute a dictionary: letter -> count of nodes that start with that letter."""
+    counts = {}
+    for node in graph.nodes():
+        letter = node[0]
+        counts[letter] = counts.get(letter, 0) + 1
+    return counts
+
+# Turn-based game simulation between two strategies.
+# Each strategy is a function taking (graph, current, visited, start_counts) and returning a move.
+def simulate_turn_based_game(graph, strat_func1, strat_func2, start_counts, starting_player=1, verbose=False):
+    current = random.choice(list(graph.nodes()))
+    visited = {current}
+    if verbose:
+        print(f"Starting node: {current}")
+    turn = starting_player  # 1 or 2
+    while True:
+        if turn == 1:
+            move = strat_func1(graph, current, visited, start_counts)
+        else:
+            move = strat_func2(graph, current, visited, start_counts)
+        if move is None:
+            if verbose:
+                print(f"Player {turn} cannot move. Winner: Player {3 - turn}")
+            return 3 - turn  # The other player wins
+        if verbose:
+            print(f"Player {turn} chooses: {move}")
+        current = move
+        visited.add(current)
+        turn = 1 if turn == 2 else 2  # switch turns
+
+# Define strategy wrappers to match the required signature.
+def random_strategy(graph, current, visited, start_counts):
+    return random_move(graph, current, visited)
+
+def letter_gap_strategy(graph, current, visited, start_counts):
+    return letter_gap_move(graph, current, visited, start_counts)
+
+# Simulate multiple turn-based games between Random and Letter Gap strategies.
+def simulate_turn_based_games(graph, num_games=100, verbose=False):
+    start_counts = compute_start_counts(graph)
+    wins_random = 0
+    wins_letter_gap = 0
+    for i in range(num_games):
+        # Randomly decide which strategy starts.
+        starting_player = random.choice([1, 2])
+        if starting_player == 1:
+            winner = simulate_turn_based_game(graph, random_strategy, letter_gap_strategy, start_counts, starting_player=1, verbose=False)
+            if winner == 1:
+                wins_random += 1
+            else:
+                wins_letter_gap += 1
+        else:
+            winner = simulate_turn_based_game(graph, letter_gap_strategy, random_strategy, start_counts, starting_player=1, verbose=False)
+            if winner == 1:
+                wins_letter_gap += 1
+            else:
+                wins_random += 1
+    print(f"Turn-based simulation over {num_games} games:")
+    print(f"Random Strategy wins: {wins_random} ({wins_random/num_games*100:.1f}%)")
+    print(f"Letter Gap Strategy wins: {wins_letter_gap} ({wins_letter_gap/num_games*100:.1f}%)")
+    
+simulate_turn_based_games(country_graph, num_games=100, verbose=True)
+
+OUTPUT:
+Turn-based simulation over 100 games:
+Random Strategy wins: 4 (4.0%)
+Letter Gap Strategy wins: 96 (96.0%)
+

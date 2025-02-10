@@ -1,0 +1,3476 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="PAPUA NEW GUINEA" />
+    <node id="TUNISIA" />
+    <node id="HAITI" />
+    <node id="TURKMENISTAN" />
+    <node id="LEBANON" />
+    <node id="GUERNSEY" />
+    <node id="DJIBOUTI" />
+    <node id="ESTONIA" />
+    <node id="LESOTHO" />
+    <node id="MALDIVES" />
+    <node id="EL SALVADOR" />
+    <node id="ARGENTINA" />
+    <node id="ANDORRA" />
+    <node id="ANGUILLA" />
+    <node id="CZECH REPUBLIC" />
+    <node id="UKRAINE" />
+    <node id="BELARUS" />
+    <node id="SAINT PIERRE AND MIQUELON" />
+    <node id="ECUADOR" />
+    <node id="CURAÇAO" />
+    <node id="PANAMA" />
+    <node id="VIRGIN ISLANDS, U.S." />
+    <node id="CONGO, THE DEMOCRATIC REPUBLIC OF THE" />
+    <node id="ETHIOPIA" />
+    <node id="ÅLAND ISLANDS" />
+    <node id="SWEDEN" />
+    <node id="AUSTRIA" />
+    <node id="BRUNEI DARUSSALAM" />
+    <node id="SYRIAN ARAB REPUBLIC" />
+    <node id="RÉUNION" />
+    <node id="ALGERIA" />
+    <node id="SAINT KITTS AND NEVIS" />
+    <node id="KOREA, REPUBLIC OF" />
+    <node id="MONTENEGRO" />
+    <node id="AMERICAN SAMOA" />
+    <node id="ZIMBABWE" />
+    <node id="BRITISH INDIAN OCEAN TERRITORY" />
+    <node id="CROATIA" />
+    <node id="NICARAGUA" />
+    <node id="NIUE" />
+    <node id="BHUTAN" />
+    <node id="KENYA" />
+    <node id="SOUTH SUDAN" />
+    <node id="FRANCE" />
+    <node id="TUVALU" />
+    <node id="VIET NAM" />
+    <node id="MAURITIUS" />
+    <node id="NEW ZEALAND" />
+    <node id="MICRONESIA, FEDERATED STATES OF" />
+    <node id="GEORGIA" />
+    <node id="FIJI" />
+    <node id="ARMENIA" />
+    <node id="CHINA" />
+    <node id="HONDURAS" />
+    <node id="ROMANIA" />
+    <node id="NEW CALEDONIA" />
+    <node id="UNITED KINGDOM" />
+    <node id="VIRGIN ISLANDS, BRITISH" />
+    <node id="SERBIA" />
+    <node id="SLOVAKIA" />
+    <node id="FRENCH SOUTHERN TERRITORIES" />
+    <node id="CUBA" />
+    <node id="BOSNIA AND HERZEGOVINA" />
+    <node id="TONGA" />
+    <node id="PUERTO RICO" />
+    <node id="UGANDA" />
+    <node id="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <node id="COMOROS" />
+    <node id="SVALBARD AND JAN MAYEN" />
+    <node id="URUGUAY" />
+    <node id="AUSTRALIA" />
+    <node id="MARSHALL ISLANDS" />
+    <node id="IRAQ" />
+    <node id="NAMIBIA" />
+    <node id="PITCAIRN" />
+    <node id="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" />
+    <node id="BRAZIL" />
+    <node id="BAHAMAS" />
+    <node id="BONAIRE, SINT EUSTATIUS AND SABA" />
+    <node id="ISLE OF MAN" />
+    <node id="THAILAND" />
+    <node id="GUADELOUPE" />
+    <node id="MALAYSIA" />
+    <node id="MAURITANIA" />
+    <node id="PHILIPPINES" />
+    <node id="ZAMBIA" />
+    <node id="BOLIVIA, PLURINATIONAL STATE OF" />
+    <node id="LITHUANIA" />
+    <node id="BARBADOS" />
+    <node id="CÔTE D'IVOIRE" />
+    <node id="RUSSIAN FEDERATION" />
+    <node id="IRAN, ISLAMIC REPUBLIC OF" />
+    <node id="GUATEMALA" />
+    <node id="DOMINICA" />
+    <node id="PARAGUAY" />
+    <node id="SLOVENIA" />
+    <node id="MARTINIQUE" />
+    <node id="UNITED ARAB EMIRATES" />
+    <node id="NIGER" />
+    <node id="HUNGARY" />
+    <node id="PALESTINE, STATE OF" />
+    <node id="CAPE VERDE" />
+    <node id="BERMUDA" />
+    <node id="ISRAEL" />
+    <node id="MALAWI" />
+    <node id="NETHERLANDS" />
+    <node id="CONGO" />
+    <node id="BULGARIA" />
+    <node id="GUINEA" />
+    <node id="MYANMAR" />
+    <node id="TAJIKISTAN" />
+    <node id="SINGAPORE" />
+    <node id="ERITREA" />
+    <node id="BELIZE" />
+    <node id="TRINIDAD AND TOBAGO" />
+    <node id="AZERBAIJAN" />
+    <node id="VANUATU" />
+    <node id="COOK ISLANDS" />
+    <node id="MADAGASCAR" />
+    <node id="CHILE" />
+    <node id="CANADA" />
+    <node id="INDIA" />
+    <node id="EGYPT" />
+    <node id="NORTHERN MARIANA ISLANDS" />
+    <node id="ANTIGUA AND BARBUDA" />
+    <node id="BENIN" />
+    <node id="TURKS AND CAICOS ISLANDS" />
+    <node id="AFGHANISTAN" />
+    <node id="GHANA" />
+    <node id="FRENCH POLYNESIA" />
+    <node id="IRELAND" />
+    <node id="BAHRAIN" />
+    <node id="ALBANIA" />
+    <node id="HOLY SEE (VATICAN CITY STATE)" />
+    <node id="YEMEN" />
+    <node id="MALTA" />
+    <node id="FRENCH GUIANA" />
+    <node id="GRENADA" />
+    <node id="PAKISTAN" />
+    <node id="SAUDI ARABIA" />
+    <node id="SEYCHELLES" />
+    <node id="SURINAME" />
+    <node id="DOMINICAN REPUBLIC" />
+    <node id="KAZAKHSTAN" />
+    <node id="MONACO" />
+    <node id="OMAN" />
+    <node id="UNITED STATES" />
+    <node id="MAYOTTE" />
+    <node id="ITALY" />
+    <node id="GERMANY" />
+    <node id="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <node id="GUINEA-BISSAU" />
+    <node id="BELGIUM" />
+    <node id="CHRISTMAS ISLAND" />
+    <node id="HONG KONG" />
+    <node id="BOTSWANA" />
+    <node id="VENEZUELA, BOLIVARIAN REPUBLIC OF" />
+    <node id="NAURU" />
+    <node id="SOLOMON ISLANDS" />
+    <node id="TAIWAN, PROVINCE OF CHINA" />
+    <node id="KIRIBATI" />
+    <node id="INDONESIA" />
+    <node id="MONGOLIA" />
+    <node id="LIECHTENSTEIN" />
+    <node id="COLOMBIA" />
+    <node id="ANTARCTICA" />
+    <node id="BANGLADESH" />
+    <node id="MONTSERRAT" />
+    <node id="LAO PEOPLE'S DEMOCRATIC REPUBLIC" />
+    <node id="NIGERIA" />
+    <node id="ESWATINI" />
+    <node id="FALKLAND ISLANDS (MALVINAS)" />
+    <node id="MEXICO" />
+    <node id="SIERRA LEONE" />
+    <node id="SINT MAARTEN (DUTCH PART)" />
+    <node id="SPAIN" />
+    <node id="TOKELAU" />
+    <node id="GIBRALTAR" />
+    <node id="PALAU" />
+    <node id="GAMBIA" />
+    <node id="EQUATORIAL GUINEA" />
+    <node id="GREENLAND" />
+    <node id="BURUNDI" />
+    <node id="ICELAND" />
+    <node id="COSTA RICA" />
+    <node id="JORDAN" />
+    <node id="MACAO" />
+    <node id="SOUTH AFRICA" />
+    <node id="UNITED STATES MINOR OUTLYING ISLANDS" />
+    <node id="FINLAND" />
+    <node id="KUWAIT" />
+    <node id="CAMEROON" />
+    <node id="NEPAL" />
+    <node id="SENEGAL" />
+    <node id="BURKINA FASO" />
+    <node id="CHAD" />
+    <node id="JAPAN" />
+    <node id="SAMOA" />
+    <node id="ANGOLA" />
+    <node id="SAINT BARTHÉLEMY" />
+    <node id="MOZAMBIQUE" />
+    <node id="TOGO" />
+    <node id="RWANDA" />
+    <node id="KYRGYZSTAN" />
+    <node id="LIBERIA" />
+    <node id="SRI LANKA" />
+    <node id="LATVIA" />
+    <node id="CENTRAL AFRICAN REPUBLIC" />
+    <node id="SAO TOME AND PRINCIPE" />
+    <node id="CAYMAN ISLANDS" />
+    <node id="GUAM" />
+    <node id="JAMAICA" />
+    <node id="MOROCCO" />
+    <node id="POLAND" />
+    <node id="SOMALIA" />
+    <node id="JERSEY" />
+    <node id="SAN MARINO" />
+    <node id="CYPRUS" />
+    <node id="DENMARK" />
+    <node id="WESTERN SAHARA" />
+    <node id="GUYANA" />
+    <node id="GABON" />
+    <node id="FAROE ISLANDS" />
+    <node id="CAMBODIA" />
+    <node id="SWITZERLAND" />
+    <node id="LIBYA" />
+    <node id="SAINT VINCENT AND THE GRENADINES" />
+    <node id="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" />
+    <node id="MALI" />
+    <node id="PORTUGAL" />
+    <node id="BOUVET ISLAND" />
+    <node id="WALLIS AND FUTUNA" />
+    <node id="SAINT LUCIA" />
+    <node id="NORFOLK ISLAND" />
+    <node id="SAINT MARTIN (FRENCH PART)" />
+    <node id="TANZANIA, UNITED REPUBLIC OF" />
+    <node id="COCOS (KEELING) ISLANDS" />
+    <node id="MOLDOVA, REPUBLIC OF" />
+    <node id="HEARD ISLAND AND MCDONALD ISLANDS" />
+    <node id="LUXEMBOURG" />
+    <node id="GREECE" />
+    <node id="PERU" />
+    <node id="TURKEY" />
+    <node id="QATAR" />
+    <node id="TIMOR-LESTE" />
+    <node id="SUDAN" />
+    <node id="ARUBA" />
+    <node id="NORWAY" />
+    <node id="UZBEKISTAN" />
+    <edge source="PAPUA NEW GUINEA" target="ARGENTINA" />
+    <edge source="PAPUA NEW GUINEA" target="ANDORRA" />
+    <edge source="PAPUA NEW GUINEA" target="ANGUILLA" />
+    <edge source="PAPUA NEW GUINEA" target="AUSTRIA" />
+    <edge source="PAPUA NEW GUINEA" target="ALGERIA" />
+    <edge source="PAPUA NEW GUINEA" target="AMERICAN SAMOA" />
+    <edge source="PAPUA NEW GUINEA" target="ARMENIA" />
+    <edge source="PAPUA NEW GUINEA" target="AUSTRALIA" />
+    <edge source="PAPUA NEW GUINEA" target="AZERBAIJAN" />
+    <edge source="PAPUA NEW GUINEA" target="ANTIGUA AND BARBUDA" />
+    <edge source="PAPUA NEW GUINEA" target="AFGHANISTAN" />
+    <edge source="PAPUA NEW GUINEA" target="ALBANIA" />
+    <edge source="PAPUA NEW GUINEA" target="ANTARCTICA" />
+    <edge source="PAPUA NEW GUINEA" target="ANGOLA" />
+    <edge source="PAPUA NEW GUINEA" target="ARUBA" />
+    <edge source="TUNISIA" target="ARGENTINA" />
+    <edge source="TUNISIA" target="ANDORRA" />
+    <edge source="TUNISIA" target="ANGUILLA" />
+    <edge source="TUNISIA" target="AUSTRIA" />
+    <edge source="TUNISIA" target="ALGERIA" />
+    <edge source="TUNISIA" target="AMERICAN SAMOA" />
+    <edge source="TUNISIA" target="ARMENIA" />
+    <edge source="TUNISIA" target="AUSTRALIA" />
+    <edge source="TUNISIA" target="AZERBAIJAN" />
+    <edge source="TUNISIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="TUNISIA" target="AFGHANISTAN" />
+    <edge source="TUNISIA" target="ALBANIA" />
+    <edge source="TUNISIA" target="ANTARCTICA" />
+    <edge source="TUNISIA" target="ANGOLA" />
+    <edge source="TUNISIA" target="ARUBA" />
+    <edge source="HAITI" target="IRAQ" />
+    <edge source="HAITI" target="ISLE OF MAN" />
+    <edge source="HAITI" target="IRAN, ISLAMIC REPUBLIC OF" />
+    <edge source="HAITI" target="ISRAEL" />
+    <edge source="HAITI" target="INDIA" />
+    <edge source="HAITI" target="IRELAND" />
+    <edge source="HAITI" target="ITALY" />
+    <edge source="HAITI" target="INDONESIA" />
+    <edge source="HAITI" target="ICELAND" />
+    <edge source="TURKMENISTAN" target="NICARAGUA" />
+    <edge source="TURKMENISTAN" target="NIUE" />
+    <edge source="TURKMENISTAN" target="NEW ZEALAND" />
+    <edge source="TURKMENISTAN" target="NEW CALEDONIA" />
+    <edge source="TURKMENISTAN" target="NAMIBIA" />
+    <edge source="TURKMENISTAN" target="NIGER" />
+    <edge source="TURKMENISTAN" target="NETHERLANDS" />
+    <edge source="TURKMENISTAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="TURKMENISTAN" target="NAURU" />
+    <edge source="TURKMENISTAN" target="NIGERIA" />
+    <edge source="TURKMENISTAN" target="NEPAL" />
+    <edge source="TURKMENISTAN" target="NORFOLK ISLAND" />
+    <edge source="TURKMENISTAN" target="NORWAY" />
+    <edge source="LEBANON" target="NICARAGUA" />
+    <edge source="LEBANON" target="NIUE" />
+    <edge source="LEBANON" target="NEW ZEALAND" />
+    <edge source="LEBANON" target="NEW CALEDONIA" />
+    <edge source="LEBANON" target="NAMIBIA" />
+    <edge source="LEBANON" target="NIGER" />
+    <edge source="LEBANON" target="NETHERLANDS" />
+    <edge source="LEBANON" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="LEBANON" target="NAURU" />
+    <edge source="LEBANON" target="NIGERIA" />
+    <edge source="LEBANON" target="NEPAL" />
+    <edge source="LEBANON" target="NORFOLK ISLAND" />
+    <edge source="LEBANON" target="NORWAY" />
+    <edge source="GUERNSEY" target="YEMEN" />
+    <edge source="DJIBOUTI" target="IRAQ" />
+    <edge source="DJIBOUTI" target="ISLE OF MAN" />
+    <edge source="DJIBOUTI" target="IRAN, ISLAMIC REPUBLIC OF" />
+    <edge source="DJIBOUTI" target="ISRAEL" />
+    <edge source="DJIBOUTI" target="INDIA" />
+    <edge source="DJIBOUTI" target="IRELAND" />
+    <edge source="DJIBOUTI" target="ITALY" />
+    <edge source="DJIBOUTI" target="INDONESIA" />
+    <edge source="DJIBOUTI" target="ICELAND" />
+    <edge source="ESTONIA" target="ARGENTINA" />
+    <edge source="ESTONIA" target="ANDORRA" />
+    <edge source="ESTONIA" target="ANGUILLA" />
+    <edge source="ESTONIA" target="AUSTRIA" />
+    <edge source="ESTONIA" target="ALGERIA" />
+    <edge source="ESTONIA" target="AMERICAN SAMOA" />
+    <edge source="ESTONIA" target="ARMENIA" />
+    <edge source="ESTONIA" target="AUSTRALIA" />
+    <edge source="ESTONIA" target="AZERBAIJAN" />
+    <edge source="ESTONIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ESTONIA" target="AFGHANISTAN" />
+    <edge source="ESTONIA" target="ALBANIA" />
+    <edge source="ESTONIA" target="ANTARCTICA" />
+    <edge source="ESTONIA" target="ANGOLA" />
+    <edge source="ESTONIA" target="ARUBA" />
+    <edge source="LESOTHO" target="OMAN" />
+    <edge source="MALDIVES" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="MALDIVES" target="SWEDEN" />
+    <edge source="MALDIVES" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="MALDIVES" target="SAINT KITTS AND NEVIS" />
+    <edge source="MALDIVES" target="SOUTH SUDAN" />
+    <edge source="MALDIVES" target="SERBIA" />
+    <edge source="MALDIVES" target="SLOVAKIA" />
+    <edge source="MALDIVES" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="MALDIVES" target="SVALBARD AND JAN MAYEN" />
+    <edge source="MALDIVES" target="SLOVENIA" />
+    <edge source="MALDIVES" target="SINGAPORE" />
+    <edge source="MALDIVES" target="SAUDI ARABIA" />
+    <edge source="MALDIVES" target="SEYCHELLES" />
+    <edge source="MALDIVES" target="SURINAME" />
+    <edge source="MALDIVES" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="MALDIVES" target="SOLOMON ISLANDS" />
+    <edge source="MALDIVES" target="SIERRA LEONE" />
+    <edge source="MALDIVES" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="MALDIVES" target="SPAIN" />
+    <edge source="MALDIVES" target="SOUTH AFRICA" />
+    <edge source="MALDIVES" target="SENEGAL" />
+    <edge source="MALDIVES" target="SAMOA" />
+    <edge source="MALDIVES" target="SAINT BARTHÉLEMY" />
+    <edge source="MALDIVES" target="SRI LANKA" />
+    <edge source="MALDIVES" target="SAO TOME AND PRINCIPE" />
+    <edge source="MALDIVES" target="SOMALIA" />
+    <edge source="MALDIVES" target="SAN MARINO" />
+    <edge source="MALDIVES" target="SWITZERLAND" />
+    <edge source="MALDIVES" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="MALDIVES" target="SAINT LUCIA" />
+    <edge source="MALDIVES" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="MALDIVES" target="SUDAN" />
+    <edge source="EL SALVADOR" target="RÉUNION" />
+    <edge source="EL SALVADOR" target="ROMANIA" />
+    <edge source="EL SALVADOR" target="RUSSIAN FEDERATION" />
+    <edge source="EL SALVADOR" target="RWANDA" />
+    <edge source="ARGENTINA" target="ANDORRA" />
+    <edge source="ARGENTINA" target="ANGUILLA" />
+    <edge source="ARGENTINA" target="AUSTRIA" />
+    <edge source="ARGENTINA" target="ALGERIA" />
+    <edge source="ARGENTINA" target="AMERICAN SAMOA" />
+    <edge source="ARGENTINA" target="ARMENIA" />
+    <edge source="ARGENTINA" target="AUSTRALIA" />
+    <edge source="ARGENTINA" target="AZERBAIJAN" />
+    <edge source="ARGENTINA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ARGENTINA" target="AFGHANISTAN" />
+    <edge source="ARGENTINA" target="ALBANIA" />
+    <edge source="ARGENTINA" target="ANTARCTICA" />
+    <edge source="ARGENTINA" target="ANGOLA" />
+    <edge source="ARGENTINA" target="ARUBA" />
+    <edge source="ANDORRA" target="ARGENTINA" />
+    <edge source="ANDORRA" target="ANGUILLA" />
+    <edge source="ANDORRA" target="AUSTRIA" />
+    <edge source="ANDORRA" target="ALGERIA" />
+    <edge source="ANDORRA" target="AMERICAN SAMOA" />
+    <edge source="ANDORRA" target="ARMENIA" />
+    <edge source="ANDORRA" target="AUSTRALIA" />
+    <edge source="ANDORRA" target="AZERBAIJAN" />
+    <edge source="ANDORRA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ANDORRA" target="AFGHANISTAN" />
+    <edge source="ANDORRA" target="ALBANIA" />
+    <edge source="ANDORRA" target="ANTARCTICA" />
+    <edge source="ANDORRA" target="ANGOLA" />
+    <edge source="ANDORRA" target="ARUBA" />
+    <edge source="ANGUILLA" target="ARGENTINA" />
+    <edge source="ANGUILLA" target="ANDORRA" />
+    <edge source="ANGUILLA" target="AUSTRIA" />
+    <edge source="ANGUILLA" target="ALGERIA" />
+    <edge source="ANGUILLA" target="AMERICAN SAMOA" />
+    <edge source="ANGUILLA" target="ARMENIA" />
+    <edge source="ANGUILLA" target="AUSTRALIA" />
+    <edge source="ANGUILLA" target="AZERBAIJAN" />
+    <edge source="ANGUILLA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ANGUILLA" target="AFGHANISTAN" />
+    <edge source="ANGUILLA" target="ALBANIA" />
+    <edge source="ANGUILLA" target="ANTARCTICA" />
+    <edge source="ANGUILLA" target="ANGOLA" />
+    <edge source="ANGUILLA" target="ARUBA" />
+    <edge source="CZECH REPUBLIC" target="CURAÇAO" />
+    <edge source="CZECH REPUBLIC" target="CONGO, THE DEMOCRATIC REPUBLIC OF THE" />
+    <edge source="CZECH REPUBLIC" target="CROATIA" />
+    <edge source="CZECH REPUBLIC" target="CHINA" />
+    <edge source="CZECH REPUBLIC" target="CUBA" />
+    <edge source="CZECH REPUBLIC" target="COMOROS" />
+    <edge source="CZECH REPUBLIC" target="CÔTE D'IVOIRE" />
+    <edge source="CZECH REPUBLIC" target="CAPE VERDE" />
+    <edge source="CZECH REPUBLIC" target="CONGO" />
+    <edge source="CZECH REPUBLIC" target="COOK ISLANDS" />
+    <edge source="CZECH REPUBLIC" target="CHILE" />
+    <edge source="CZECH REPUBLIC" target="CANADA" />
+    <edge source="CZECH REPUBLIC" target="CHRISTMAS ISLAND" />
+    <edge source="CZECH REPUBLIC" target="COLOMBIA" />
+    <edge source="CZECH REPUBLIC" target="COSTA RICA" />
+    <edge source="CZECH REPUBLIC" target="CAMEROON" />
+    <edge source="CZECH REPUBLIC" target="CHAD" />
+    <edge source="CZECH REPUBLIC" target="CENTRAL AFRICAN REPUBLIC" />
+    <edge source="CZECH REPUBLIC" target="CAYMAN ISLANDS" />
+    <edge source="CZECH REPUBLIC" target="CYPRUS" />
+    <edge source="CZECH REPUBLIC" target="CAMBODIA" />
+    <edge source="CZECH REPUBLIC" target="COCOS (KEELING) ISLANDS" />
+    <edge source="UKRAINE" target="ESTONIA" />
+    <edge source="UKRAINE" target="EL SALVADOR" />
+    <edge source="UKRAINE" target="ECUADOR" />
+    <edge source="UKRAINE" target="ETHIOPIA" />
+    <edge source="UKRAINE" target="ERITREA" />
+    <edge source="UKRAINE" target="EGYPT" />
+    <edge source="UKRAINE" target="ESWATINI" />
+    <edge source="UKRAINE" target="EQUATORIAL GUINEA" />
+    <edge source="BELARUS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="BELARUS" target="SWEDEN" />
+    <edge source="BELARUS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="BELARUS" target="SAINT KITTS AND NEVIS" />
+    <edge source="BELARUS" target="SOUTH SUDAN" />
+    <edge source="BELARUS" target="SERBIA" />
+    <edge source="BELARUS" target="SLOVAKIA" />
+    <edge source="BELARUS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="BELARUS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="BELARUS" target="SLOVENIA" />
+    <edge source="BELARUS" target="SINGAPORE" />
+    <edge source="BELARUS" target="SAUDI ARABIA" />
+    <edge source="BELARUS" target="SEYCHELLES" />
+    <edge source="BELARUS" target="SURINAME" />
+    <edge source="BELARUS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="BELARUS" target="SOLOMON ISLANDS" />
+    <edge source="BELARUS" target="SIERRA LEONE" />
+    <edge source="BELARUS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="BELARUS" target="SPAIN" />
+    <edge source="BELARUS" target="SOUTH AFRICA" />
+    <edge source="BELARUS" target="SENEGAL" />
+    <edge source="BELARUS" target="SAMOA" />
+    <edge source="BELARUS" target="SAINT BARTHÉLEMY" />
+    <edge source="BELARUS" target="SRI LANKA" />
+    <edge source="BELARUS" target="SAO TOME AND PRINCIPE" />
+    <edge source="BELARUS" target="SOMALIA" />
+    <edge source="BELARUS" target="SAN MARINO" />
+    <edge source="BELARUS" target="SWITZERLAND" />
+    <edge source="BELARUS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="BELARUS" target="SAINT LUCIA" />
+    <edge source="BELARUS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="BELARUS" target="SUDAN" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NICARAGUA" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NIUE" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NEW ZEALAND" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NEW CALEDONIA" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NAMIBIA" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NIGER" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NETHERLANDS" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NAURU" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NIGERIA" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NEPAL" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NORFOLK ISLAND" />
+    <edge source="SAINT PIERRE AND MIQUELON" target="NORWAY" />
+    <edge source="ECUADOR" target="RÉUNION" />
+    <edge source="ECUADOR" target="ROMANIA" />
+    <edge source="ECUADOR" target="RUSSIAN FEDERATION" />
+    <edge source="ECUADOR" target="RWANDA" />
+    <edge source="CURAÇAO" target="OMAN" />
+    <edge source="PANAMA" target="ARGENTINA" />
+    <edge source="PANAMA" target="ANDORRA" />
+    <edge source="PANAMA" target="ANGUILLA" />
+    <edge source="PANAMA" target="AUSTRIA" />
+    <edge source="PANAMA" target="ALGERIA" />
+    <edge source="PANAMA" target="AMERICAN SAMOA" />
+    <edge source="PANAMA" target="ARMENIA" />
+    <edge source="PANAMA" target="AUSTRALIA" />
+    <edge source="PANAMA" target="AZERBAIJAN" />
+    <edge source="PANAMA" target="ANTIGUA AND BARBUDA" />
+    <edge source="PANAMA" target="AFGHANISTAN" />
+    <edge source="PANAMA" target="ALBANIA" />
+    <edge source="PANAMA" target="ANTARCTICA" />
+    <edge source="PANAMA" target="ANGOLA" />
+    <edge source="PANAMA" target="ARUBA" />
+    <edge source="CONGO, THE DEMOCRATIC REPUBLIC OF THE" target="ESTONIA" />
+    <edge source="CONGO, THE DEMOCRATIC REPUBLIC OF THE" target="EL SALVADOR" />
+    <edge source="CONGO, THE DEMOCRATIC REPUBLIC OF THE" target="ECUADOR" />
+    <edge source="CONGO, THE DEMOCRATIC REPUBLIC OF THE" target="ETHIOPIA" />
+    <edge source="CONGO, THE DEMOCRATIC REPUBLIC OF THE" target="ERITREA" />
+    <edge source="CONGO, THE DEMOCRATIC REPUBLIC OF THE" target="EGYPT" />
+    <edge source="CONGO, THE DEMOCRATIC REPUBLIC OF THE" target="ESWATINI" />
+    <edge source="CONGO, THE DEMOCRATIC REPUBLIC OF THE" target="EQUATORIAL GUINEA" />
+    <edge source="ETHIOPIA" target="ARGENTINA" />
+    <edge source="ETHIOPIA" target="ANDORRA" />
+    <edge source="ETHIOPIA" target="ANGUILLA" />
+    <edge source="ETHIOPIA" target="AUSTRIA" />
+    <edge source="ETHIOPIA" target="ALGERIA" />
+    <edge source="ETHIOPIA" target="AMERICAN SAMOA" />
+    <edge source="ETHIOPIA" target="ARMENIA" />
+    <edge source="ETHIOPIA" target="AUSTRALIA" />
+    <edge source="ETHIOPIA" target="AZERBAIJAN" />
+    <edge source="ETHIOPIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ETHIOPIA" target="AFGHANISTAN" />
+    <edge source="ETHIOPIA" target="ALBANIA" />
+    <edge source="ETHIOPIA" target="ANTARCTICA" />
+    <edge source="ETHIOPIA" target="ANGOLA" />
+    <edge source="ETHIOPIA" target="ARUBA" />
+    <edge source="ÅLAND ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="ÅLAND ISLANDS" target="SWEDEN" />
+    <edge source="ÅLAND ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="ÅLAND ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="ÅLAND ISLANDS" target="SOUTH SUDAN" />
+    <edge source="ÅLAND ISLANDS" target="SERBIA" />
+    <edge source="ÅLAND ISLANDS" target="SLOVAKIA" />
+    <edge source="ÅLAND ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="ÅLAND ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="ÅLAND ISLANDS" target="SLOVENIA" />
+    <edge source="ÅLAND ISLANDS" target="SINGAPORE" />
+    <edge source="ÅLAND ISLANDS" target="SAUDI ARABIA" />
+    <edge source="ÅLAND ISLANDS" target="SEYCHELLES" />
+    <edge source="ÅLAND ISLANDS" target="SURINAME" />
+    <edge source="ÅLAND ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="ÅLAND ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="ÅLAND ISLANDS" target="SIERRA LEONE" />
+    <edge source="ÅLAND ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="ÅLAND ISLANDS" target="SPAIN" />
+    <edge source="ÅLAND ISLANDS" target="SOUTH AFRICA" />
+    <edge source="ÅLAND ISLANDS" target="SENEGAL" />
+    <edge source="ÅLAND ISLANDS" target="SAMOA" />
+    <edge source="ÅLAND ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="ÅLAND ISLANDS" target="SRI LANKA" />
+    <edge source="ÅLAND ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="ÅLAND ISLANDS" target="SOMALIA" />
+    <edge source="ÅLAND ISLANDS" target="SAN MARINO" />
+    <edge source="ÅLAND ISLANDS" target="SWITZERLAND" />
+    <edge source="ÅLAND ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="ÅLAND ISLANDS" target="SAINT LUCIA" />
+    <edge source="ÅLAND ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="ÅLAND ISLANDS" target="SUDAN" />
+    <edge source="SWEDEN" target="NICARAGUA" />
+    <edge source="SWEDEN" target="NIUE" />
+    <edge source="SWEDEN" target="NEW ZEALAND" />
+    <edge source="SWEDEN" target="NEW CALEDONIA" />
+    <edge source="SWEDEN" target="NAMIBIA" />
+    <edge source="SWEDEN" target="NIGER" />
+    <edge source="SWEDEN" target="NETHERLANDS" />
+    <edge source="SWEDEN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="SWEDEN" target="NAURU" />
+    <edge source="SWEDEN" target="NIGERIA" />
+    <edge source="SWEDEN" target="NEPAL" />
+    <edge source="SWEDEN" target="NORFOLK ISLAND" />
+    <edge source="SWEDEN" target="NORWAY" />
+    <edge source="AUSTRIA" target="ARGENTINA" />
+    <edge source="AUSTRIA" target="ANDORRA" />
+    <edge source="AUSTRIA" target="ANGUILLA" />
+    <edge source="AUSTRIA" target="ALGERIA" />
+    <edge source="AUSTRIA" target="AMERICAN SAMOA" />
+    <edge source="AUSTRIA" target="ARMENIA" />
+    <edge source="AUSTRIA" target="AUSTRALIA" />
+    <edge source="AUSTRIA" target="AZERBAIJAN" />
+    <edge source="AUSTRIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="AUSTRIA" target="AFGHANISTAN" />
+    <edge source="AUSTRIA" target="ALBANIA" />
+    <edge source="AUSTRIA" target="ANTARCTICA" />
+    <edge source="AUSTRIA" target="ANGOLA" />
+    <edge source="AUSTRIA" target="ARUBA" />
+    <edge source="BRUNEI DARUSSALAM" target="MALDIVES" />
+    <edge source="BRUNEI DARUSSALAM" target="MONTENEGRO" />
+    <edge source="BRUNEI DARUSSALAM" target="MAURITIUS" />
+    <edge source="BRUNEI DARUSSALAM" target="MICRONESIA, FEDERATED STATES OF" />
+    <edge source="BRUNEI DARUSSALAM" target="MARSHALL ISLANDS" />
+    <edge source="BRUNEI DARUSSALAM" target="MALAYSIA" />
+    <edge source="BRUNEI DARUSSALAM" target="MAURITANIA" />
+    <edge source="BRUNEI DARUSSALAM" target="MARTINIQUE" />
+    <edge source="BRUNEI DARUSSALAM" target="MALAWI" />
+    <edge source="BRUNEI DARUSSALAM" target="MYANMAR" />
+    <edge source="BRUNEI DARUSSALAM" target="MADAGASCAR" />
+    <edge source="BRUNEI DARUSSALAM" target="MALTA" />
+    <edge source="BRUNEI DARUSSALAM" target="MONACO" />
+    <edge source="BRUNEI DARUSSALAM" target="MAYOTTE" />
+    <edge source="BRUNEI DARUSSALAM" target="MONGOLIA" />
+    <edge source="BRUNEI DARUSSALAM" target="MONTSERRAT" />
+    <edge source="BRUNEI DARUSSALAM" target="MEXICO" />
+    <edge source="BRUNEI DARUSSALAM" target="MACAO" />
+    <edge source="BRUNEI DARUSSALAM" target="MOZAMBIQUE" />
+    <edge source="BRUNEI DARUSSALAM" target="MOROCCO" />
+    <edge source="BRUNEI DARUSSALAM" target="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" />
+    <edge source="BRUNEI DARUSSALAM" target="MALI" />
+    <edge source="BRUNEI DARUSSALAM" target="MOLDOVA, REPUBLIC OF" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CZECH REPUBLIC" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CURAÇAO" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CONGO, THE DEMOCRATIC REPUBLIC OF THE" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CROATIA" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CHINA" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CUBA" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="COMOROS" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CÔTE D'IVOIRE" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CAPE VERDE" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CONGO" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="COOK ISLANDS" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CHILE" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CANADA" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CHRISTMAS ISLAND" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="COLOMBIA" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="COSTA RICA" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CAMEROON" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CHAD" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CENTRAL AFRICAN REPUBLIC" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CAYMAN ISLANDS" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CYPRUS" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="CAMBODIA" />
+    <edge source="SYRIAN ARAB REPUBLIC" target="COCOS (KEELING) ISLANDS" />
+    <edge source="RÉUNION" target="NICARAGUA" />
+    <edge source="RÉUNION" target="NIUE" />
+    <edge source="RÉUNION" target="NEW ZEALAND" />
+    <edge source="RÉUNION" target="NEW CALEDONIA" />
+    <edge source="RÉUNION" target="NAMIBIA" />
+    <edge source="RÉUNION" target="NIGER" />
+    <edge source="RÉUNION" target="NETHERLANDS" />
+    <edge source="RÉUNION" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="RÉUNION" target="NAURU" />
+    <edge source="RÉUNION" target="NIGERIA" />
+    <edge source="RÉUNION" target="NEPAL" />
+    <edge source="RÉUNION" target="NORFOLK ISLAND" />
+    <edge source="RÉUNION" target="NORWAY" />
+    <edge source="ALGERIA" target="ARGENTINA" />
+    <edge source="ALGERIA" target="ANDORRA" />
+    <edge source="ALGERIA" target="ANGUILLA" />
+    <edge source="ALGERIA" target="AUSTRIA" />
+    <edge source="ALGERIA" target="AMERICAN SAMOA" />
+    <edge source="ALGERIA" target="ARMENIA" />
+    <edge source="ALGERIA" target="AUSTRALIA" />
+    <edge source="ALGERIA" target="AZERBAIJAN" />
+    <edge source="ALGERIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ALGERIA" target="AFGHANISTAN" />
+    <edge source="ALGERIA" target="ALBANIA" />
+    <edge source="ALGERIA" target="ANTARCTICA" />
+    <edge source="ALGERIA" target="ANGOLA" />
+    <edge source="ALGERIA" target="ARUBA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="SAINT KITTS AND NEVIS" target="SWEDEN" />
+    <edge source="SAINT KITTS AND NEVIS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="SAINT KITTS AND NEVIS" target="SOUTH SUDAN" />
+    <edge source="SAINT KITTS AND NEVIS" target="SERBIA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SLOVAKIA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="SAINT KITTS AND NEVIS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="SAINT KITTS AND NEVIS" target="SLOVENIA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SINGAPORE" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAUDI ARABIA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SEYCHELLES" />
+    <edge source="SAINT KITTS AND NEVIS" target="SURINAME" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SOLOMON ISLANDS" />
+    <edge source="SAINT KITTS AND NEVIS" target="SIERRA LEONE" />
+    <edge source="SAINT KITTS AND NEVIS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="SAINT KITTS AND NEVIS" target="SPAIN" />
+    <edge source="SAINT KITTS AND NEVIS" target="SOUTH AFRICA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SENEGAL" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAMOA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAINT BARTHÉLEMY" />
+    <edge source="SAINT KITTS AND NEVIS" target="SRI LANKA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAO TOME AND PRINCIPE" />
+    <edge source="SAINT KITTS AND NEVIS" target="SOMALIA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAN MARINO" />
+    <edge source="SAINT KITTS AND NEVIS" target="SWITZERLAND" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAINT LUCIA" />
+    <edge source="SAINT KITTS AND NEVIS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="SAINT KITTS AND NEVIS" target="SUDAN" />
+    <edge source="KOREA, REPUBLIC OF" target="FRANCE" />
+    <edge source="KOREA, REPUBLIC OF" target="FIJI" />
+    <edge source="KOREA, REPUBLIC OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="KOREA, REPUBLIC OF" target="FRENCH POLYNESIA" />
+    <edge source="KOREA, REPUBLIC OF" target="FRENCH GUIANA" />
+    <edge source="KOREA, REPUBLIC OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="KOREA, REPUBLIC OF" target="FINLAND" />
+    <edge source="KOREA, REPUBLIC OF" target="FAROE ISLANDS" />
+    <edge source="MONTENEGRO" target="OMAN" />
+    <edge source="AMERICAN SAMOA" target="ARGENTINA" />
+    <edge source="AMERICAN SAMOA" target="ANDORRA" />
+    <edge source="AMERICAN SAMOA" target="ANGUILLA" />
+    <edge source="AMERICAN SAMOA" target="AUSTRIA" />
+    <edge source="AMERICAN SAMOA" target="ALGERIA" />
+    <edge source="AMERICAN SAMOA" target="ARMENIA" />
+    <edge source="AMERICAN SAMOA" target="AUSTRALIA" />
+    <edge source="AMERICAN SAMOA" target="AZERBAIJAN" />
+    <edge source="AMERICAN SAMOA" target="ANTIGUA AND BARBUDA" />
+    <edge source="AMERICAN SAMOA" target="AFGHANISTAN" />
+    <edge source="AMERICAN SAMOA" target="ALBANIA" />
+    <edge source="AMERICAN SAMOA" target="ANTARCTICA" />
+    <edge source="AMERICAN SAMOA" target="ANGOLA" />
+    <edge source="AMERICAN SAMOA" target="ARUBA" />
+    <edge source="ZIMBABWE" target="ESTONIA" />
+    <edge source="ZIMBABWE" target="EL SALVADOR" />
+    <edge source="ZIMBABWE" target="ECUADOR" />
+    <edge source="ZIMBABWE" target="ETHIOPIA" />
+    <edge source="ZIMBABWE" target="ERITREA" />
+    <edge source="ZIMBABWE" target="EGYPT" />
+    <edge source="ZIMBABWE" target="ESWATINI" />
+    <edge source="ZIMBABWE" target="EQUATORIAL GUINEA" />
+    <edge source="BRITISH INDIAN OCEAN TERRITORY" target="YEMEN" />
+    <edge source="CROATIA" target="ARGENTINA" />
+    <edge source="CROATIA" target="ANDORRA" />
+    <edge source="CROATIA" target="ANGUILLA" />
+    <edge source="CROATIA" target="AUSTRIA" />
+    <edge source="CROATIA" target="ALGERIA" />
+    <edge source="CROATIA" target="AMERICAN SAMOA" />
+    <edge source="CROATIA" target="ARMENIA" />
+    <edge source="CROATIA" target="AUSTRALIA" />
+    <edge source="CROATIA" target="AZERBAIJAN" />
+    <edge source="CROATIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="CROATIA" target="AFGHANISTAN" />
+    <edge source="CROATIA" target="ALBANIA" />
+    <edge source="CROATIA" target="ANTARCTICA" />
+    <edge source="CROATIA" target="ANGOLA" />
+    <edge source="CROATIA" target="ARUBA" />
+    <edge source="NICARAGUA" target="ARGENTINA" />
+    <edge source="NICARAGUA" target="ANDORRA" />
+    <edge source="NICARAGUA" target="ANGUILLA" />
+    <edge source="NICARAGUA" target="AUSTRIA" />
+    <edge source="NICARAGUA" target="ALGERIA" />
+    <edge source="NICARAGUA" target="AMERICAN SAMOA" />
+    <edge source="NICARAGUA" target="ARMENIA" />
+    <edge source="NICARAGUA" target="AUSTRALIA" />
+    <edge source="NICARAGUA" target="AZERBAIJAN" />
+    <edge source="NICARAGUA" target="ANTIGUA AND BARBUDA" />
+    <edge source="NICARAGUA" target="AFGHANISTAN" />
+    <edge source="NICARAGUA" target="ALBANIA" />
+    <edge source="NICARAGUA" target="ANTARCTICA" />
+    <edge source="NICARAGUA" target="ANGOLA" />
+    <edge source="NICARAGUA" target="ARUBA" />
+    <edge source="NIUE" target="ESTONIA" />
+    <edge source="NIUE" target="EL SALVADOR" />
+    <edge source="NIUE" target="ECUADOR" />
+    <edge source="NIUE" target="ETHIOPIA" />
+    <edge source="NIUE" target="ERITREA" />
+    <edge source="NIUE" target="EGYPT" />
+    <edge source="NIUE" target="ESWATINI" />
+    <edge source="NIUE" target="EQUATORIAL GUINEA" />
+    <edge source="BHUTAN" target="NICARAGUA" />
+    <edge source="BHUTAN" target="NIUE" />
+    <edge source="BHUTAN" target="NEW ZEALAND" />
+    <edge source="BHUTAN" target="NEW CALEDONIA" />
+    <edge source="BHUTAN" target="NAMIBIA" />
+    <edge source="BHUTAN" target="NIGER" />
+    <edge source="BHUTAN" target="NETHERLANDS" />
+    <edge source="BHUTAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="BHUTAN" target="NAURU" />
+    <edge source="BHUTAN" target="NIGERIA" />
+    <edge source="BHUTAN" target="NEPAL" />
+    <edge source="BHUTAN" target="NORFOLK ISLAND" />
+    <edge source="BHUTAN" target="NORWAY" />
+    <edge source="KENYA" target="ARGENTINA" />
+    <edge source="KENYA" target="ANDORRA" />
+    <edge source="KENYA" target="ANGUILLA" />
+    <edge source="KENYA" target="AUSTRIA" />
+    <edge source="KENYA" target="ALGERIA" />
+    <edge source="KENYA" target="AMERICAN SAMOA" />
+    <edge source="KENYA" target="ARMENIA" />
+    <edge source="KENYA" target="AUSTRALIA" />
+    <edge source="KENYA" target="AZERBAIJAN" />
+    <edge source="KENYA" target="ANTIGUA AND BARBUDA" />
+    <edge source="KENYA" target="AFGHANISTAN" />
+    <edge source="KENYA" target="ALBANIA" />
+    <edge source="KENYA" target="ANTARCTICA" />
+    <edge source="KENYA" target="ANGOLA" />
+    <edge source="KENYA" target="ARUBA" />
+    <edge source="SOUTH SUDAN" target="NICARAGUA" />
+    <edge source="SOUTH SUDAN" target="NIUE" />
+    <edge source="SOUTH SUDAN" target="NEW ZEALAND" />
+    <edge source="SOUTH SUDAN" target="NEW CALEDONIA" />
+    <edge source="SOUTH SUDAN" target="NAMIBIA" />
+    <edge source="SOUTH SUDAN" target="NIGER" />
+    <edge source="SOUTH SUDAN" target="NETHERLANDS" />
+    <edge source="SOUTH SUDAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="SOUTH SUDAN" target="NAURU" />
+    <edge source="SOUTH SUDAN" target="NIGERIA" />
+    <edge source="SOUTH SUDAN" target="NEPAL" />
+    <edge source="SOUTH SUDAN" target="NORFOLK ISLAND" />
+    <edge source="SOUTH SUDAN" target="NORWAY" />
+    <edge source="FRANCE" target="ESTONIA" />
+    <edge source="FRANCE" target="EL SALVADOR" />
+    <edge source="FRANCE" target="ECUADOR" />
+    <edge source="FRANCE" target="ETHIOPIA" />
+    <edge source="FRANCE" target="ERITREA" />
+    <edge source="FRANCE" target="EGYPT" />
+    <edge source="FRANCE" target="ESWATINI" />
+    <edge source="FRANCE" target="EQUATORIAL GUINEA" />
+    <edge source="TUVALU" target="UKRAINE" />
+    <edge source="TUVALU" target="UNITED KINGDOM" />
+    <edge source="TUVALU" target="UGANDA" />
+    <edge source="TUVALU" target="URUGUAY" />
+    <edge source="TUVALU" target="UNITED ARAB EMIRATES" />
+    <edge source="TUVALU" target="UNITED STATES" />
+    <edge source="TUVALU" target="UNITED STATES MINOR OUTLYING ISLANDS" />
+    <edge source="TUVALU" target="UZBEKISTAN" />
+    <edge source="VIET NAM" target="MALDIVES" />
+    <edge source="VIET NAM" target="MONTENEGRO" />
+    <edge source="VIET NAM" target="MAURITIUS" />
+    <edge source="VIET NAM" target="MICRONESIA, FEDERATED STATES OF" />
+    <edge source="VIET NAM" target="MARSHALL ISLANDS" />
+    <edge source="VIET NAM" target="MALAYSIA" />
+    <edge source="VIET NAM" target="MAURITANIA" />
+    <edge source="VIET NAM" target="MARTINIQUE" />
+    <edge source="VIET NAM" target="MALAWI" />
+    <edge source="VIET NAM" target="MYANMAR" />
+    <edge source="VIET NAM" target="MADAGASCAR" />
+    <edge source="VIET NAM" target="MALTA" />
+    <edge source="VIET NAM" target="MONACO" />
+    <edge source="VIET NAM" target="MAYOTTE" />
+    <edge source="VIET NAM" target="MONGOLIA" />
+    <edge source="VIET NAM" target="MONTSERRAT" />
+    <edge source="VIET NAM" target="MEXICO" />
+    <edge source="VIET NAM" target="MACAO" />
+    <edge source="VIET NAM" target="MOZAMBIQUE" />
+    <edge source="VIET NAM" target="MOROCCO" />
+    <edge source="VIET NAM" target="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" />
+    <edge source="VIET NAM" target="MALI" />
+    <edge source="VIET NAM" target="MOLDOVA, REPUBLIC OF" />
+    <edge source="MAURITIUS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="MAURITIUS" target="SWEDEN" />
+    <edge source="MAURITIUS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="MAURITIUS" target="SAINT KITTS AND NEVIS" />
+    <edge source="MAURITIUS" target="SOUTH SUDAN" />
+    <edge source="MAURITIUS" target="SERBIA" />
+    <edge source="MAURITIUS" target="SLOVAKIA" />
+    <edge source="MAURITIUS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="MAURITIUS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="MAURITIUS" target="SLOVENIA" />
+    <edge source="MAURITIUS" target="SINGAPORE" />
+    <edge source="MAURITIUS" target="SAUDI ARABIA" />
+    <edge source="MAURITIUS" target="SEYCHELLES" />
+    <edge source="MAURITIUS" target="SURINAME" />
+    <edge source="MAURITIUS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="MAURITIUS" target="SOLOMON ISLANDS" />
+    <edge source="MAURITIUS" target="SIERRA LEONE" />
+    <edge source="MAURITIUS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="MAURITIUS" target="SPAIN" />
+    <edge source="MAURITIUS" target="SOUTH AFRICA" />
+    <edge source="MAURITIUS" target="SENEGAL" />
+    <edge source="MAURITIUS" target="SAMOA" />
+    <edge source="MAURITIUS" target="SAINT BARTHÉLEMY" />
+    <edge source="MAURITIUS" target="SRI LANKA" />
+    <edge source="MAURITIUS" target="SAO TOME AND PRINCIPE" />
+    <edge source="MAURITIUS" target="SOMALIA" />
+    <edge source="MAURITIUS" target="SAN MARINO" />
+    <edge source="MAURITIUS" target="SWITZERLAND" />
+    <edge source="MAURITIUS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="MAURITIUS" target="SAINT LUCIA" />
+    <edge source="MAURITIUS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="MAURITIUS" target="SUDAN" />
+    <edge source="NEW ZEALAND" target="DJIBOUTI" />
+    <edge source="NEW ZEALAND" target="DOMINICA" />
+    <edge source="NEW ZEALAND" target="DOMINICAN REPUBLIC" />
+    <edge source="NEW ZEALAND" target="DENMARK" />
+    <edge source="MICRONESIA, FEDERATED STATES OF" target="FRANCE" />
+    <edge source="MICRONESIA, FEDERATED STATES OF" target="FIJI" />
+    <edge source="MICRONESIA, FEDERATED STATES OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="MICRONESIA, FEDERATED STATES OF" target="FRENCH POLYNESIA" />
+    <edge source="MICRONESIA, FEDERATED STATES OF" target="FRENCH GUIANA" />
+    <edge source="MICRONESIA, FEDERATED STATES OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="MICRONESIA, FEDERATED STATES OF" target="FINLAND" />
+    <edge source="MICRONESIA, FEDERATED STATES OF" target="FAROE ISLANDS" />
+    <edge source="GEORGIA" target="ARGENTINA" />
+    <edge source="GEORGIA" target="ANDORRA" />
+    <edge source="GEORGIA" target="ANGUILLA" />
+    <edge source="GEORGIA" target="AUSTRIA" />
+    <edge source="GEORGIA" target="ALGERIA" />
+    <edge source="GEORGIA" target="AMERICAN SAMOA" />
+    <edge source="GEORGIA" target="ARMENIA" />
+    <edge source="GEORGIA" target="AUSTRALIA" />
+    <edge source="GEORGIA" target="AZERBAIJAN" />
+    <edge source="GEORGIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="GEORGIA" target="AFGHANISTAN" />
+    <edge source="GEORGIA" target="ALBANIA" />
+    <edge source="GEORGIA" target="ANTARCTICA" />
+    <edge source="GEORGIA" target="ANGOLA" />
+    <edge source="GEORGIA" target="ARUBA" />
+    <edge source="FIJI" target="IRAQ" />
+    <edge source="FIJI" target="ISLE OF MAN" />
+    <edge source="FIJI" target="IRAN, ISLAMIC REPUBLIC OF" />
+    <edge source="FIJI" target="ISRAEL" />
+    <edge source="FIJI" target="INDIA" />
+    <edge source="FIJI" target="IRELAND" />
+    <edge source="FIJI" target="ITALY" />
+    <edge source="FIJI" target="INDONESIA" />
+    <edge source="FIJI" target="ICELAND" />
+    <edge source="ARMENIA" target="ARGENTINA" />
+    <edge source="ARMENIA" target="ANDORRA" />
+    <edge source="ARMENIA" target="ANGUILLA" />
+    <edge source="ARMENIA" target="AUSTRIA" />
+    <edge source="ARMENIA" target="ALGERIA" />
+    <edge source="ARMENIA" target="AMERICAN SAMOA" />
+    <edge source="ARMENIA" target="AUSTRALIA" />
+    <edge source="ARMENIA" target="AZERBAIJAN" />
+    <edge source="ARMENIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ARMENIA" target="AFGHANISTAN" />
+    <edge source="ARMENIA" target="ALBANIA" />
+    <edge source="ARMENIA" target="ANTARCTICA" />
+    <edge source="ARMENIA" target="ANGOLA" />
+    <edge source="ARMENIA" target="ARUBA" />
+    <edge source="CHINA" target="ARGENTINA" />
+    <edge source="CHINA" target="ANDORRA" />
+    <edge source="CHINA" target="ANGUILLA" />
+    <edge source="CHINA" target="AUSTRIA" />
+    <edge source="CHINA" target="ALGERIA" />
+    <edge source="CHINA" target="AMERICAN SAMOA" />
+    <edge source="CHINA" target="ARMENIA" />
+    <edge source="CHINA" target="AUSTRALIA" />
+    <edge source="CHINA" target="AZERBAIJAN" />
+    <edge source="CHINA" target="ANTIGUA AND BARBUDA" />
+    <edge source="CHINA" target="AFGHANISTAN" />
+    <edge source="CHINA" target="ALBANIA" />
+    <edge source="CHINA" target="ANTARCTICA" />
+    <edge source="CHINA" target="ANGOLA" />
+    <edge source="CHINA" target="ARUBA" />
+    <edge source="HONDURAS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="HONDURAS" target="SWEDEN" />
+    <edge source="HONDURAS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="HONDURAS" target="SAINT KITTS AND NEVIS" />
+    <edge source="HONDURAS" target="SOUTH SUDAN" />
+    <edge source="HONDURAS" target="SERBIA" />
+    <edge source="HONDURAS" target="SLOVAKIA" />
+    <edge source="HONDURAS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="HONDURAS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="HONDURAS" target="SLOVENIA" />
+    <edge source="HONDURAS" target="SINGAPORE" />
+    <edge source="HONDURAS" target="SAUDI ARABIA" />
+    <edge source="HONDURAS" target="SEYCHELLES" />
+    <edge source="HONDURAS" target="SURINAME" />
+    <edge source="HONDURAS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="HONDURAS" target="SOLOMON ISLANDS" />
+    <edge source="HONDURAS" target="SIERRA LEONE" />
+    <edge source="HONDURAS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="HONDURAS" target="SPAIN" />
+    <edge source="HONDURAS" target="SOUTH AFRICA" />
+    <edge source="HONDURAS" target="SENEGAL" />
+    <edge source="HONDURAS" target="SAMOA" />
+    <edge source="HONDURAS" target="SAINT BARTHÉLEMY" />
+    <edge source="HONDURAS" target="SRI LANKA" />
+    <edge source="HONDURAS" target="SAO TOME AND PRINCIPE" />
+    <edge source="HONDURAS" target="SOMALIA" />
+    <edge source="HONDURAS" target="SAN MARINO" />
+    <edge source="HONDURAS" target="SWITZERLAND" />
+    <edge source="HONDURAS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="HONDURAS" target="SAINT LUCIA" />
+    <edge source="HONDURAS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="HONDURAS" target="SUDAN" />
+    <edge source="ROMANIA" target="ARGENTINA" />
+    <edge source="ROMANIA" target="ANDORRA" />
+    <edge source="ROMANIA" target="ANGUILLA" />
+    <edge source="ROMANIA" target="AUSTRIA" />
+    <edge source="ROMANIA" target="ALGERIA" />
+    <edge source="ROMANIA" target="AMERICAN SAMOA" />
+    <edge source="ROMANIA" target="ARMENIA" />
+    <edge source="ROMANIA" target="AUSTRALIA" />
+    <edge source="ROMANIA" target="AZERBAIJAN" />
+    <edge source="ROMANIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ROMANIA" target="AFGHANISTAN" />
+    <edge source="ROMANIA" target="ALBANIA" />
+    <edge source="ROMANIA" target="ANTARCTICA" />
+    <edge source="ROMANIA" target="ANGOLA" />
+    <edge source="ROMANIA" target="ARUBA" />
+    <edge source="NEW CALEDONIA" target="ARGENTINA" />
+    <edge source="NEW CALEDONIA" target="ANDORRA" />
+    <edge source="NEW CALEDONIA" target="ANGUILLA" />
+    <edge source="NEW CALEDONIA" target="AUSTRIA" />
+    <edge source="NEW CALEDONIA" target="ALGERIA" />
+    <edge source="NEW CALEDONIA" target="AMERICAN SAMOA" />
+    <edge source="NEW CALEDONIA" target="ARMENIA" />
+    <edge source="NEW CALEDONIA" target="AUSTRALIA" />
+    <edge source="NEW CALEDONIA" target="AZERBAIJAN" />
+    <edge source="NEW CALEDONIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="NEW CALEDONIA" target="AFGHANISTAN" />
+    <edge source="NEW CALEDONIA" target="ALBANIA" />
+    <edge source="NEW CALEDONIA" target="ANTARCTICA" />
+    <edge source="NEW CALEDONIA" target="ANGOLA" />
+    <edge source="NEW CALEDONIA" target="ARUBA" />
+    <edge source="UNITED KINGDOM" target="MALDIVES" />
+    <edge source="UNITED KINGDOM" target="MONTENEGRO" />
+    <edge source="UNITED KINGDOM" target="MAURITIUS" />
+    <edge source="UNITED KINGDOM" target="MICRONESIA, FEDERATED STATES OF" />
+    <edge source="UNITED KINGDOM" target="MARSHALL ISLANDS" />
+    <edge source="UNITED KINGDOM" target="MALAYSIA" />
+    <edge source="UNITED KINGDOM" target="MAURITANIA" />
+    <edge source="UNITED KINGDOM" target="MARTINIQUE" />
+    <edge source="UNITED KINGDOM" target="MALAWI" />
+    <edge source="UNITED KINGDOM" target="MYANMAR" />
+    <edge source="UNITED KINGDOM" target="MADAGASCAR" />
+    <edge source="UNITED KINGDOM" target="MALTA" />
+    <edge source="UNITED KINGDOM" target="MONACO" />
+    <edge source="UNITED KINGDOM" target="MAYOTTE" />
+    <edge source="UNITED KINGDOM" target="MONGOLIA" />
+    <edge source="UNITED KINGDOM" target="MONTSERRAT" />
+    <edge source="UNITED KINGDOM" target="MEXICO" />
+    <edge source="UNITED KINGDOM" target="MACAO" />
+    <edge source="UNITED KINGDOM" target="MOZAMBIQUE" />
+    <edge source="UNITED KINGDOM" target="MOROCCO" />
+    <edge source="UNITED KINGDOM" target="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" />
+    <edge source="UNITED KINGDOM" target="MALI" />
+    <edge source="UNITED KINGDOM" target="MOLDOVA, REPUBLIC OF" />
+    <edge source="VIRGIN ISLANDS, BRITISH" target="HAITI" />
+    <edge source="VIRGIN ISLANDS, BRITISH" target="HONDURAS" />
+    <edge source="VIRGIN ISLANDS, BRITISH" target="HUNGARY" />
+    <edge source="VIRGIN ISLANDS, BRITISH" target="HOLY SEE (VATICAN CITY STATE)" />
+    <edge source="VIRGIN ISLANDS, BRITISH" target="HONG KONG" />
+    <edge source="VIRGIN ISLANDS, BRITISH" target="HEARD ISLAND AND MCDONALD ISLANDS" />
+    <edge source="SERBIA" target="ARGENTINA" />
+    <edge source="SERBIA" target="ANDORRA" />
+    <edge source="SERBIA" target="ANGUILLA" />
+    <edge source="SERBIA" target="AUSTRIA" />
+    <edge source="SERBIA" target="ALGERIA" />
+    <edge source="SERBIA" target="AMERICAN SAMOA" />
+    <edge source="SERBIA" target="ARMENIA" />
+    <edge source="SERBIA" target="AUSTRALIA" />
+    <edge source="SERBIA" target="AZERBAIJAN" />
+    <edge source="SERBIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SERBIA" target="AFGHANISTAN" />
+    <edge source="SERBIA" target="ALBANIA" />
+    <edge source="SERBIA" target="ANTARCTICA" />
+    <edge source="SERBIA" target="ANGOLA" />
+    <edge source="SERBIA" target="ARUBA" />
+    <edge source="SLOVAKIA" target="ARGENTINA" />
+    <edge source="SLOVAKIA" target="ANDORRA" />
+    <edge source="SLOVAKIA" target="ANGUILLA" />
+    <edge source="SLOVAKIA" target="AUSTRIA" />
+    <edge source="SLOVAKIA" target="ALGERIA" />
+    <edge source="SLOVAKIA" target="AMERICAN SAMOA" />
+    <edge source="SLOVAKIA" target="ARMENIA" />
+    <edge source="SLOVAKIA" target="AUSTRALIA" />
+    <edge source="SLOVAKIA" target="AZERBAIJAN" />
+    <edge source="SLOVAKIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SLOVAKIA" target="AFGHANISTAN" />
+    <edge source="SLOVAKIA" target="ALBANIA" />
+    <edge source="SLOVAKIA" target="ANTARCTICA" />
+    <edge source="SLOVAKIA" target="ANGOLA" />
+    <edge source="SLOVAKIA" target="ARUBA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SWEDEN" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAINT KITTS AND NEVIS" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SOUTH SUDAN" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SERBIA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SLOVAKIA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SVALBARD AND JAN MAYEN" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SLOVENIA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SINGAPORE" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAUDI ARABIA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SEYCHELLES" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SURINAME" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SOLOMON ISLANDS" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SIERRA LEONE" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SPAIN" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SOUTH AFRICA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SENEGAL" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAMOA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAINT BARTHÉLEMY" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SRI LANKA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAO TOME AND PRINCIPE" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SOMALIA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAN MARINO" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SWITZERLAND" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAINT LUCIA" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="FRENCH SOUTHERN TERRITORIES" target="SUDAN" />
+    <edge source="CUBA" target="ARGENTINA" />
+    <edge source="CUBA" target="ANDORRA" />
+    <edge source="CUBA" target="ANGUILLA" />
+    <edge source="CUBA" target="AUSTRIA" />
+    <edge source="CUBA" target="ALGERIA" />
+    <edge source="CUBA" target="AMERICAN SAMOA" />
+    <edge source="CUBA" target="ARMENIA" />
+    <edge source="CUBA" target="AUSTRALIA" />
+    <edge source="CUBA" target="AZERBAIJAN" />
+    <edge source="CUBA" target="ANTIGUA AND BARBUDA" />
+    <edge source="CUBA" target="AFGHANISTAN" />
+    <edge source="CUBA" target="ALBANIA" />
+    <edge source="CUBA" target="ANTARCTICA" />
+    <edge source="CUBA" target="ANGOLA" />
+    <edge source="CUBA" target="ARUBA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ARGENTINA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ANDORRA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ANGUILLA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="AUSTRIA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ALGERIA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="AMERICAN SAMOA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ARMENIA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="AUSTRALIA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="AZERBAIJAN" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ANTIGUA AND BARBUDA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="AFGHANISTAN" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ALBANIA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ANTARCTICA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ANGOLA" />
+    <edge source="BOSNIA AND HERZEGOVINA" target="ARUBA" />
+    <edge source="TONGA" target="ARGENTINA" />
+    <edge source="TONGA" target="ANDORRA" />
+    <edge source="TONGA" target="ANGUILLA" />
+    <edge source="TONGA" target="AUSTRIA" />
+    <edge source="TONGA" target="ALGERIA" />
+    <edge source="TONGA" target="AMERICAN SAMOA" />
+    <edge source="TONGA" target="ARMENIA" />
+    <edge source="TONGA" target="AUSTRALIA" />
+    <edge source="TONGA" target="AZERBAIJAN" />
+    <edge source="TONGA" target="ANTIGUA AND BARBUDA" />
+    <edge source="TONGA" target="AFGHANISTAN" />
+    <edge source="TONGA" target="ALBANIA" />
+    <edge source="TONGA" target="ANTARCTICA" />
+    <edge source="TONGA" target="ANGOLA" />
+    <edge source="TONGA" target="ARUBA" />
+    <edge source="PUERTO RICO" target="OMAN" />
+    <edge source="UGANDA" target="ARGENTINA" />
+    <edge source="UGANDA" target="ANDORRA" />
+    <edge source="UGANDA" target="ANGUILLA" />
+    <edge source="UGANDA" target="AUSTRIA" />
+    <edge source="UGANDA" target="ALGERIA" />
+    <edge source="UGANDA" target="AMERICAN SAMOA" />
+    <edge source="UGANDA" target="ARMENIA" />
+    <edge source="UGANDA" target="AUSTRALIA" />
+    <edge source="UGANDA" target="AZERBAIJAN" />
+    <edge source="UGANDA" target="ANTIGUA AND BARBUDA" />
+    <edge source="UGANDA" target="AFGHANISTAN" />
+    <edge source="UGANDA" target="ALBANIA" />
+    <edge source="UGANDA" target="ANTARCTICA" />
+    <edge source="UGANDA" target="ANGOLA" />
+    <edge source="UGANDA" target="ARUBA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SWEDEN" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SOUTH SUDAN" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SERBIA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SLOVAKIA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SLOVENIA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SINGAPORE" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAUDI ARABIA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SEYCHELLES" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SURINAME" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SIERRA LEONE" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SPAIN" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SOUTH AFRICA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SENEGAL" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAMOA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SRI LANKA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SOMALIA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAN MARINO" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SWITZERLAND" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAINT LUCIA" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" target="SUDAN" />
+    <edge source="COMOROS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="COMOROS" target="SWEDEN" />
+    <edge source="COMOROS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="COMOROS" target="SAINT KITTS AND NEVIS" />
+    <edge source="COMOROS" target="SOUTH SUDAN" />
+    <edge source="COMOROS" target="SERBIA" />
+    <edge source="COMOROS" target="SLOVAKIA" />
+    <edge source="COMOROS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="COMOROS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="COMOROS" target="SLOVENIA" />
+    <edge source="COMOROS" target="SINGAPORE" />
+    <edge source="COMOROS" target="SAUDI ARABIA" />
+    <edge source="COMOROS" target="SEYCHELLES" />
+    <edge source="COMOROS" target="SURINAME" />
+    <edge source="COMOROS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="COMOROS" target="SOLOMON ISLANDS" />
+    <edge source="COMOROS" target="SIERRA LEONE" />
+    <edge source="COMOROS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="COMOROS" target="SPAIN" />
+    <edge source="COMOROS" target="SOUTH AFRICA" />
+    <edge source="COMOROS" target="SENEGAL" />
+    <edge source="COMOROS" target="SAMOA" />
+    <edge source="COMOROS" target="SAINT BARTHÉLEMY" />
+    <edge source="COMOROS" target="SRI LANKA" />
+    <edge source="COMOROS" target="SAO TOME AND PRINCIPE" />
+    <edge source="COMOROS" target="SOMALIA" />
+    <edge source="COMOROS" target="SAN MARINO" />
+    <edge source="COMOROS" target="SWITZERLAND" />
+    <edge source="COMOROS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="COMOROS" target="SAINT LUCIA" />
+    <edge source="COMOROS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="COMOROS" target="SUDAN" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NICARAGUA" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NIUE" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NEW ZEALAND" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NEW CALEDONIA" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NAMIBIA" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NIGER" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NETHERLANDS" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NAURU" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NIGERIA" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NEPAL" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NORFOLK ISLAND" />
+    <edge source="SVALBARD AND JAN MAYEN" target="NORWAY" />
+    <edge source="URUGUAY" target="YEMEN" />
+    <edge source="AUSTRALIA" target="ARGENTINA" />
+    <edge source="AUSTRALIA" target="ANDORRA" />
+    <edge source="AUSTRALIA" target="ANGUILLA" />
+    <edge source="AUSTRALIA" target="AUSTRIA" />
+    <edge source="AUSTRALIA" target="ALGERIA" />
+    <edge source="AUSTRALIA" target="AMERICAN SAMOA" />
+    <edge source="AUSTRALIA" target="ARMENIA" />
+    <edge source="AUSTRALIA" target="AZERBAIJAN" />
+    <edge source="AUSTRALIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="AUSTRALIA" target="AFGHANISTAN" />
+    <edge source="AUSTRALIA" target="ALBANIA" />
+    <edge source="AUSTRALIA" target="ANTARCTICA" />
+    <edge source="AUSTRALIA" target="ANGOLA" />
+    <edge source="AUSTRALIA" target="ARUBA" />
+    <edge source="MARSHALL ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="MARSHALL ISLANDS" target="SWEDEN" />
+    <edge source="MARSHALL ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="MARSHALL ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="MARSHALL ISLANDS" target="SOUTH SUDAN" />
+    <edge source="MARSHALL ISLANDS" target="SERBIA" />
+    <edge source="MARSHALL ISLANDS" target="SLOVAKIA" />
+    <edge source="MARSHALL ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="MARSHALL ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="MARSHALL ISLANDS" target="SLOVENIA" />
+    <edge source="MARSHALL ISLANDS" target="SINGAPORE" />
+    <edge source="MARSHALL ISLANDS" target="SAUDI ARABIA" />
+    <edge source="MARSHALL ISLANDS" target="SEYCHELLES" />
+    <edge source="MARSHALL ISLANDS" target="SURINAME" />
+    <edge source="MARSHALL ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="MARSHALL ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="MARSHALL ISLANDS" target="SIERRA LEONE" />
+    <edge source="MARSHALL ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="MARSHALL ISLANDS" target="SPAIN" />
+    <edge source="MARSHALL ISLANDS" target="SOUTH AFRICA" />
+    <edge source="MARSHALL ISLANDS" target="SENEGAL" />
+    <edge source="MARSHALL ISLANDS" target="SAMOA" />
+    <edge source="MARSHALL ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="MARSHALL ISLANDS" target="SRI LANKA" />
+    <edge source="MARSHALL ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="MARSHALL ISLANDS" target="SOMALIA" />
+    <edge source="MARSHALL ISLANDS" target="SAN MARINO" />
+    <edge source="MARSHALL ISLANDS" target="SWITZERLAND" />
+    <edge source="MARSHALL ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="MARSHALL ISLANDS" target="SAINT LUCIA" />
+    <edge source="MARSHALL ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="MARSHALL ISLANDS" target="SUDAN" />
+    <edge source="IRAQ" target="QATAR" />
+    <edge source="NAMIBIA" target="ARGENTINA" />
+    <edge source="NAMIBIA" target="ANDORRA" />
+    <edge source="NAMIBIA" target="ANGUILLA" />
+    <edge source="NAMIBIA" target="AUSTRIA" />
+    <edge source="NAMIBIA" target="ALGERIA" />
+    <edge source="NAMIBIA" target="AMERICAN SAMOA" />
+    <edge source="NAMIBIA" target="ARMENIA" />
+    <edge source="NAMIBIA" target="AUSTRALIA" />
+    <edge source="NAMIBIA" target="AZERBAIJAN" />
+    <edge source="NAMIBIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="NAMIBIA" target="AFGHANISTAN" />
+    <edge source="NAMIBIA" target="ALBANIA" />
+    <edge source="NAMIBIA" target="ANTARCTICA" />
+    <edge source="NAMIBIA" target="ANGOLA" />
+    <edge source="NAMIBIA" target="ARUBA" />
+    <edge source="PITCAIRN" target="NICARAGUA" />
+    <edge source="PITCAIRN" target="NIUE" />
+    <edge source="PITCAIRN" target="NEW ZEALAND" />
+    <edge source="PITCAIRN" target="NEW CALEDONIA" />
+    <edge source="PITCAIRN" target="NAMIBIA" />
+    <edge source="PITCAIRN" target="NIGER" />
+    <edge source="PITCAIRN" target="NETHERLANDS" />
+    <edge source="PITCAIRN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="PITCAIRN" target="NAURU" />
+    <edge source="PITCAIRN" target="NIGERIA" />
+    <edge source="PITCAIRN" target="NEPAL" />
+    <edge source="PITCAIRN" target="NORFOLK ISLAND" />
+    <edge source="PITCAIRN" target="NORWAY" />
+    <edge source="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" target="FRANCE" />
+    <edge source="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" target="FIJI" />
+    <edge source="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" target="FRENCH POLYNESIA" />
+    <edge source="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" target="FRENCH GUIANA" />
+    <edge source="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" target="FINLAND" />
+    <edge source="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" target="FAROE ISLANDS" />
+    <edge source="BRAZIL" target="LEBANON" />
+    <edge source="BRAZIL" target="LESOTHO" />
+    <edge source="BRAZIL" target="LITHUANIA" />
+    <edge source="BRAZIL" target="LIECHTENSTEIN" />
+    <edge source="BRAZIL" target="LAO PEOPLE'S DEMOCRATIC REPUBLIC" />
+    <edge source="BRAZIL" target="LIBERIA" />
+    <edge source="BRAZIL" target="LATVIA" />
+    <edge source="BRAZIL" target="LIBYA" />
+    <edge source="BRAZIL" target="LUXEMBOURG" />
+    <edge source="BAHAMAS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="BAHAMAS" target="SWEDEN" />
+    <edge source="BAHAMAS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="BAHAMAS" target="SAINT KITTS AND NEVIS" />
+    <edge source="BAHAMAS" target="SOUTH SUDAN" />
+    <edge source="BAHAMAS" target="SERBIA" />
+    <edge source="BAHAMAS" target="SLOVAKIA" />
+    <edge source="BAHAMAS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="BAHAMAS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="BAHAMAS" target="SLOVENIA" />
+    <edge source="BAHAMAS" target="SINGAPORE" />
+    <edge source="BAHAMAS" target="SAUDI ARABIA" />
+    <edge source="BAHAMAS" target="SEYCHELLES" />
+    <edge source="BAHAMAS" target="SURINAME" />
+    <edge source="BAHAMAS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="BAHAMAS" target="SOLOMON ISLANDS" />
+    <edge source="BAHAMAS" target="SIERRA LEONE" />
+    <edge source="BAHAMAS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="BAHAMAS" target="SPAIN" />
+    <edge source="BAHAMAS" target="SOUTH AFRICA" />
+    <edge source="BAHAMAS" target="SENEGAL" />
+    <edge source="BAHAMAS" target="SAMOA" />
+    <edge source="BAHAMAS" target="SAINT BARTHÉLEMY" />
+    <edge source="BAHAMAS" target="SRI LANKA" />
+    <edge source="BAHAMAS" target="SAO TOME AND PRINCIPE" />
+    <edge source="BAHAMAS" target="SOMALIA" />
+    <edge source="BAHAMAS" target="SAN MARINO" />
+    <edge source="BAHAMAS" target="SWITZERLAND" />
+    <edge source="BAHAMAS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="BAHAMAS" target="SAINT LUCIA" />
+    <edge source="BAHAMAS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="BAHAMAS" target="SUDAN" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ARGENTINA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ANDORRA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ANGUILLA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="AUSTRIA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ALGERIA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="AMERICAN SAMOA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ARMENIA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="AUSTRALIA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="AZERBAIJAN" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ANTIGUA AND BARBUDA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="AFGHANISTAN" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ALBANIA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ANTARCTICA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ANGOLA" />
+    <edge source="BONAIRE, SINT EUSTATIUS AND SABA" target="ARUBA" />
+    <edge source="ISLE OF MAN" target="NICARAGUA" />
+    <edge source="ISLE OF MAN" target="NIUE" />
+    <edge source="ISLE OF MAN" target="NEW ZEALAND" />
+    <edge source="ISLE OF MAN" target="NEW CALEDONIA" />
+    <edge source="ISLE OF MAN" target="NAMIBIA" />
+    <edge source="ISLE OF MAN" target="NIGER" />
+    <edge source="ISLE OF MAN" target="NETHERLANDS" />
+    <edge source="ISLE OF MAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="ISLE OF MAN" target="NAURU" />
+    <edge source="ISLE OF MAN" target="NIGERIA" />
+    <edge source="ISLE OF MAN" target="NEPAL" />
+    <edge source="ISLE OF MAN" target="NORFOLK ISLAND" />
+    <edge source="ISLE OF MAN" target="NORWAY" />
+    <edge source="THAILAND" target="DJIBOUTI" />
+    <edge source="THAILAND" target="DOMINICA" />
+    <edge source="THAILAND" target="DOMINICAN REPUBLIC" />
+    <edge source="THAILAND" target="DENMARK" />
+    <edge source="GUADELOUPE" target="ESTONIA" />
+    <edge source="GUADELOUPE" target="EL SALVADOR" />
+    <edge source="GUADELOUPE" target="ECUADOR" />
+    <edge source="GUADELOUPE" target="ETHIOPIA" />
+    <edge source="GUADELOUPE" target="ERITREA" />
+    <edge source="GUADELOUPE" target="EGYPT" />
+    <edge source="GUADELOUPE" target="ESWATINI" />
+    <edge source="GUADELOUPE" target="EQUATORIAL GUINEA" />
+    <edge source="MALAYSIA" target="ARGENTINA" />
+    <edge source="MALAYSIA" target="ANDORRA" />
+    <edge source="MALAYSIA" target="ANGUILLA" />
+    <edge source="MALAYSIA" target="AUSTRIA" />
+    <edge source="MALAYSIA" target="ALGERIA" />
+    <edge source="MALAYSIA" target="AMERICAN SAMOA" />
+    <edge source="MALAYSIA" target="ARMENIA" />
+    <edge source="MALAYSIA" target="AUSTRALIA" />
+    <edge source="MALAYSIA" target="AZERBAIJAN" />
+    <edge source="MALAYSIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="MALAYSIA" target="AFGHANISTAN" />
+    <edge source="MALAYSIA" target="ALBANIA" />
+    <edge source="MALAYSIA" target="ANTARCTICA" />
+    <edge source="MALAYSIA" target="ANGOLA" />
+    <edge source="MALAYSIA" target="ARUBA" />
+    <edge source="MAURITANIA" target="ARGENTINA" />
+    <edge source="MAURITANIA" target="ANDORRA" />
+    <edge source="MAURITANIA" target="ANGUILLA" />
+    <edge source="MAURITANIA" target="AUSTRIA" />
+    <edge source="MAURITANIA" target="ALGERIA" />
+    <edge source="MAURITANIA" target="AMERICAN SAMOA" />
+    <edge source="MAURITANIA" target="ARMENIA" />
+    <edge source="MAURITANIA" target="AUSTRALIA" />
+    <edge source="MAURITANIA" target="AZERBAIJAN" />
+    <edge source="MAURITANIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="MAURITANIA" target="AFGHANISTAN" />
+    <edge source="MAURITANIA" target="ALBANIA" />
+    <edge source="MAURITANIA" target="ANTARCTICA" />
+    <edge source="MAURITANIA" target="ANGOLA" />
+    <edge source="MAURITANIA" target="ARUBA" />
+    <edge source="PHILIPPINES" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="PHILIPPINES" target="SWEDEN" />
+    <edge source="PHILIPPINES" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="PHILIPPINES" target="SAINT KITTS AND NEVIS" />
+    <edge source="PHILIPPINES" target="SOUTH SUDAN" />
+    <edge source="PHILIPPINES" target="SERBIA" />
+    <edge source="PHILIPPINES" target="SLOVAKIA" />
+    <edge source="PHILIPPINES" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="PHILIPPINES" target="SVALBARD AND JAN MAYEN" />
+    <edge source="PHILIPPINES" target="SLOVENIA" />
+    <edge source="PHILIPPINES" target="SINGAPORE" />
+    <edge source="PHILIPPINES" target="SAUDI ARABIA" />
+    <edge source="PHILIPPINES" target="SEYCHELLES" />
+    <edge source="PHILIPPINES" target="SURINAME" />
+    <edge source="PHILIPPINES" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="PHILIPPINES" target="SOLOMON ISLANDS" />
+    <edge source="PHILIPPINES" target="SIERRA LEONE" />
+    <edge source="PHILIPPINES" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="PHILIPPINES" target="SPAIN" />
+    <edge source="PHILIPPINES" target="SOUTH AFRICA" />
+    <edge source="PHILIPPINES" target="SENEGAL" />
+    <edge source="PHILIPPINES" target="SAMOA" />
+    <edge source="PHILIPPINES" target="SAINT BARTHÉLEMY" />
+    <edge source="PHILIPPINES" target="SRI LANKA" />
+    <edge source="PHILIPPINES" target="SAO TOME AND PRINCIPE" />
+    <edge source="PHILIPPINES" target="SOMALIA" />
+    <edge source="PHILIPPINES" target="SAN MARINO" />
+    <edge source="PHILIPPINES" target="SWITZERLAND" />
+    <edge source="PHILIPPINES" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="PHILIPPINES" target="SAINT LUCIA" />
+    <edge source="PHILIPPINES" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="PHILIPPINES" target="SUDAN" />
+    <edge source="ZAMBIA" target="ARGENTINA" />
+    <edge source="ZAMBIA" target="ANDORRA" />
+    <edge source="ZAMBIA" target="ANGUILLA" />
+    <edge source="ZAMBIA" target="AUSTRIA" />
+    <edge source="ZAMBIA" target="ALGERIA" />
+    <edge source="ZAMBIA" target="AMERICAN SAMOA" />
+    <edge source="ZAMBIA" target="ARMENIA" />
+    <edge source="ZAMBIA" target="AUSTRALIA" />
+    <edge source="ZAMBIA" target="AZERBAIJAN" />
+    <edge source="ZAMBIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ZAMBIA" target="AFGHANISTAN" />
+    <edge source="ZAMBIA" target="ALBANIA" />
+    <edge source="ZAMBIA" target="ANTARCTICA" />
+    <edge source="ZAMBIA" target="ANGOLA" />
+    <edge source="ZAMBIA" target="ARUBA" />
+    <edge source="BOLIVIA, PLURINATIONAL STATE OF" target="FRANCE" />
+    <edge source="BOLIVIA, PLURINATIONAL STATE OF" target="FIJI" />
+    <edge source="BOLIVIA, PLURINATIONAL STATE OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="BOLIVIA, PLURINATIONAL STATE OF" target="FRENCH POLYNESIA" />
+    <edge source="BOLIVIA, PLURINATIONAL STATE OF" target="FRENCH GUIANA" />
+    <edge source="BOLIVIA, PLURINATIONAL STATE OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="BOLIVIA, PLURINATIONAL STATE OF" target="FINLAND" />
+    <edge source="BOLIVIA, PLURINATIONAL STATE OF" target="FAROE ISLANDS" />
+    <edge source="LITHUANIA" target="ARGENTINA" />
+    <edge source="LITHUANIA" target="ANDORRA" />
+    <edge source="LITHUANIA" target="ANGUILLA" />
+    <edge source="LITHUANIA" target="AUSTRIA" />
+    <edge source="LITHUANIA" target="ALGERIA" />
+    <edge source="LITHUANIA" target="AMERICAN SAMOA" />
+    <edge source="LITHUANIA" target="ARMENIA" />
+    <edge source="LITHUANIA" target="AUSTRALIA" />
+    <edge source="LITHUANIA" target="AZERBAIJAN" />
+    <edge source="LITHUANIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="LITHUANIA" target="AFGHANISTAN" />
+    <edge source="LITHUANIA" target="ALBANIA" />
+    <edge source="LITHUANIA" target="ANTARCTICA" />
+    <edge source="LITHUANIA" target="ANGOLA" />
+    <edge source="LITHUANIA" target="ARUBA" />
+    <edge source="BARBADOS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="BARBADOS" target="SWEDEN" />
+    <edge source="BARBADOS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="BARBADOS" target="SAINT KITTS AND NEVIS" />
+    <edge source="BARBADOS" target="SOUTH SUDAN" />
+    <edge source="BARBADOS" target="SERBIA" />
+    <edge source="BARBADOS" target="SLOVAKIA" />
+    <edge source="BARBADOS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="BARBADOS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="BARBADOS" target="SLOVENIA" />
+    <edge source="BARBADOS" target="SINGAPORE" />
+    <edge source="BARBADOS" target="SAUDI ARABIA" />
+    <edge source="BARBADOS" target="SEYCHELLES" />
+    <edge source="BARBADOS" target="SURINAME" />
+    <edge source="BARBADOS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="BARBADOS" target="SOLOMON ISLANDS" />
+    <edge source="BARBADOS" target="SIERRA LEONE" />
+    <edge source="BARBADOS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="BARBADOS" target="SPAIN" />
+    <edge source="BARBADOS" target="SOUTH AFRICA" />
+    <edge source="BARBADOS" target="SENEGAL" />
+    <edge source="BARBADOS" target="SAMOA" />
+    <edge source="BARBADOS" target="SAINT BARTHÉLEMY" />
+    <edge source="BARBADOS" target="SRI LANKA" />
+    <edge source="BARBADOS" target="SAO TOME AND PRINCIPE" />
+    <edge source="BARBADOS" target="SOMALIA" />
+    <edge source="BARBADOS" target="SAN MARINO" />
+    <edge source="BARBADOS" target="SWITZERLAND" />
+    <edge source="BARBADOS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="BARBADOS" target="SAINT LUCIA" />
+    <edge source="BARBADOS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="BARBADOS" target="SUDAN" />
+    <edge source="CÔTE D'IVOIRE" target="ESTONIA" />
+    <edge source="CÔTE D'IVOIRE" target="EL SALVADOR" />
+    <edge source="CÔTE D'IVOIRE" target="ECUADOR" />
+    <edge source="CÔTE D'IVOIRE" target="ETHIOPIA" />
+    <edge source="CÔTE D'IVOIRE" target="ERITREA" />
+    <edge source="CÔTE D'IVOIRE" target="EGYPT" />
+    <edge source="CÔTE D'IVOIRE" target="ESWATINI" />
+    <edge source="CÔTE D'IVOIRE" target="EQUATORIAL GUINEA" />
+    <edge source="RUSSIAN FEDERATION" target="NICARAGUA" />
+    <edge source="RUSSIAN FEDERATION" target="NIUE" />
+    <edge source="RUSSIAN FEDERATION" target="NEW ZEALAND" />
+    <edge source="RUSSIAN FEDERATION" target="NEW CALEDONIA" />
+    <edge source="RUSSIAN FEDERATION" target="NAMIBIA" />
+    <edge source="RUSSIAN FEDERATION" target="NIGER" />
+    <edge source="RUSSIAN FEDERATION" target="NETHERLANDS" />
+    <edge source="RUSSIAN FEDERATION" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="RUSSIAN FEDERATION" target="NAURU" />
+    <edge source="RUSSIAN FEDERATION" target="NIGERIA" />
+    <edge source="RUSSIAN FEDERATION" target="NEPAL" />
+    <edge source="RUSSIAN FEDERATION" target="NORFOLK ISLAND" />
+    <edge source="RUSSIAN FEDERATION" target="NORWAY" />
+    <edge source="IRAN, ISLAMIC REPUBLIC OF" target="FRANCE" />
+    <edge source="IRAN, ISLAMIC REPUBLIC OF" target="FIJI" />
+    <edge source="IRAN, ISLAMIC REPUBLIC OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="IRAN, ISLAMIC REPUBLIC OF" target="FRENCH POLYNESIA" />
+    <edge source="IRAN, ISLAMIC REPUBLIC OF" target="FRENCH GUIANA" />
+    <edge source="IRAN, ISLAMIC REPUBLIC OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="IRAN, ISLAMIC REPUBLIC OF" target="FINLAND" />
+    <edge source="IRAN, ISLAMIC REPUBLIC OF" target="FAROE ISLANDS" />
+    <edge source="GUATEMALA" target="ARGENTINA" />
+    <edge source="GUATEMALA" target="ANDORRA" />
+    <edge source="GUATEMALA" target="ANGUILLA" />
+    <edge source="GUATEMALA" target="AUSTRIA" />
+    <edge source="GUATEMALA" target="ALGERIA" />
+    <edge source="GUATEMALA" target="AMERICAN SAMOA" />
+    <edge source="GUATEMALA" target="ARMENIA" />
+    <edge source="GUATEMALA" target="AUSTRALIA" />
+    <edge source="GUATEMALA" target="AZERBAIJAN" />
+    <edge source="GUATEMALA" target="ANTIGUA AND BARBUDA" />
+    <edge source="GUATEMALA" target="AFGHANISTAN" />
+    <edge source="GUATEMALA" target="ALBANIA" />
+    <edge source="GUATEMALA" target="ANTARCTICA" />
+    <edge source="GUATEMALA" target="ANGOLA" />
+    <edge source="GUATEMALA" target="ARUBA" />
+    <edge source="DOMINICA" target="ARGENTINA" />
+    <edge source="DOMINICA" target="ANDORRA" />
+    <edge source="DOMINICA" target="ANGUILLA" />
+    <edge source="DOMINICA" target="AUSTRIA" />
+    <edge source="DOMINICA" target="ALGERIA" />
+    <edge source="DOMINICA" target="AMERICAN SAMOA" />
+    <edge source="DOMINICA" target="ARMENIA" />
+    <edge source="DOMINICA" target="AUSTRALIA" />
+    <edge source="DOMINICA" target="AZERBAIJAN" />
+    <edge source="DOMINICA" target="ANTIGUA AND BARBUDA" />
+    <edge source="DOMINICA" target="AFGHANISTAN" />
+    <edge source="DOMINICA" target="ALBANIA" />
+    <edge source="DOMINICA" target="ANTARCTICA" />
+    <edge source="DOMINICA" target="ANGOLA" />
+    <edge source="DOMINICA" target="ARUBA" />
+    <edge source="PARAGUAY" target="YEMEN" />
+    <edge source="SLOVENIA" target="ARGENTINA" />
+    <edge source="SLOVENIA" target="ANDORRA" />
+    <edge source="SLOVENIA" target="ANGUILLA" />
+    <edge source="SLOVENIA" target="AUSTRIA" />
+    <edge source="SLOVENIA" target="ALGERIA" />
+    <edge source="SLOVENIA" target="AMERICAN SAMOA" />
+    <edge source="SLOVENIA" target="ARMENIA" />
+    <edge source="SLOVENIA" target="AUSTRALIA" />
+    <edge source="SLOVENIA" target="AZERBAIJAN" />
+    <edge source="SLOVENIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SLOVENIA" target="AFGHANISTAN" />
+    <edge source="SLOVENIA" target="ALBANIA" />
+    <edge source="SLOVENIA" target="ANTARCTICA" />
+    <edge source="SLOVENIA" target="ANGOLA" />
+    <edge source="SLOVENIA" target="ARUBA" />
+    <edge source="MARTINIQUE" target="ESTONIA" />
+    <edge source="MARTINIQUE" target="EL SALVADOR" />
+    <edge source="MARTINIQUE" target="ECUADOR" />
+    <edge source="MARTINIQUE" target="ETHIOPIA" />
+    <edge source="MARTINIQUE" target="ERITREA" />
+    <edge source="MARTINIQUE" target="EGYPT" />
+    <edge source="MARTINIQUE" target="ESWATINI" />
+    <edge source="MARTINIQUE" target="EQUATORIAL GUINEA" />
+    <edge source="UNITED ARAB EMIRATES" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="UNITED ARAB EMIRATES" target="SWEDEN" />
+    <edge source="UNITED ARAB EMIRATES" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="UNITED ARAB EMIRATES" target="SAINT KITTS AND NEVIS" />
+    <edge source="UNITED ARAB EMIRATES" target="SOUTH SUDAN" />
+    <edge source="UNITED ARAB EMIRATES" target="SERBIA" />
+    <edge source="UNITED ARAB EMIRATES" target="SLOVAKIA" />
+    <edge source="UNITED ARAB EMIRATES" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="UNITED ARAB EMIRATES" target="SVALBARD AND JAN MAYEN" />
+    <edge source="UNITED ARAB EMIRATES" target="SLOVENIA" />
+    <edge source="UNITED ARAB EMIRATES" target="SINGAPORE" />
+    <edge source="UNITED ARAB EMIRATES" target="SAUDI ARABIA" />
+    <edge source="UNITED ARAB EMIRATES" target="SEYCHELLES" />
+    <edge source="UNITED ARAB EMIRATES" target="SURINAME" />
+    <edge source="UNITED ARAB EMIRATES" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="UNITED ARAB EMIRATES" target="SOLOMON ISLANDS" />
+    <edge source="UNITED ARAB EMIRATES" target="SIERRA LEONE" />
+    <edge source="UNITED ARAB EMIRATES" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="UNITED ARAB EMIRATES" target="SPAIN" />
+    <edge source="UNITED ARAB EMIRATES" target="SOUTH AFRICA" />
+    <edge source="UNITED ARAB EMIRATES" target="SENEGAL" />
+    <edge source="UNITED ARAB EMIRATES" target="SAMOA" />
+    <edge source="UNITED ARAB EMIRATES" target="SAINT BARTHÉLEMY" />
+    <edge source="UNITED ARAB EMIRATES" target="SRI LANKA" />
+    <edge source="UNITED ARAB EMIRATES" target="SAO TOME AND PRINCIPE" />
+    <edge source="UNITED ARAB EMIRATES" target="SOMALIA" />
+    <edge source="UNITED ARAB EMIRATES" target="SAN MARINO" />
+    <edge source="UNITED ARAB EMIRATES" target="SWITZERLAND" />
+    <edge source="UNITED ARAB EMIRATES" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="UNITED ARAB EMIRATES" target="SAINT LUCIA" />
+    <edge source="UNITED ARAB EMIRATES" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="UNITED ARAB EMIRATES" target="SUDAN" />
+    <edge source="NIGER" target="RÉUNION" />
+    <edge source="NIGER" target="ROMANIA" />
+    <edge source="NIGER" target="RUSSIAN FEDERATION" />
+    <edge source="NIGER" target="RWANDA" />
+    <edge source="HUNGARY" target="YEMEN" />
+    <edge source="PALESTINE, STATE OF" target="FRANCE" />
+    <edge source="PALESTINE, STATE OF" target="FIJI" />
+    <edge source="PALESTINE, STATE OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="PALESTINE, STATE OF" target="FRENCH POLYNESIA" />
+    <edge source="PALESTINE, STATE OF" target="FRENCH GUIANA" />
+    <edge source="PALESTINE, STATE OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="PALESTINE, STATE OF" target="FINLAND" />
+    <edge source="PALESTINE, STATE OF" target="FAROE ISLANDS" />
+    <edge source="CAPE VERDE" target="ESTONIA" />
+    <edge source="CAPE VERDE" target="EL SALVADOR" />
+    <edge source="CAPE VERDE" target="ECUADOR" />
+    <edge source="CAPE VERDE" target="ETHIOPIA" />
+    <edge source="CAPE VERDE" target="ERITREA" />
+    <edge source="CAPE VERDE" target="EGYPT" />
+    <edge source="CAPE VERDE" target="ESWATINI" />
+    <edge source="CAPE VERDE" target="EQUATORIAL GUINEA" />
+    <edge source="BERMUDA" target="ARGENTINA" />
+    <edge source="BERMUDA" target="ANDORRA" />
+    <edge source="BERMUDA" target="ANGUILLA" />
+    <edge source="BERMUDA" target="AUSTRIA" />
+    <edge source="BERMUDA" target="ALGERIA" />
+    <edge source="BERMUDA" target="AMERICAN SAMOA" />
+    <edge source="BERMUDA" target="ARMENIA" />
+    <edge source="BERMUDA" target="AUSTRALIA" />
+    <edge source="BERMUDA" target="AZERBAIJAN" />
+    <edge source="BERMUDA" target="ANTIGUA AND BARBUDA" />
+    <edge source="BERMUDA" target="AFGHANISTAN" />
+    <edge source="BERMUDA" target="ALBANIA" />
+    <edge source="BERMUDA" target="ANTARCTICA" />
+    <edge source="BERMUDA" target="ANGOLA" />
+    <edge source="BERMUDA" target="ARUBA" />
+    <edge source="ISRAEL" target="LEBANON" />
+    <edge source="ISRAEL" target="LESOTHO" />
+    <edge source="ISRAEL" target="LITHUANIA" />
+    <edge source="ISRAEL" target="LIECHTENSTEIN" />
+    <edge source="ISRAEL" target="LAO PEOPLE'S DEMOCRATIC REPUBLIC" />
+    <edge source="ISRAEL" target="LIBERIA" />
+    <edge source="ISRAEL" target="LATVIA" />
+    <edge source="ISRAEL" target="LIBYA" />
+    <edge source="ISRAEL" target="LUXEMBOURG" />
+    <edge source="MALAWI" target="IRAQ" />
+    <edge source="MALAWI" target="ISLE OF MAN" />
+    <edge source="MALAWI" target="IRAN, ISLAMIC REPUBLIC OF" />
+    <edge source="MALAWI" target="ISRAEL" />
+    <edge source="MALAWI" target="INDIA" />
+    <edge source="MALAWI" target="IRELAND" />
+    <edge source="MALAWI" target="ITALY" />
+    <edge source="MALAWI" target="INDONESIA" />
+    <edge source="MALAWI" target="ICELAND" />
+    <edge source="NETHERLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="NETHERLANDS" target="SWEDEN" />
+    <edge source="NETHERLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="NETHERLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="NETHERLANDS" target="SOUTH SUDAN" />
+    <edge source="NETHERLANDS" target="SERBIA" />
+    <edge source="NETHERLANDS" target="SLOVAKIA" />
+    <edge source="NETHERLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="NETHERLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="NETHERLANDS" target="SLOVENIA" />
+    <edge source="NETHERLANDS" target="SINGAPORE" />
+    <edge source="NETHERLANDS" target="SAUDI ARABIA" />
+    <edge source="NETHERLANDS" target="SEYCHELLES" />
+    <edge source="NETHERLANDS" target="SURINAME" />
+    <edge source="NETHERLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="NETHERLANDS" target="SOLOMON ISLANDS" />
+    <edge source="NETHERLANDS" target="SIERRA LEONE" />
+    <edge source="NETHERLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="NETHERLANDS" target="SPAIN" />
+    <edge source="NETHERLANDS" target="SOUTH AFRICA" />
+    <edge source="NETHERLANDS" target="SENEGAL" />
+    <edge source="NETHERLANDS" target="SAMOA" />
+    <edge source="NETHERLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="NETHERLANDS" target="SRI LANKA" />
+    <edge source="NETHERLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="NETHERLANDS" target="SOMALIA" />
+    <edge source="NETHERLANDS" target="SAN MARINO" />
+    <edge source="NETHERLANDS" target="SWITZERLAND" />
+    <edge source="NETHERLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="NETHERLANDS" target="SAINT LUCIA" />
+    <edge source="NETHERLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="NETHERLANDS" target="SUDAN" />
+    <edge source="CONGO" target="OMAN" />
+    <edge source="BULGARIA" target="ARGENTINA" />
+    <edge source="BULGARIA" target="ANDORRA" />
+    <edge source="BULGARIA" target="ANGUILLA" />
+    <edge source="BULGARIA" target="AUSTRIA" />
+    <edge source="BULGARIA" target="ALGERIA" />
+    <edge source="BULGARIA" target="AMERICAN SAMOA" />
+    <edge source="BULGARIA" target="ARMENIA" />
+    <edge source="BULGARIA" target="AUSTRALIA" />
+    <edge source="BULGARIA" target="AZERBAIJAN" />
+    <edge source="BULGARIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="BULGARIA" target="AFGHANISTAN" />
+    <edge source="BULGARIA" target="ALBANIA" />
+    <edge source="BULGARIA" target="ANTARCTICA" />
+    <edge source="BULGARIA" target="ANGOLA" />
+    <edge source="BULGARIA" target="ARUBA" />
+    <edge source="GUINEA" target="ARGENTINA" />
+    <edge source="GUINEA" target="ANDORRA" />
+    <edge source="GUINEA" target="ANGUILLA" />
+    <edge source="GUINEA" target="AUSTRIA" />
+    <edge source="GUINEA" target="ALGERIA" />
+    <edge source="GUINEA" target="AMERICAN SAMOA" />
+    <edge source="GUINEA" target="ARMENIA" />
+    <edge source="GUINEA" target="AUSTRALIA" />
+    <edge source="GUINEA" target="AZERBAIJAN" />
+    <edge source="GUINEA" target="ANTIGUA AND BARBUDA" />
+    <edge source="GUINEA" target="AFGHANISTAN" />
+    <edge source="GUINEA" target="ALBANIA" />
+    <edge source="GUINEA" target="ANTARCTICA" />
+    <edge source="GUINEA" target="ANGOLA" />
+    <edge source="GUINEA" target="ARUBA" />
+    <edge source="MYANMAR" target="RÉUNION" />
+    <edge source="MYANMAR" target="ROMANIA" />
+    <edge source="MYANMAR" target="RUSSIAN FEDERATION" />
+    <edge source="MYANMAR" target="RWANDA" />
+    <edge source="TAJIKISTAN" target="NICARAGUA" />
+    <edge source="TAJIKISTAN" target="NIUE" />
+    <edge source="TAJIKISTAN" target="NEW ZEALAND" />
+    <edge source="TAJIKISTAN" target="NEW CALEDONIA" />
+    <edge source="TAJIKISTAN" target="NAMIBIA" />
+    <edge source="TAJIKISTAN" target="NIGER" />
+    <edge source="TAJIKISTAN" target="NETHERLANDS" />
+    <edge source="TAJIKISTAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="TAJIKISTAN" target="NAURU" />
+    <edge source="TAJIKISTAN" target="NIGERIA" />
+    <edge source="TAJIKISTAN" target="NEPAL" />
+    <edge source="TAJIKISTAN" target="NORFOLK ISLAND" />
+    <edge source="TAJIKISTAN" target="NORWAY" />
+    <edge source="SINGAPORE" target="ESTONIA" />
+    <edge source="SINGAPORE" target="EL SALVADOR" />
+    <edge source="SINGAPORE" target="ECUADOR" />
+    <edge source="SINGAPORE" target="ETHIOPIA" />
+    <edge source="SINGAPORE" target="ERITREA" />
+    <edge source="SINGAPORE" target="EGYPT" />
+    <edge source="SINGAPORE" target="ESWATINI" />
+    <edge source="SINGAPORE" target="EQUATORIAL GUINEA" />
+    <edge source="ERITREA" target="ARGENTINA" />
+    <edge source="ERITREA" target="ANDORRA" />
+    <edge source="ERITREA" target="ANGUILLA" />
+    <edge source="ERITREA" target="AUSTRIA" />
+    <edge source="ERITREA" target="ALGERIA" />
+    <edge source="ERITREA" target="AMERICAN SAMOA" />
+    <edge source="ERITREA" target="ARMENIA" />
+    <edge source="ERITREA" target="AUSTRALIA" />
+    <edge source="ERITREA" target="AZERBAIJAN" />
+    <edge source="ERITREA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ERITREA" target="AFGHANISTAN" />
+    <edge source="ERITREA" target="ALBANIA" />
+    <edge source="ERITREA" target="ANTARCTICA" />
+    <edge source="ERITREA" target="ANGOLA" />
+    <edge source="ERITREA" target="ARUBA" />
+    <edge source="BELIZE" target="ESTONIA" />
+    <edge source="BELIZE" target="EL SALVADOR" />
+    <edge source="BELIZE" target="ECUADOR" />
+    <edge source="BELIZE" target="ETHIOPIA" />
+    <edge source="BELIZE" target="ERITREA" />
+    <edge source="BELIZE" target="EGYPT" />
+    <edge source="BELIZE" target="ESWATINI" />
+    <edge source="BELIZE" target="EQUATORIAL GUINEA" />
+    <edge source="TRINIDAD AND TOBAGO" target="OMAN" />
+    <edge source="AZERBAIJAN" target="NICARAGUA" />
+    <edge source="AZERBAIJAN" target="NIUE" />
+    <edge source="AZERBAIJAN" target="NEW ZEALAND" />
+    <edge source="AZERBAIJAN" target="NEW CALEDONIA" />
+    <edge source="AZERBAIJAN" target="NAMIBIA" />
+    <edge source="AZERBAIJAN" target="NIGER" />
+    <edge source="AZERBAIJAN" target="NETHERLANDS" />
+    <edge source="AZERBAIJAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="AZERBAIJAN" target="NAURU" />
+    <edge source="AZERBAIJAN" target="NIGERIA" />
+    <edge source="AZERBAIJAN" target="NEPAL" />
+    <edge source="AZERBAIJAN" target="NORFOLK ISLAND" />
+    <edge source="AZERBAIJAN" target="NORWAY" />
+    <edge source="VANUATU" target="UKRAINE" />
+    <edge source="VANUATU" target="UNITED KINGDOM" />
+    <edge source="VANUATU" target="UGANDA" />
+    <edge source="VANUATU" target="URUGUAY" />
+    <edge source="VANUATU" target="UNITED ARAB EMIRATES" />
+    <edge source="VANUATU" target="UNITED STATES" />
+    <edge source="VANUATU" target="UNITED STATES MINOR OUTLYING ISLANDS" />
+    <edge source="VANUATU" target="UZBEKISTAN" />
+    <edge source="COOK ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="COOK ISLANDS" target="SWEDEN" />
+    <edge source="COOK ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="COOK ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="COOK ISLANDS" target="SOUTH SUDAN" />
+    <edge source="COOK ISLANDS" target="SERBIA" />
+    <edge source="COOK ISLANDS" target="SLOVAKIA" />
+    <edge source="COOK ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="COOK ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="COOK ISLANDS" target="SLOVENIA" />
+    <edge source="COOK ISLANDS" target="SINGAPORE" />
+    <edge source="COOK ISLANDS" target="SAUDI ARABIA" />
+    <edge source="COOK ISLANDS" target="SEYCHELLES" />
+    <edge source="COOK ISLANDS" target="SURINAME" />
+    <edge source="COOK ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="COOK ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="COOK ISLANDS" target="SIERRA LEONE" />
+    <edge source="COOK ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="COOK ISLANDS" target="SPAIN" />
+    <edge source="COOK ISLANDS" target="SOUTH AFRICA" />
+    <edge source="COOK ISLANDS" target="SENEGAL" />
+    <edge source="COOK ISLANDS" target="SAMOA" />
+    <edge source="COOK ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="COOK ISLANDS" target="SRI LANKA" />
+    <edge source="COOK ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="COOK ISLANDS" target="SOMALIA" />
+    <edge source="COOK ISLANDS" target="SAN MARINO" />
+    <edge source="COOK ISLANDS" target="SWITZERLAND" />
+    <edge source="COOK ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="COOK ISLANDS" target="SAINT LUCIA" />
+    <edge source="COOK ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="COOK ISLANDS" target="SUDAN" />
+    <edge source="MADAGASCAR" target="RÉUNION" />
+    <edge source="MADAGASCAR" target="ROMANIA" />
+    <edge source="MADAGASCAR" target="RUSSIAN FEDERATION" />
+    <edge source="MADAGASCAR" target="RWANDA" />
+    <edge source="CHILE" target="ESTONIA" />
+    <edge source="CHILE" target="EL SALVADOR" />
+    <edge source="CHILE" target="ECUADOR" />
+    <edge source="CHILE" target="ETHIOPIA" />
+    <edge source="CHILE" target="ERITREA" />
+    <edge source="CHILE" target="EGYPT" />
+    <edge source="CHILE" target="ESWATINI" />
+    <edge source="CHILE" target="EQUATORIAL GUINEA" />
+    <edge source="CANADA" target="ARGENTINA" />
+    <edge source="CANADA" target="ANDORRA" />
+    <edge source="CANADA" target="ANGUILLA" />
+    <edge source="CANADA" target="AUSTRIA" />
+    <edge source="CANADA" target="ALGERIA" />
+    <edge source="CANADA" target="AMERICAN SAMOA" />
+    <edge source="CANADA" target="ARMENIA" />
+    <edge source="CANADA" target="AUSTRALIA" />
+    <edge source="CANADA" target="AZERBAIJAN" />
+    <edge source="CANADA" target="ANTIGUA AND BARBUDA" />
+    <edge source="CANADA" target="AFGHANISTAN" />
+    <edge source="CANADA" target="ALBANIA" />
+    <edge source="CANADA" target="ANTARCTICA" />
+    <edge source="CANADA" target="ANGOLA" />
+    <edge source="CANADA" target="ARUBA" />
+    <edge source="INDIA" target="ARGENTINA" />
+    <edge source="INDIA" target="ANDORRA" />
+    <edge source="INDIA" target="ANGUILLA" />
+    <edge source="INDIA" target="AUSTRIA" />
+    <edge source="INDIA" target="ALGERIA" />
+    <edge source="INDIA" target="AMERICAN SAMOA" />
+    <edge source="INDIA" target="ARMENIA" />
+    <edge source="INDIA" target="AUSTRALIA" />
+    <edge source="INDIA" target="AZERBAIJAN" />
+    <edge source="INDIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="INDIA" target="AFGHANISTAN" />
+    <edge source="INDIA" target="ALBANIA" />
+    <edge source="INDIA" target="ANTARCTICA" />
+    <edge source="INDIA" target="ANGOLA" />
+    <edge source="INDIA" target="ARUBA" />
+    <edge source="EGYPT" target="TUNISIA" />
+    <edge source="EGYPT" target="TURKMENISTAN" />
+    <edge source="EGYPT" target="TUVALU" />
+    <edge source="EGYPT" target="TONGA" />
+    <edge source="EGYPT" target="THAILAND" />
+    <edge source="EGYPT" target="TAJIKISTAN" />
+    <edge source="EGYPT" target="TRINIDAD AND TOBAGO" />
+    <edge source="EGYPT" target="TURKS AND CAICOS ISLANDS" />
+    <edge source="EGYPT" target="TAIWAN, PROVINCE OF CHINA" />
+    <edge source="EGYPT" target="TOKELAU" />
+    <edge source="EGYPT" target="TOGO" />
+    <edge source="EGYPT" target="TANZANIA, UNITED REPUBLIC OF" />
+    <edge source="EGYPT" target="TURKEY" />
+    <edge source="EGYPT" target="TIMOR-LESTE" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SWEDEN" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SOUTH SUDAN" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SERBIA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SLOVAKIA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SLOVENIA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SINGAPORE" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAUDI ARABIA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SEYCHELLES" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SURINAME" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SIERRA LEONE" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SPAIN" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SOUTH AFRICA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SENEGAL" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAMOA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SRI LANKA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SOMALIA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAN MARINO" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SWITZERLAND" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAINT LUCIA" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="NORTHERN MARIANA ISLANDS" target="SUDAN" />
+    <edge source="ANTIGUA AND BARBUDA" target="ARGENTINA" />
+    <edge source="ANTIGUA AND BARBUDA" target="ANDORRA" />
+    <edge source="ANTIGUA AND BARBUDA" target="ANGUILLA" />
+    <edge source="ANTIGUA AND BARBUDA" target="AUSTRIA" />
+    <edge source="ANTIGUA AND BARBUDA" target="ALGERIA" />
+    <edge source="ANTIGUA AND BARBUDA" target="AMERICAN SAMOA" />
+    <edge source="ANTIGUA AND BARBUDA" target="ARMENIA" />
+    <edge source="ANTIGUA AND BARBUDA" target="AUSTRALIA" />
+    <edge source="ANTIGUA AND BARBUDA" target="AZERBAIJAN" />
+    <edge source="ANTIGUA AND BARBUDA" target="AFGHANISTAN" />
+    <edge source="ANTIGUA AND BARBUDA" target="ALBANIA" />
+    <edge source="ANTIGUA AND BARBUDA" target="ANTARCTICA" />
+    <edge source="ANTIGUA AND BARBUDA" target="ANGOLA" />
+    <edge source="ANTIGUA AND BARBUDA" target="ARUBA" />
+    <edge source="BENIN" target="NICARAGUA" />
+    <edge source="BENIN" target="NIUE" />
+    <edge source="BENIN" target="NEW ZEALAND" />
+    <edge source="BENIN" target="NEW CALEDONIA" />
+    <edge source="BENIN" target="NAMIBIA" />
+    <edge source="BENIN" target="NIGER" />
+    <edge source="BENIN" target="NETHERLANDS" />
+    <edge source="BENIN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="BENIN" target="NAURU" />
+    <edge source="BENIN" target="NIGERIA" />
+    <edge source="BENIN" target="NEPAL" />
+    <edge source="BENIN" target="NORFOLK ISLAND" />
+    <edge source="BENIN" target="NORWAY" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SWEDEN" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SOUTH SUDAN" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SERBIA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SLOVAKIA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SLOVENIA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SINGAPORE" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAUDI ARABIA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SEYCHELLES" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SURINAME" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SIERRA LEONE" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SPAIN" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SOUTH AFRICA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SENEGAL" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAMOA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SRI LANKA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SOMALIA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAN MARINO" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SWITZERLAND" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAINT LUCIA" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="TURKS AND CAICOS ISLANDS" target="SUDAN" />
+    <edge source="AFGHANISTAN" target="NICARAGUA" />
+    <edge source="AFGHANISTAN" target="NIUE" />
+    <edge source="AFGHANISTAN" target="NEW ZEALAND" />
+    <edge source="AFGHANISTAN" target="NEW CALEDONIA" />
+    <edge source="AFGHANISTAN" target="NAMIBIA" />
+    <edge source="AFGHANISTAN" target="NIGER" />
+    <edge source="AFGHANISTAN" target="NETHERLANDS" />
+    <edge source="AFGHANISTAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="AFGHANISTAN" target="NAURU" />
+    <edge source="AFGHANISTAN" target="NIGERIA" />
+    <edge source="AFGHANISTAN" target="NEPAL" />
+    <edge source="AFGHANISTAN" target="NORFOLK ISLAND" />
+    <edge source="AFGHANISTAN" target="NORWAY" />
+    <edge source="GHANA" target="ARGENTINA" />
+    <edge source="GHANA" target="ANDORRA" />
+    <edge source="GHANA" target="ANGUILLA" />
+    <edge source="GHANA" target="AUSTRIA" />
+    <edge source="GHANA" target="ALGERIA" />
+    <edge source="GHANA" target="AMERICAN SAMOA" />
+    <edge source="GHANA" target="ARMENIA" />
+    <edge source="GHANA" target="AUSTRALIA" />
+    <edge source="GHANA" target="AZERBAIJAN" />
+    <edge source="GHANA" target="ANTIGUA AND BARBUDA" />
+    <edge source="GHANA" target="AFGHANISTAN" />
+    <edge source="GHANA" target="ALBANIA" />
+    <edge source="GHANA" target="ANTARCTICA" />
+    <edge source="GHANA" target="ANGOLA" />
+    <edge source="GHANA" target="ARUBA" />
+    <edge source="FRENCH POLYNESIA" target="ARGENTINA" />
+    <edge source="FRENCH POLYNESIA" target="ANDORRA" />
+    <edge source="FRENCH POLYNESIA" target="ANGUILLA" />
+    <edge source="FRENCH POLYNESIA" target="AUSTRIA" />
+    <edge source="FRENCH POLYNESIA" target="ALGERIA" />
+    <edge source="FRENCH POLYNESIA" target="AMERICAN SAMOA" />
+    <edge source="FRENCH POLYNESIA" target="ARMENIA" />
+    <edge source="FRENCH POLYNESIA" target="AUSTRALIA" />
+    <edge source="FRENCH POLYNESIA" target="AZERBAIJAN" />
+    <edge source="FRENCH POLYNESIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="FRENCH POLYNESIA" target="AFGHANISTAN" />
+    <edge source="FRENCH POLYNESIA" target="ALBANIA" />
+    <edge source="FRENCH POLYNESIA" target="ANTARCTICA" />
+    <edge source="FRENCH POLYNESIA" target="ANGOLA" />
+    <edge source="FRENCH POLYNESIA" target="ARUBA" />
+    <edge source="IRELAND" target="DJIBOUTI" />
+    <edge source="IRELAND" target="DOMINICA" />
+    <edge source="IRELAND" target="DOMINICAN REPUBLIC" />
+    <edge source="IRELAND" target="DENMARK" />
+    <edge source="BAHRAIN" target="NICARAGUA" />
+    <edge source="BAHRAIN" target="NIUE" />
+    <edge source="BAHRAIN" target="NEW ZEALAND" />
+    <edge source="BAHRAIN" target="NEW CALEDONIA" />
+    <edge source="BAHRAIN" target="NAMIBIA" />
+    <edge source="BAHRAIN" target="NIGER" />
+    <edge source="BAHRAIN" target="NETHERLANDS" />
+    <edge source="BAHRAIN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="BAHRAIN" target="NAURU" />
+    <edge source="BAHRAIN" target="NIGERIA" />
+    <edge source="BAHRAIN" target="NEPAL" />
+    <edge source="BAHRAIN" target="NORFOLK ISLAND" />
+    <edge source="BAHRAIN" target="NORWAY" />
+    <edge source="ALBANIA" target="ARGENTINA" />
+    <edge source="ALBANIA" target="ANDORRA" />
+    <edge source="ALBANIA" target="ANGUILLA" />
+    <edge source="ALBANIA" target="AUSTRIA" />
+    <edge source="ALBANIA" target="ALGERIA" />
+    <edge source="ALBANIA" target="AMERICAN SAMOA" />
+    <edge source="ALBANIA" target="ARMENIA" />
+    <edge source="ALBANIA" target="AUSTRALIA" />
+    <edge source="ALBANIA" target="AZERBAIJAN" />
+    <edge source="ALBANIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ALBANIA" target="AFGHANISTAN" />
+    <edge source="ALBANIA" target="ANTARCTICA" />
+    <edge source="ALBANIA" target="ANGOLA" />
+    <edge source="ALBANIA" target="ARUBA" />
+    <edge source="YEMEN" target="NICARAGUA" />
+    <edge source="YEMEN" target="NIUE" />
+    <edge source="YEMEN" target="NEW ZEALAND" />
+    <edge source="YEMEN" target="NEW CALEDONIA" />
+    <edge source="YEMEN" target="NAMIBIA" />
+    <edge source="YEMEN" target="NIGER" />
+    <edge source="YEMEN" target="NETHERLANDS" />
+    <edge source="YEMEN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="YEMEN" target="NAURU" />
+    <edge source="YEMEN" target="NIGERIA" />
+    <edge source="YEMEN" target="NEPAL" />
+    <edge source="YEMEN" target="NORFOLK ISLAND" />
+    <edge source="YEMEN" target="NORWAY" />
+    <edge source="MALTA" target="ARGENTINA" />
+    <edge source="MALTA" target="ANDORRA" />
+    <edge source="MALTA" target="ANGUILLA" />
+    <edge source="MALTA" target="AUSTRIA" />
+    <edge source="MALTA" target="ALGERIA" />
+    <edge source="MALTA" target="AMERICAN SAMOA" />
+    <edge source="MALTA" target="ARMENIA" />
+    <edge source="MALTA" target="AUSTRALIA" />
+    <edge source="MALTA" target="AZERBAIJAN" />
+    <edge source="MALTA" target="ANTIGUA AND BARBUDA" />
+    <edge source="MALTA" target="AFGHANISTAN" />
+    <edge source="MALTA" target="ALBANIA" />
+    <edge source="MALTA" target="ANTARCTICA" />
+    <edge source="MALTA" target="ANGOLA" />
+    <edge source="MALTA" target="ARUBA" />
+    <edge source="FRENCH GUIANA" target="ARGENTINA" />
+    <edge source="FRENCH GUIANA" target="ANDORRA" />
+    <edge source="FRENCH GUIANA" target="ANGUILLA" />
+    <edge source="FRENCH GUIANA" target="AUSTRIA" />
+    <edge source="FRENCH GUIANA" target="ALGERIA" />
+    <edge source="FRENCH GUIANA" target="AMERICAN SAMOA" />
+    <edge source="FRENCH GUIANA" target="ARMENIA" />
+    <edge source="FRENCH GUIANA" target="AUSTRALIA" />
+    <edge source="FRENCH GUIANA" target="AZERBAIJAN" />
+    <edge source="FRENCH GUIANA" target="ANTIGUA AND BARBUDA" />
+    <edge source="FRENCH GUIANA" target="AFGHANISTAN" />
+    <edge source="FRENCH GUIANA" target="ALBANIA" />
+    <edge source="FRENCH GUIANA" target="ANTARCTICA" />
+    <edge source="FRENCH GUIANA" target="ANGOLA" />
+    <edge source="FRENCH GUIANA" target="ARUBA" />
+    <edge source="GRENADA" target="ARGENTINA" />
+    <edge source="GRENADA" target="ANDORRA" />
+    <edge source="GRENADA" target="ANGUILLA" />
+    <edge source="GRENADA" target="AUSTRIA" />
+    <edge source="GRENADA" target="ALGERIA" />
+    <edge source="GRENADA" target="AMERICAN SAMOA" />
+    <edge source="GRENADA" target="ARMENIA" />
+    <edge source="GRENADA" target="AUSTRALIA" />
+    <edge source="GRENADA" target="AZERBAIJAN" />
+    <edge source="GRENADA" target="ANTIGUA AND BARBUDA" />
+    <edge source="GRENADA" target="AFGHANISTAN" />
+    <edge source="GRENADA" target="ALBANIA" />
+    <edge source="GRENADA" target="ANTARCTICA" />
+    <edge source="GRENADA" target="ANGOLA" />
+    <edge source="GRENADA" target="ARUBA" />
+    <edge source="PAKISTAN" target="NICARAGUA" />
+    <edge source="PAKISTAN" target="NIUE" />
+    <edge source="PAKISTAN" target="NEW ZEALAND" />
+    <edge source="PAKISTAN" target="NEW CALEDONIA" />
+    <edge source="PAKISTAN" target="NAMIBIA" />
+    <edge source="PAKISTAN" target="NIGER" />
+    <edge source="PAKISTAN" target="NETHERLANDS" />
+    <edge source="PAKISTAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="PAKISTAN" target="NAURU" />
+    <edge source="PAKISTAN" target="NIGERIA" />
+    <edge source="PAKISTAN" target="NEPAL" />
+    <edge source="PAKISTAN" target="NORFOLK ISLAND" />
+    <edge source="PAKISTAN" target="NORWAY" />
+    <edge source="SAUDI ARABIA" target="ARGENTINA" />
+    <edge source="SAUDI ARABIA" target="ANDORRA" />
+    <edge source="SAUDI ARABIA" target="ANGUILLA" />
+    <edge source="SAUDI ARABIA" target="AUSTRIA" />
+    <edge source="SAUDI ARABIA" target="ALGERIA" />
+    <edge source="SAUDI ARABIA" target="AMERICAN SAMOA" />
+    <edge source="SAUDI ARABIA" target="ARMENIA" />
+    <edge source="SAUDI ARABIA" target="AUSTRALIA" />
+    <edge source="SAUDI ARABIA" target="AZERBAIJAN" />
+    <edge source="SAUDI ARABIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SAUDI ARABIA" target="AFGHANISTAN" />
+    <edge source="SAUDI ARABIA" target="ALBANIA" />
+    <edge source="SAUDI ARABIA" target="ANTARCTICA" />
+    <edge source="SAUDI ARABIA" target="ANGOLA" />
+    <edge source="SAUDI ARABIA" target="ARUBA" />
+    <edge source="SEYCHELLES" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="SEYCHELLES" target="SWEDEN" />
+    <edge source="SEYCHELLES" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="SEYCHELLES" target="SAINT KITTS AND NEVIS" />
+    <edge source="SEYCHELLES" target="SOUTH SUDAN" />
+    <edge source="SEYCHELLES" target="SERBIA" />
+    <edge source="SEYCHELLES" target="SLOVAKIA" />
+    <edge source="SEYCHELLES" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="SEYCHELLES" target="SVALBARD AND JAN MAYEN" />
+    <edge source="SEYCHELLES" target="SLOVENIA" />
+    <edge source="SEYCHELLES" target="SINGAPORE" />
+    <edge source="SEYCHELLES" target="SAUDI ARABIA" />
+    <edge source="SEYCHELLES" target="SURINAME" />
+    <edge source="SEYCHELLES" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="SEYCHELLES" target="SOLOMON ISLANDS" />
+    <edge source="SEYCHELLES" target="SIERRA LEONE" />
+    <edge source="SEYCHELLES" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="SEYCHELLES" target="SPAIN" />
+    <edge source="SEYCHELLES" target="SOUTH AFRICA" />
+    <edge source="SEYCHELLES" target="SENEGAL" />
+    <edge source="SEYCHELLES" target="SAMOA" />
+    <edge source="SEYCHELLES" target="SAINT BARTHÉLEMY" />
+    <edge source="SEYCHELLES" target="SRI LANKA" />
+    <edge source="SEYCHELLES" target="SAO TOME AND PRINCIPE" />
+    <edge source="SEYCHELLES" target="SOMALIA" />
+    <edge source="SEYCHELLES" target="SAN MARINO" />
+    <edge source="SEYCHELLES" target="SWITZERLAND" />
+    <edge source="SEYCHELLES" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="SEYCHELLES" target="SAINT LUCIA" />
+    <edge source="SEYCHELLES" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="SEYCHELLES" target="SUDAN" />
+    <edge source="SURINAME" target="ESTONIA" />
+    <edge source="SURINAME" target="EL SALVADOR" />
+    <edge source="SURINAME" target="ECUADOR" />
+    <edge source="SURINAME" target="ETHIOPIA" />
+    <edge source="SURINAME" target="ERITREA" />
+    <edge source="SURINAME" target="EGYPT" />
+    <edge source="SURINAME" target="ESWATINI" />
+    <edge source="SURINAME" target="EQUATORIAL GUINEA" />
+    <edge source="DOMINICAN REPUBLIC" target="CZECH REPUBLIC" />
+    <edge source="DOMINICAN REPUBLIC" target="CURAÇAO" />
+    <edge source="DOMINICAN REPUBLIC" target="CONGO, THE DEMOCRATIC REPUBLIC OF THE" />
+    <edge source="DOMINICAN REPUBLIC" target="CROATIA" />
+    <edge source="DOMINICAN REPUBLIC" target="CHINA" />
+    <edge source="DOMINICAN REPUBLIC" target="CUBA" />
+    <edge source="DOMINICAN REPUBLIC" target="COMOROS" />
+    <edge source="DOMINICAN REPUBLIC" target="CÔTE D'IVOIRE" />
+    <edge source="DOMINICAN REPUBLIC" target="CAPE VERDE" />
+    <edge source="DOMINICAN REPUBLIC" target="CONGO" />
+    <edge source="DOMINICAN REPUBLIC" target="COOK ISLANDS" />
+    <edge source="DOMINICAN REPUBLIC" target="CHILE" />
+    <edge source="DOMINICAN REPUBLIC" target="CANADA" />
+    <edge source="DOMINICAN REPUBLIC" target="CHRISTMAS ISLAND" />
+    <edge source="DOMINICAN REPUBLIC" target="COLOMBIA" />
+    <edge source="DOMINICAN REPUBLIC" target="COSTA RICA" />
+    <edge source="DOMINICAN REPUBLIC" target="CAMEROON" />
+    <edge source="DOMINICAN REPUBLIC" target="CHAD" />
+    <edge source="DOMINICAN REPUBLIC" target="CENTRAL AFRICAN REPUBLIC" />
+    <edge source="DOMINICAN REPUBLIC" target="CAYMAN ISLANDS" />
+    <edge source="DOMINICAN REPUBLIC" target="CYPRUS" />
+    <edge source="DOMINICAN REPUBLIC" target="CAMBODIA" />
+    <edge source="DOMINICAN REPUBLIC" target="COCOS (KEELING) ISLANDS" />
+    <edge source="KAZAKHSTAN" target="NICARAGUA" />
+    <edge source="KAZAKHSTAN" target="NIUE" />
+    <edge source="KAZAKHSTAN" target="NEW ZEALAND" />
+    <edge source="KAZAKHSTAN" target="NEW CALEDONIA" />
+    <edge source="KAZAKHSTAN" target="NAMIBIA" />
+    <edge source="KAZAKHSTAN" target="NIGER" />
+    <edge source="KAZAKHSTAN" target="NETHERLANDS" />
+    <edge source="KAZAKHSTAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="KAZAKHSTAN" target="NAURU" />
+    <edge source="KAZAKHSTAN" target="NIGERIA" />
+    <edge source="KAZAKHSTAN" target="NEPAL" />
+    <edge source="KAZAKHSTAN" target="NORFOLK ISLAND" />
+    <edge source="KAZAKHSTAN" target="NORWAY" />
+    <edge source="MONACO" target="OMAN" />
+    <edge source="OMAN" target="NICARAGUA" />
+    <edge source="OMAN" target="NIUE" />
+    <edge source="OMAN" target="NEW ZEALAND" />
+    <edge source="OMAN" target="NEW CALEDONIA" />
+    <edge source="OMAN" target="NAMIBIA" />
+    <edge source="OMAN" target="NIGER" />
+    <edge source="OMAN" target="NETHERLANDS" />
+    <edge source="OMAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="OMAN" target="NAURU" />
+    <edge source="OMAN" target="NIGERIA" />
+    <edge source="OMAN" target="NEPAL" />
+    <edge source="OMAN" target="NORFOLK ISLAND" />
+    <edge source="OMAN" target="NORWAY" />
+    <edge source="UNITED STATES" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="UNITED STATES" target="SWEDEN" />
+    <edge source="UNITED STATES" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="UNITED STATES" target="SAINT KITTS AND NEVIS" />
+    <edge source="UNITED STATES" target="SOUTH SUDAN" />
+    <edge source="UNITED STATES" target="SERBIA" />
+    <edge source="UNITED STATES" target="SLOVAKIA" />
+    <edge source="UNITED STATES" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="UNITED STATES" target="SVALBARD AND JAN MAYEN" />
+    <edge source="UNITED STATES" target="SLOVENIA" />
+    <edge source="UNITED STATES" target="SINGAPORE" />
+    <edge source="UNITED STATES" target="SAUDI ARABIA" />
+    <edge source="UNITED STATES" target="SEYCHELLES" />
+    <edge source="UNITED STATES" target="SURINAME" />
+    <edge source="UNITED STATES" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="UNITED STATES" target="SOLOMON ISLANDS" />
+    <edge source="UNITED STATES" target="SIERRA LEONE" />
+    <edge source="UNITED STATES" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="UNITED STATES" target="SPAIN" />
+    <edge source="UNITED STATES" target="SOUTH AFRICA" />
+    <edge source="UNITED STATES" target="SENEGAL" />
+    <edge source="UNITED STATES" target="SAMOA" />
+    <edge source="UNITED STATES" target="SAINT BARTHÉLEMY" />
+    <edge source="UNITED STATES" target="SRI LANKA" />
+    <edge source="UNITED STATES" target="SAO TOME AND PRINCIPE" />
+    <edge source="UNITED STATES" target="SOMALIA" />
+    <edge source="UNITED STATES" target="SAN MARINO" />
+    <edge source="UNITED STATES" target="SWITZERLAND" />
+    <edge source="UNITED STATES" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="UNITED STATES" target="SAINT LUCIA" />
+    <edge source="UNITED STATES" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="UNITED STATES" target="SUDAN" />
+    <edge source="MAYOTTE" target="ESTONIA" />
+    <edge source="MAYOTTE" target="EL SALVADOR" />
+    <edge source="MAYOTTE" target="ECUADOR" />
+    <edge source="MAYOTTE" target="ETHIOPIA" />
+    <edge source="MAYOTTE" target="ERITREA" />
+    <edge source="MAYOTTE" target="EGYPT" />
+    <edge source="MAYOTTE" target="ESWATINI" />
+    <edge source="MAYOTTE" target="EQUATORIAL GUINEA" />
+    <edge source="ITALY" target="YEMEN" />
+    <edge source="GERMANY" target="YEMEN" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ARGENTINA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ANDORRA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ANGUILLA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="AUSTRIA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ALGERIA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="AMERICAN SAMOA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ARMENIA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="AUSTRALIA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="AZERBAIJAN" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="AFGHANISTAN" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ALBANIA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ANTARCTICA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ANGOLA" />
+    <edge source="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" target="ARUBA" />
+    <edge source="GUINEA-BISSAU" target="UKRAINE" />
+    <edge source="GUINEA-BISSAU" target="UNITED KINGDOM" />
+    <edge source="GUINEA-BISSAU" target="UGANDA" />
+    <edge source="GUINEA-BISSAU" target="URUGUAY" />
+    <edge source="GUINEA-BISSAU" target="UNITED ARAB EMIRATES" />
+    <edge source="GUINEA-BISSAU" target="UNITED STATES" />
+    <edge source="GUINEA-BISSAU" target="UNITED STATES MINOR OUTLYING ISLANDS" />
+    <edge source="GUINEA-BISSAU" target="UZBEKISTAN" />
+    <edge source="BELGIUM" target="MALDIVES" />
+    <edge source="BELGIUM" target="MONTENEGRO" />
+    <edge source="BELGIUM" target="MAURITIUS" />
+    <edge source="BELGIUM" target="MICRONESIA, FEDERATED STATES OF" />
+    <edge source="BELGIUM" target="MARSHALL ISLANDS" />
+    <edge source="BELGIUM" target="MALAYSIA" />
+    <edge source="BELGIUM" target="MAURITANIA" />
+    <edge source="BELGIUM" target="MARTINIQUE" />
+    <edge source="BELGIUM" target="MALAWI" />
+    <edge source="BELGIUM" target="MYANMAR" />
+    <edge source="BELGIUM" target="MADAGASCAR" />
+    <edge source="BELGIUM" target="MALTA" />
+    <edge source="BELGIUM" target="MONACO" />
+    <edge source="BELGIUM" target="MAYOTTE" />
+    <edge source="BELGIUM" target="MONGOLIA" />
+    <edge source="BELGIUM" target="MONTSERRAT" />
+    <edge source="BELGIUM" target="MEXICO" />
+    <edge source="BELGIUM" target="MACAO" />
+    <edge source="BELGIUM" target="MOZAMBIQUE" />
+    <edge source="BELGIUM" target="MOROCCO" />
+    <edge source="BELGIUM" target="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" />
+    <edge source="BELGIUM" target="MALI" />
+    <edge source="BELGIUM" target="MOLDOVA, REPUBLIC OF" />
+    <edge source="CHRISTMAS ISLAND" target="DJIBOUTI" />
+    <edge source="CHRISTMAS ISLAND" target="DOMINICA" />
+    <edge source="CHRISTMAS ISLAND" target="DOMINICAN REPUBLIC" />
+    <edge source="CHRISTMAS ISLAND" target="DENMARK" />
+    <edge source="HONG KONG" target="GUERNSEY" />
+    <edge source="HONG KONG" target="GEORGIA" />
+    <edge source="HONG KONG" target="GUADELOUPE" />
+    <edge source="HONG KONG" target="GUATEMALA" />
+    <edge source="HONG KONG" target="GUINEA" />
+    <edge source="HONG KONG" target="GHANA" />
+    <edge source="HONG KONG" target="GRENADA" />
+    <edge source="HONG KONG" target="GERMANY" />
+    <edge source="HONG KONG" target="GUINEA-BISSAU" />
+    <edge source="HONG KONG" target="GIBRALTAR" />
+    <edge source="HONG KONG" target="GAMBIA" />
+    <edge source="HONG KONG" target="GREENLAND" />
+    <edge source="HONG KONG" target="GUAM" />
+    <edge source="HONG KONG" target="GUYANA" />
+    <edge source="HONG KONG" target="GABON" />
+    <edge source="HONG KONG" target="GREECE" />
+    <edge source="BOTSWANA" target="ARGENTINA" />
+    <edge source="BOTSWANA" target="ANDORRA" />
+    <edge source="BOTSWANA" target="ANGUILLA" />
+    <edge source="BOTSWANA" target="AUSTRIA" />
+    <edge source="BOTSWANA" target="ALGERIA" />
+    <edge source="BOTSWANA" target="AMERICAN SAMOA" />
+    <edge source="BOTSWANA" target="ARMENIA" />
+    <edge source="BOTSWANA" target="AUSTRALIA" />
+    <edge source="BOTSWANA" target="AZERBAIJAN" />
+    <edge source="BOTSWANA" target="ANTIGUA AND BARBUDA" />
+    <edge source="BOTSWANA" target="AFGHANISTAN" />
+    <edge source="BOTSWANA" target="ALBANIA" />
+    <edge source="BOTSWANA" target="ANTARCTICA" />
+    <edge source="BOTSWANA" target="ANGOLA" />
+    <edge source="BOTSWANA" target="ARUBA" />
+    <edge source="VENEZUELA, BOLIVARIAN REPUBLIC OF" target="FRANCE" />
+    <edge source="VENEZUELA, BOLIVARIAN REPUBLIC OF" target="FIJI" />
+    <edge source="VENEZUELA, BOLIVARIAN REPUBLIC OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="VENEZUELA, BOLIVARIAN REPUBLIC OF" target="FRENCH POLYNESIA" />
+    <edge source="VENEZUELA, BOLIVARIAN REPUBLIC OF" target="FRENCH GUIANA" />
+    <edge source="VENEZUELA, BOLIVARIAN REPUBLIC OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="VENEZUELA, BOLIVARIAN REPUBLIC OF" target="FINLAND" />
+    <edge source="VENEZUELA, BOLIVARIAN REPUBLIC OF" target="FAROE ISLANDS" />
+    <edge source="NAURU" target="UKRAINE" />
+    <edge source="NAURU" target="UNITED KINGDOM" />
+    <edge source="NAURU" target="UGANDA" />
+    <edge source="NAURU" target="URUGUAY" />
+    <edge source="NAURU" target="UNITED ARAB EMIRATES" />
+    <edge source="NAURU" target="UNITED STATES" />
+    <edge source="NAURU" target="UNITED STATES MINOR OUTLYING ISLANDS" />
+    <edge source="NAURU" target="UZBEKISTAN" />
+    <edge source="SOLOMON ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="SOLOMON ISLANDS" target="SWEDEN" />
+    <edge source="SOLOMON ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="SOLOMON ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="SOLOMON ISLANDS" target="SOUTH SUDAN" />
+    <edge source="SOLOMON ISLANDS" target="SERBIA" />
+    <edge source="SOLOMON ISLANDS" target="SLOVAKIA" />
+    <edge source="SOLOMON ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="SOLOMON ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="SOLOMON ISLANDS" target="SLOVENIA" />
+    <edge source="SOLOMON ISLANDS" target="SINGAPORE" />
+    <edge source="SOLOMON ISLANDS" target="SAUDI ARABIA" />
+    <edge source="SOLOMON ISLANDS" target="SEYCHELLES" />
+    <edge source="SOLOMON ISLANDS" target="SURINAME" />
+    <edge source="SOLOMON ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="SOLOMON ISLANDS" target="SIERRA LEONE" />
+    <edge source="SOLOMON ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="SOLOMON ISLANDS" target="SPAIN" />
+    <edge source="SOLOMON ISLANDS" target="SOUTH AFRICA" />
+    <edge source="SOLOMON ISLANDS" target="SENEGAL" />
+    <edge source="SOLOMON ISLANDS" target="SAMOA" />
+    <edge source="SOLOMON ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="SOLOMON ISLANDS" target="SRI LANKA" />
+    <edge source="SOLOMON ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="SOLOMON ISLANDS" target="SOMALIA" />
+    <edge source="SOLOMON ISLANDS" target="SAN MARINO" />
+    <edge source="SOLOMON ISLANDS" target="SWITZERLAND" />
+    <edge source="SOLOMON ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="SOLOMON ISLANDS" target="SAINT LUCIA" />
+    <edge source="SOLOMON ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="SOLOMON ISLANDS" target="SUDAN" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ARGENTINA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ANDORRA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ANGUILLA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="AUSTRIA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ALGERIA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="AMERICAN SAMOA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ARMENIA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="AUSTRALIA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="AZERBAIJAN" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ANTIGUA AND BARBUDA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="AFGHANISTAN" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ALBANIA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ANTARCTICA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ANGOLA" />
+    <edge source="TAIWAN, PROVINCE OF CHINA" target="ARUBA" />
+    <edge source="KIRIBATI" target="IRAQ" />
+    <edge source="KIRIBATI" target="ISLE OF MAN" />
+    <edge source="KIRIBATI" target="IRAN, ISLAMIC REPUBLIC OF" />
+    <edge source="KIRIBATI" target="ISRAEL" />
+    <edge source="KIRIBATI" target="INDIA" />
+    <edge source="KIRIBATI" target="IRELAND" />
+    <edge source="KIRIBATI" target="ITALY" />
+    <edge source="KIRIBATI" target="INDONESIA" />
+    <edge source="KIRIBATI" target="ICELAND" />
+    <edge source="INDONESIA" target="ARGENTINA" />
+    <edge source="INDONESIA" target="ANDORRA" />
+    <edge source="INDONESIA" target="ANGUILLA" />
+    <edge source="INDONESIA" target="AUSTRIA" />
+    <edge source="INDONESIA" target="ALGERIA" />
+    <edge source="INDONESIA" target="AMERICAN SAMOA" />
+    <edge source="INDONESIA" target="ARMENIA" />
+    <edge source="INDONESIA" target="AUSTRALIA" />
+    <edge source="INDONESIA" target="AZERBAIJAN" />
+    <edge source="INDONESIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="INDONESIA" target="AFGHANISTAN" />
+    <edge source="INDONESIA" target="ALBANIA" />
+    <edge source="INDONESIA" target="ANTARCTICA" />
+    <edge source="INDONESIA" target="ANGOLA" />
+    <edge source="INDONESIA" target="ARUBA" />
+    <edge source="MONGOLIA" target="ARGENTINA" />
+    <edge source="MONGOLIA" target="ANDORRA" />
+    <edge source="MONGOLIA" target="ANGUILLA" />
+    <edge source="MONGOLIA" target="AUSTRIA" />
+    <edge source="MONGOLIA" target="ALGERIA" />
+    <edge source="MONGOLIA" target="AMERICAN SAMOA" />
+    <edge source="MONGOLIA" target="ARMENIA" />
+    <edge source="MONGOLIA" target="AUSTRALIA" />
+    <edge source="MONGOLIA" target="AZERBAIJAN" />
+    <edge source="MONGOLIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="MONGOLIA" target="AFGHANISTAN" />
+    <edge source="MONGOLIA" target="ALBANIA" />
+    <edge source="MONGOLIA" target="ANTARCTICA" />
+    <edge source="MONGOLIA" target="ANGOLA" />
+    <edge source="MONGOLIA" target="ARUBA" />
+    <edge source="LIECHTENSTEIN" target="NICARAGUA" />
+    <edge source="LIECHTENSTEIN" target="NIUE" />
+    <edge source="LIECHTENSTEIN" target="NEW ZEALAND" />
+    <edge source="LIECHTENSTEIN" target="NEW CALEDONIA" />
+    <edge source="LIECHTENSTEIN" target="NAMIBIA" />
+    <edge source="LIECHTENSTEIN" target="NIGER" />
+    <edge source="LIECHTENSTEIN" target="NETHERLANDS" />
+    <edge source="LIECHTENSTEIN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="LIECHTENSTEIN" target="NAURU" />
+    <edge source="LIECHTENSTEIN" target="NIGERIA" />
+    <edge source="LIECHTENSTEIN" target="NEPAL" />
+    <edge source="LIECHTENSTEIN" target="NORFOLK ISLAND" />
+    <edge source="LIECHTENSTEIN" target="NORWAY" />
+    <edge source="COLOMBIA" target="ARGENTINA" />
+    <edge source="COLOMBIA" target="ANDORRA" />
+    <edge source="COLOMBIA" target="ANGUILLA" />
+    <edge source="COLOMBIA" target="AUSTRIA" />
+    <edge source="COLOMBIA" target="ALGERIA" />
+    <edge source="COLOMBIA" target="AMERICAN SAMOA" />
+    <edge source="COLOMBIA" target="ARMENIA" />
+    <edge source="COLOMBIA" target="AUSTRALIA" />
+    <edge source="COLOMBIA" target="AZERBAIJAN" />
+    <edge source="COLOMBIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="COLOMBIA" target="AFGHANISTAN" />
+    <edge source="COLOMBIA" target="ALBANIA" />
+    <edge source="COLOMBIA" target="ANTARCTICA" />
+    <edge source="COLOMBIA" target="ANGOLA" />
+    <edge source="COLOMBIA" target="ARUBA" />
+    <edge source="ANTARCTICA" target="ARGENTINA" />
+    <edge source="ANTARCTICA" target="ANDORRA" />
+    <edge source="ANTARCTICA" target="ANGUILLA" />
+    <edge source="ANTARCTICA" target="AUSTRIA" />
+    <edge source="ANTARCTICA" target="ALGERIA" />
+    <edge source="ANTARCTICA" target="AMERICAN SAMOA" />
+    <edge source="ANTARCTICA" target="ARMENIA" />
+    <edge source="ANTARCTICA" target="AUSTRALIA" />
+    <edge source="ANTARCTICA" target="AZERBAIJAN" />
+    <edge source="ANTARCTICA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ANTARCTICA" target="AFGHANISTAN" />
+    <edge source="ANTARCTICA" target="ALBANIA" />
+    <edge source="ANTARCTICA" target="ANGOLA" />
+    <edge source="ANTARCTICA" target="ARUBA" />
+    <edge source="BANGLADESH" target="HAITI" />
+    <edge source="BANGLADESH" target="HONDURAS" />
+    <edge source="BANGLADESH" target="HUNGARY" />
+    <edge source="BANGLADESH" target="HOLY SEE (VATICAN CITY STATE)" />
+    <edge source="BANGLADESH" target="HONG KONG" />
+    <edge source="BANGLADESH" target="HEARD ISLAND AND MCDONALD ISLANDS" />
+    <edge source="MONTSERRAT" target="TUNISIA" />
+    <edge source="MONTSERRAT" target="TURKMENISTAN" />
+    <edge source="MONTSERRAT" target="TUVALU" />
+    <edge source="MONTSERRAT" target="TONGA" />
+    <edge source="MONTSERRAT" target="THAILAND" />
+    <edge source="MONTSERRAT" target="TAJIKISTAN" />
+    <edge source="MONTSERRAT" target="TRINIDAD AND TOBAGO" />
+    <edge source="MONTSERRAT" target="TURKS AND CAICOS ISLANDS" />
+    <edge source="MONTSERRAT" target="TAIWAN, PROVINCE OF CHINA" />
+    <edge source="MONTSERRAT" target="TOKELAU" />
+    <edge source="MONTSERRAT" target="TOGO" />
+    <edge source="MONTSERRAT" target="TANZANIA, UNITED REPUBLIC OF" />
+    <edge source="MONTSERRAT" target="TURKEY" />
+    <edge source="MONTSERRAT" target="TIMOR-LESTE" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CZECH REPUBLIC" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CURAÇAO" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CONGO, THE DEMOCRATIC REPUBLIC OF THE" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CROATIA" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CHINA" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CUBA" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="COMOROS" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CÔTE D'IVOIRE" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CAPE VERDE" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CONGO" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="COOK ISLANDS" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CHILE" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CANADA" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CHRISTMAS ISLAND" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="COLOMBIA" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="COSTA RICA" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CAMEROON" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CHAD" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CENTRAL AFRICAN REPUBLIC" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CAYMAN ISLANDS" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CYPRUS" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="CAMBODIA" />
+    <edge source="LAO PEOPLE'S DEMOCRATIC REPUBLIC" target="COCOS (KEELING) ISLANDS" />
+    <edge source="NIGERIA" target="ARGENTINA" />
+    <edge source="NIGERIA" target="ANDORRA" />
+    <edge source="NIGERIA" target="ANGUILLA" />
+    <edge source="NIGERIA" target="AUSTRIA" />
+    <edge source="NIGERIA" target="ALGERIA" />
+    <edge source="NIGERIA" target="AMERICAN SAMOA" />
+    <edge source="NIGERIA" target="ARMENIA" />
+    <edge source="NIGERIA" target="AUSTRALIA" />
+    <edge source="NIGERIA" target="AZERBAIJAN" />
+    <edge source="NIGERIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="NIGERIA" target="AFGHANISTAN" />
+    <edge source="NIGERIA" target="ALBANIA" />
+    <edge source="NIGERIA" target="ANTARCTICA" />
+    <edge source="NIGERIA" target="ANGOLA" />
+    <edge source="NIGERIA" target="ARUBA" />
+    <edge source="ESWATINI" target="IRAQ" />
+    <edge source="ESWATINI" target="ISLE OF MAN" />
+    <edge source="ESWATINI" target="IRAN, ISLAMIC REPUBLIC OF" />
+    <edge source="ESWATINI" target="ISRAEL" />
+    <edge source="ESWATINI" target="INDIA" />
+    <edge source="ESWATINI" target="IRELAND" />
+    <edge source="ESWATINI" target="ITALY" />
+    <edge source="ESWATINI" target="INDONESIA" />
+    <edge source="ESWATINI" target="ICELAND" />
+    <edge source="MEXICO" target="OMAN" />
+    <edge source="SIERRA LEONE" target="ESTONIA" />
+    <edge source="SIERRA LEONE" target="EL SALVADOR" />
+    <edge source="SIERRA LEONE" target="ECUADOR" />
+    <edge source="SIERRA LEONE" target="ETHIOPIA" />
+    <edge source="SIERRA LEONE" target="ERITREA" />
+    <edge source="SIERRA LEONE" target="EGYPT" />
+    <edge source="SIERRA LEONE" target="ESWATINI" />
+    <edge source="SIERRA LEONE" target="EQUATORIAL GUINEA" />
+    <edge source="SPAIN" target="NICARAGUA" />
+    <edge source="SPAIN" target="NIUE" />
+    <edge source="SPAIN" target="NEW ZEALAND" />
+    <edge source="SPAIN" target="NEW CALEDONIA" />
+    <edge source="SPAIN" target="NAMIBIA" />
+    <edge source="SPAIN" target="NIGER" />
+    <edge source="SPAIN" target="NETHERLANDS" />
+    <edge source="SPAIN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="SPAIN" target="NAURU" />
+    <edge source="SPAIN" target="NIGERIA" />
+    <edge source="SPAIN" target="NEPAL" />
+    <edge source="SPAIN" target="NORFOLK ISLAND" />
+    <edge source="SPAIN" target="NORWAY" />
+    <edge source="TOKELAU" target="UKRAINE" />
+    <edge source="TOKELAU" target="UNITED KINGDOM" />
+    <edge source="TOKELAU" target="UGANDA" />
+    <edge source="TOKELAU" target="URUGUAY" />
+    <edge source="TOKELAU" target="UNITED ARAB EMIRATES" />
+    <edge source="TOKELAU" target="UNITED STATES" />
+    <edge source="TOKELAU" target="UNITED STATES MINOR OUTLYING ISLANDS" />
+    <edge source="TOKELAU" target="UZBEKISTAN" />
+    <edge source="GIBRALTAR" target="RÉUNION" />
+    <edge source="GIBRALTAR" target="ROMANIA" />
+    <edge source="GIBRALTAR" target="RUSSIAN FEDERATION" />
+    <edge source="GIBRALTAR" target="RWANDA" />
+    <edge source="PALAU" target="UKRAINE" />
+    <edge source="PALAU" target="UNITED KINGDOM" />
+    <edge source="PALAU" target="UGANDA" />
+    <edge source="PALAU" target="URUGUAY" />
+    <edge source="PALAU" target="UNITED ARAB EMIRATES" />
+    <edge source="PALAU" target="UNITED STATES" />
+    <edge source="PALAU" target="UNITED STATES MINOR OUTLYING ISLANDS" />
+    <edge source="PALAU" target="UZBEKISTAN" />
+    <edge source="GAMBIA" target="ARGENTINA" />
+    <edge source="GAMBIA" target="ANDORRA" />
+    <edge source="GAMBIA" target="ANGUILLA" />
+    <edge source="GAMBIA" target="AUSTRIA" />
+    <edge source="GAMBIA" target="ALGERIA" />
+    <edge source="GAMBIA" target="AMERICAN SAMOA" />
+    <edge source="GAMBIA" target="ARMENIA" />
+    <edge source="GAMBIA" target="AUSTRALIA" />
+    <edge source="GAMBIA" target="AZERBAIJAN" />
+    <edge source="GAMBIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="GAMBIA" target="AFGHANISTAN" />
+    <edge source="GAMBIA" target="ALBANIA" />
+    <edge source="GAMBIA" target="ANTARCTICA" />
+    <edge source="GAMBIA" target="ANGOLA" />
+    <edge source="GAMBIA" target="ARUBA" />
+    <edge source="EQUATORIAL GUINEA" target="ARGENTINA" />
+    <edge source="EQUATORIAL GUINEA" target="ANDORRA" />
+    <edge source="EQUATORIAL GUINEA" target="ANGUILLA" />
+    <edge source="EQUATORIAL GUINEA" target="AUSTRIA" />
+    <edge source="EQUATORIAL GUINEA" target="ALGERIA" />
+    <edge source="EQUATORIAL GUINEA" target="AMERICAN SAMOA" />
+    <edge source="EQUATORIAL GUINEA" target="ARMENIA" />
+    <edge source="EQUATORIAL GUINEA" target="AUSTRALIA" />
+    <edge source="EQUATORIAL GUINEA" target="AZERBAIJAN" />
+    <edge source="EQUATORIAL GUINEA" target="ANTIGUA AND BARBUDA" />
+    <edge source="EQUATORIAL GUINEA" target="AFGHANISTAN" />
+    <edge source="EQUATORIAL GUINEA" target="ALBANIA" />
+    <edge source="EQUATORIAL GUINEA" target="ANTARCTICA" />
+    <edge source="EQUATORIAL GUINEA" target="ANGOLA" />
+    <edge source="EQUATORIAL GUINEA" target="ARUBA" />
+    <edge source="GREENLAND" target="DJIBOUTI" />
+    <edge source="GREENLAND" target="DOMINICA" />
+    <edge source="GREENLAND" target="DOMINICAN REPUBLIC" />
+    <edge source="GREENLAND" target="DENMARK" />
+    <edge source="BURUNDI" target="IRAQ" />
+    <edge source="BURUNDI" target="ISLE OF MAN" />
+    <edge source="BURUNDI" target="IRAN, ISLAMIC REPUBLIC OF" />
+    <edge source="BURUNDI" target="ISRAEL" />
+    <edge source="BURUNDI" target="INDIA" />
+    <edge source="BURUNDI" target="IRELAND" />
+    <edge source="BURUNDI" target="ITALY" />
+    <edge source="BURUNDI" target="INDONESIA" />
+    <edge source="BURUNDI" target="ICELAND" />
+    <edge source="ICELAND" target="DJIBOUTI" />
+    <edge source="ICELAND" target="DOMINICA" />
+    <edge source="ICELAND" target="DOMINICAN REPUBLIC" />
+    <edge source="ICELAND" target="DENMARK" />
+    <edge source="COSTA RICA" target="ARGENTINA" />
+    <edge source="COSTA RICA" target="ANDORRA" />
+    <edge source="COSTA RICA" target="ANGUILLA" />
+    <edge source="COSTA RICA" target="AUSTRIA" />
+    <edge source="COSTA RICA" target="ALGERIA" />
+    <edge source="COSTA RICA" target="AMERICAN SAMOA" />
+    <edge source="COSTA RICA" target="ARMENIA" />
+    <edge source="COSTA RICA" target="AUSTRALIA" />
+    <edge source="COSTA RICA" target="AZERBAIJAN" />
+    <edge source="COSTA RICA" target="ANTIGUA AND BARBUDA" />
+    <edge source="COSTA RICA" target="AFGHANISTAN" />
+    <edge source="COSTA RICA" target="ALBANIA" />
+    <edge source="COSTA RICA" target="ANTARCTICA" />
+    <edge source="COSTA RICA" target="ANGOLA" />
+    <edge source="COSTA RICA" target="ARUBA" />
+    <edge source="JORDAN" target="NICARAGUA" />
+    <edge source="JORDAN" target="NIUE" />
+    <edge source="JORDAN" target="NEW ZEALAND" />
+    <edge source="JORDAN" target="NEW CALEDONIA" />
+    <edge source="JORDAN" target="NAMIBIA" />
+    <edge source="JORDAN" target="NIGER" />
+    <edge source="JORDAN" target="NETHERLANDS" />
+    <edge source="JORDAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="JORDAN" target="NAURU" />
+    <edge source="JORDAN" target="NIGERIA" />
+    <edge source="JORDAN" target="NEPAL" />
+    <edge source="JORDAN" target="NORFOLK ISLAND" />
+    <edge source="JORDAN" target="NORWAY" />
+    <edge source="MACAO" target="OMAN" />
+    <edge source="SOUTH AFRICA" target="ARGENTINA" />
+    <edge source="SOUTH AFRICA" target="ANDORRA" />
+    <edge source="SOUTH AFRICA" target="ANGUILLA" />
+    <edge source="SOUTH AFRICA" target="AUSTRIA" />
+    <edge source="SOUTH AFRICA" target="ALGERIA" />
+    <edge source="SOUTH AFRICA" target="AMERICAN SAMOA" />
+    <edge source="SOUTH AFRICA" target="ARMENIA" />
+    <edge source="SOUTH AFRICA" target="AUSTRALIA" />
+    <edge source="SOUTH AFRICA" target="AZERBAIJAN" />
+    <edge source="SOUTH AFRICA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SOUTH AFRICA" target="AFGHANISTAN" />
+    <edge source="SOUTH AFRICA" target="ALBANIA" />
+    <edge source="SOUTH AFRICA" target="ANTARCTICA" />
+    <edge source="SOUTH AFRICA" target="ANGOLA" />
+    <edge source="SOUTH AFRICA" target="ARUBA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SWEDEN" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SOUTH SUDAN" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SERBIA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SLOVAKIA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SLOVENIA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SINGAPORE" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAUDI ARABIA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SEYCHELLES" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SURINAME" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SIERRA LEONE" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SPAIN" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SOUTH AFRICA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SENEGAL" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAMOA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SRI LANKA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SOMALIA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAN MARINO" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SWITZERLAND" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAINT LUCIA" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="UNITED STATES MINOR OUTLYING ISLANDS" target="SUDAN" />
+    <edge source="FINLAND" target="DJIBOUTI" />
+    <edge source="FINLAND" target="DOMINICA" />
+    <edge source="FINLAND" target="DOMINICAN REPUBLIC" />
+    <edge source="FINLAND" target="DENMARK" />
+    <edge source="KUWAIT" target="TUNISIA" />
+    <edge source="KUWAIT" target="TURKMENISTAN" />
+    <edge source="KUWAIT" target="TUVALU" />
+    <edge source="KUWAIT" target="TONGA" />
+    <edge source="KUWAIT" target="THAILAND" />
+    <edge source="KUWAIT" target="TAJIKISTAN" />
+    <edge source="KUWAIT" target="TRINIDAD AND TOBAGO" />
+    <edge source="KUWAIT" target="TURKS AND CAICOS ISLANDS" />
+    <edge source="KUWAIT" target="TAIWAN, PROVINCE OF CHINA" />
+    <edge source="KUWAIT" target="TOKELAU" />
+    <edge source="KUWAIT" target="TOGO" />
+    <edge source="KUWAIT" target="TANZANIA, UNITED REPUBLIC OF" />
+    <edge source="KUWAIT" target="TURKEY" />
+    <edge source="KUWAIT" target="TIMOR-LESTE" />
+    <edge source="CAMEROON" target="NICARAGUA" />
+    <edge source="CAMEROON" target="NIUE" />
+    <edge source="CAMEROON" target="NEW ZEALAND" />
+    <edge source="CAMEROON" target="NEW CALEDONIA" />
+    <edge source="CAMEROON" target="NAMIBIA" />
+    <edge source="CAMEROON" target="NIGER" />
+    <edge source="CAMEROON" target="NETHERLANDS" />
+    <edge source="CAMEROON" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="CAMEROON" target="NAURU" />
+    <edge source="CAMEROON" target="NIGERIA" />
+    <edge source="CAMEROON" target="NEPAL" />
+    <edge source="CAMEROON" target="NORFOLK ISLAND" />
+    <edge source="CAMEROON" target="NORWAY" />
+    <edge source="NEPAL" target="LEBANON" />
+    <edge source="NEPAL" target="LESOTHO" />
+    <edge source="NEPAL" target="LITHUANIA" />
+    <edge source="NEPAL" target="LIECHTENSTEIN" />
+    <edge source="NEPAL" target="LAO PEOPLE'S DEMOCRATIC REPUBLIC" />
+    <edge source="NEPAL" target="LIBERIA" />
+    <edge source="NEPAL" target="LATVIA" />
+    <edge source="NEPAL" target="LIBYA" />
+    <edge source="NEPAL" target="LUXEMBOURG" />
+    <edge source="SENEGAL" target="LEBANON" />
+    <edge source="SENEGAL" target="LESOTHO" />
+    <edge source="SENEGAL" target="LITHUANIA" />
+    <edge source="SENEGAL" target="LIECHTENSTEIN" />
+    <edge source="SENEGAL" target="LAO PEOPLE'S DEMOCRATIC REPUBLIC" />
+    <edge source="SENEGAL" target="LIBERIA" />
+    <edge source="SENEGAL" target="LATVIA" />
+    <edge source="SENEGAL" target="LIBYA" />
+    <edge source="SENEGAL" target="LUXEMBOURG" />
+    <edge source="BURKINA FASO" target="OMAN" />
+    <edge source="CHAD" target="DJIBOUTI" />
+    <edge source="CHAD" target="DOMINICA" />
+    <edge source="CHAD" target="DOMINICAN REPUBLIC" />
+    <edge source="CHAD" target="DENMARK" />
+    <edge source="JAPAN" target="NICARAGUA" />
+    <edge source="JAPAN" target="NIUE" />
+    <edge source="JAPAN" target="NEW ZEALAND" />
+    <edge source="JAPAN" target="NEW CALEDONIA" />
+    <edge source="JAPAN" target="NAMIBIA" />
+    <edge source="JAPAN" target="NIGER" />
+    <edge source="JAPAN" target="NETHERLANDS" />
+    <edge source="JAPAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="JAPAN" target="NAURU" />
+    <edge source="JAPAN" target="NIGERIA" />
+    <edge source="JAPAN" target="NEPAL" />
+    <edge source="JAPAN" target="NORFOLK ISLAND" />
+    <edge source="JAPAN" target="NORWAY" />
+    <edge source="SAMOA" target="ARGENTINA" />
+    <edge source="SAMOA" target="ANDORRA" />
+    <edge source="SAMOA" target="ANGUILLA" />
+    <edge source="SAMOA" target="AUSTRIA" />
+    <edge source="SAMOA" target="ALGERIA" />
+    <edge source="SAMOA" target="AMERICAN SAMOA" />
+    <edge source="SAMOA" target="ARMENIA" />
+    <edge source="SAMOA" target="AUSTRALIA" />
+    <edge source="SAMOA" target="AZERBAIJAN" />
+    <edge source="SAMOA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SAMOA" target="AFGHANISTAN" />
+    <edge source="SAMOA" target="ALBANIA" />
+    <edge source="SAMOA" target="ANTARCTICA" />
+    <edge source="SAMOA" target="ANGOLA" />
+    <edge source="SAMOA" target="ARUBA" />
+    <edge source="ANGOLA" target="ARGENTINA" />
+    <edge source="ANGOLA" target="ANDORRA" />
+    <edge source="ANGOLA" target="ANGUILLA" />
+    <edge source="ANGOLA" target="AUSTRIA" />
+    <edge source="ANGOLA" target="ALGERIA" />
+    <edge source="ANGOLA" target="AMERICAN SAMOA" />
+    <edge source="ANGOLA" target="ARMENIA" />
+    <edge source="ANGOLA" target="AUSTRALIA" />
+    <edge source="ANGOLA" target="AZERBAIJAN" />
+    <edge source="ANGOLA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ANGOLA" target="AFGHANISTAN" />
+    <edge source="ANGOLA" target="ALBANIA" />
+    <edge source="ANGOLA" target="ANTARCTICA" />
+    <edge source="ANGOLA" target="ARUBA" />
+    <edge source="SAINT BARTHÉLEMY" target="YEMEN" />
+    <edge source="MOZAMBIQUE" target="ESTONIA" />
+    <edge source="MOZAMBIQUE" target="EL SALVADOR" />
+    <edge source="MOZAMBIQUE" target="ECUADOR" />
+    <edge source="MOZAMBIQUE" target="ETHIOPIA" />
+    <edge source="MOZAMBIQUE" target="ERITREA" />
+    <edge source="MOZAMBIQUE" target="EGYPT" />
+    <edge source="MOZAMBIQUE" target="ESWATINI" />
+    <edge source="MOZAMBIQUE" target="EQUATORIAL GUINEA" />
+    <edge source="TOGO" target="OMAN" />
+    <edge source="RWANDA" target="ARGENTINA" />
+    <edge source="RWANDA" target="ANDORRA" />
+    <edge source="RWANDA" target="ANGUILLA" />
+    <edge source="RWANDA" target="AUSTRIA" />
+    <edge source="RWANDA" target="ALGERIA" />
+    <edge source="RWANDA" target="AMERICAN SAMOA" />
+    <edge source="RWANDA" target="ARMENIA" />
+    <edge source="RWANDA" target="AUSTRALIA" />
+    <edge source="RWANDA" target="AZERBAIJAN" />
+    <edge source="RWANDA" target="ANTIGUA AND BARBUDA" />
+    <edge source="RWANDA" target="AFGHANISTAN" />
+    <edge source="RWANDA" target="ALBANIA" />
+    <edge source="RWANDA" target="ANTARCTICA" />
+    <edge source="RWANDA" target="ANGOLA" />
+    <edge source="RWANDA" target="ARUBA" />
+    <edge source="KYRGYZSTAN" target="NICARAGUA" />
+    <edge source="KYRGYZSTAN" target="NIUE" />
+    <edge source="KYRGYZSTAN" target="NEW ZEALAND" />
+    <edge source="KYRGYZSTAN" target="NEW CALEDONIA" />
+    <edge source="KYRGYZSTAN" target="NAMIBIA" />
+    <edge source="KYRGYZSTAN" target="NIGER" />
+    <edge source="KYRGYZSTAN" target="NETHERLANDS" />
+    <edge source="KYRGYZSTAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="KYRGYZSTAN" target="NAURU" />
+    <edge source="KYRGYZSTAN" target="NIGERIA" />
+    <edge source="KYRGYZSTAN" target="NEPAL" />
+    <edge source="KYRGYZSTAN" target="NORFOLK ISLAND" />
+    <edge source="KYRGYZSTAN" target="NORWAY" />
+    <edge source="LIBERIA" target="ARGENTINA" />
+    <edge source="LIBERIA" target="ANDORRA" />
+    <edge source="LIBERIA" target="ANGUILLA" />
+    <edge source="LIBERIA" target="AUSTRIA" />
+    <edge source="LIBERIA" target="ALGERIA" />
+    <edge source="LIBERIA" target="AMERICAN SAMOA" />
+    <edge source="LIBERIA" target="ARMENIA" />
+    <edge source="LIBERIA" target="AUSTRALIA" />
+    <edge source="LIBERIA" target="AZERBAIJAN" />
+    <edge source="LIBERIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="LIBERIA" target="AFGHANISTAN" />
+    <edge source="LIBERIA" target="ALBANIA" />
+    <edge source="LIBERIA" target="ANTARCTICA" />
+    <edge source="LIBERIA" target="ANGOLA" />
+    <edge source="LIBERIA" target="ARUBA" />
+    <edge source="SRI LANKA" target="ARGENTINA" />
+    <edge source="SRI LANKA" target="ANDORRA" />
+    <edge source="SRI LANKA" target="ANGUILLA" />
+    <edge source="SRI LANKA" target="AUSTRIA" />
+    <edge source="SRI LANKA" target="ALGERIA" />
+    <edge source="SRI LANKA" target="AMERICAN SAMOA" />
+    <edge source="SRI LANKA" target="ARMENIA" />
+    <edge source="SRI LANKA" target="AUSTRALIA" />
+    <edge source="SRI LANKA" target="AZERBAIJAN" />
+    <edge source="SRI LANKA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SRI LANKA" target="AFGHANISTAN" />
+    <edge source="SRI LANKA" target="ALBANIA" />
+    <edge source="SRI LANKA" target="ANTARCTICA" />
+    <edge source="SRI LANKA" target="ANGOLA" />
+    <edge source="SRI LANKA" target="ARUBA" />
+    <edge source="LATVIA" target="ARGENTINA" />
+    <edge source="LATVIA" target="ANDORRA" />
+    <edge source="LATVIA" target="ANGUILLA" />
+    <edge source="LATVIA" target="AUSTRIA" />
+    <edge source="LATVIA" target="ALGERIA" />
+    <edge source="LATVIA" target="AMERICAN SAMOA" />
+    <edge source="LATVIA" target="ARMENIA" />
+    <edge source="LATVIA" target="AUSTRALIA" />
+    <edge source="LATVIA" target="AZERBAIJAN" />
+    <edge source="LATVIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="LATVIA" target="AFGHANISTAN" />
+    <edge source="LATVIA" target="ALBANIA" />
+    <edge source="LATVIA" target="ANTARCTICA" />
+    <edge source="LATVIA" target="ANGOLA" />
+    <edge source="LATVIA" target="ARUBA" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CZECH REPUBLIC" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CURAÇAO" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CONGO, THE DEMOCRATIC REPUBLIC OF THE" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CROATIA" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CHINA" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CUBA" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="COMOROS" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CÔTE D'IVOIRE" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CAPE VERDE" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CONGO" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="COOK ISLANDS" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CHILE" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CANADA" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CHRISTMAS ISLAND" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="COLOMBIA" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="COSTA RICA" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CAMEROON" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CHAD" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CAYMAN ISLANDS" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CYPRUS" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="CAMBODIA" />
+    <edge source="CENTRAL AFRICAN REPUBLIC" target="COCOS (KEELING) ISLANDS" />
+    <edge source="SAO TOME AND PRINCIPE" target="ESTONIA" />
+    <edge source="SAO TOME AND PRINCIPE" target="EL SALVADOR" />
+    <edge source="SAO TOME AND PRINCIPE" target="ECUADOR" />
+    <edge source="SAO TOME AND PRINCIPE" target="ETHIOPIA" />
+    <edge source="SAO TOME AND PRINCIPE" target="ERITREA" />
+    <edge source="SAO TOME AND PRINCIPE" target="EGYPT" />
+    <edge source="SAO TOME AND PRINCIPE" target="ESWATINI" />
+    <edge source="SAO TOME AND PRINCIPE" target="EQUATORIAL GUINEA" />
+    <edge source="CAYMAN ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="CAYMAN ISLANDS" target="SWEDEN" />
+    <edge source="CAYMAN ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="CAYMAN ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="CAYMAN ISLANDS" target="SOUTH SUDAN" />
+    <edge source="CAYMAN ISLANDS" target="SERBIA" />
+    <edge source="CAYMAN ISLANDS" target="SLOVAKIA" />
+    <edge source="CAYMAN ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="CAYMAN ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="CAYMAN ISLANDS" target="SLOVENIA" />
+    <edge source="CAYMAN ISLANDS" target="SINGAPORE" />
+    <edge source="CAYMAN ISLANDS" target="SAUDI ARABIA" />
+    <edge source="CAYMAN ISLANDS" target="SEYCHELLES" />
+    <edge source="CAYMAN ISLANDS" target="SURINAME" />
+    <edge source="CAYMAN ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="CAYMAN ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="CAYMAN ISLANDS" target="SIERRA LEONE" />
+    <edge source="CAYMAN ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="CAYMAN ISLANDS" target="SPAIN" />
+    <edge source="CAYMAN ISLANDS" target="SOUTH AFRICA" />
+    <edge source="CAYMAN ISLANDS" target="SENEGAL" />
+    <edge source="CAYMAN ISLANDS" target="SAMOA" />
+    <edge source="CAYMAN ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="CAYMAN ISLANDS" target="SRI LANKA" />
+    <edge source="CAYMAN ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="CAYMAN ISLANDS" target="SOMALIA" />
+    <edge source="CAYMAN ISLANDS" target="SAN MARINO" />
+    <edge source="CAYMAN ISLANDS" target="SWITZERLAND" />
+    <edge source="CAYMAN ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="CAYMAN ISLANDS" target="SAINT LUCIA" />
+    <edge source="CAYMAN ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="CAYMAN ISLANDS" target="SUDAN" />
+    <edge source="GUAM" target="MALDIVES" />
+    <edge source="GUAM" target="MONTENEGRO" />
+    <edge source="GUAM" target="MAURITIUS" />
+    <edge source="GUAM" target="MICRONESIA, FEDERATED STATES OF" />
+    <edge source="GUAM" target="MARSHALL ISLANDS" />
+    <edge source="GUAM" target="MALAYSIA" />
+    <edge source="GUAM" target="MAURITANIA" />
+    <edge source="GUAM" target="MARTINIQUE" />
+    <edge source="GUAM" target="MALAWI" />
+    <edge source="GUAM" target="MYANMAR" />
+    <edge source="GUAM" target="MADAGASCAR" />
+    <edge source="GUAM" target="MALTA" />
+    <edge source="GUAM" target="MONACO" />
+    <edge source="GUAM" target="MAYOTTE" />
+    <edge source="GUAM" target="MONGOLIA" />
+    <edge source="GUAM" target="MONTSERRAT" />
+    <edge source="GUAM" target="MEXICO" />
+    <edge source="GUAM" target="MACAO" />
+    <edge source="GUAM" target="MOZAMBIQUE" />
+    <edge source="GUAM" target="MOROCCO" />
+    <edge source="GUAM" target="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" />
+    <edge source="GUAM" target="MALI" />
+    <edge source="GUAM" target="MOLDOVA, REPUBLIC OF" />
+    <edge source="JAMAICA" target="ARGENTINA" />
+    <edge source="JAMAICA" target="ANDORRA" />
+    <edge source="JAMAICA" target="ANGUILLA" />
+    <edge source="JAMAICA" target="AUSTRIA" />
+    <edge source="JAMAICA" target="ALGERIA" />
+    <edge source="JAMAICA" target="AMERICAN SAMOA" />
+    <edge source="JAMAICA" target="ARMENIA" />
+    <edge source="JAMAICA" target="AUSTRALIA" />
+    <edge source="JAMAICA" target="AZERBAIJAN" />
+    <edge source="JAMAICA" target="ANTIGUA AND BARBUDA" />
+    <edge source="JAMAICA" target="AFGHANISTAN" />
+    <edge source="JAMAICA" target="ALBANIA" />
+    <edge source="JAMAICA" target="ANTARCTICA" />
+    <edge source="JAMAICA" target="ANGOLA" />
+    <edge source="JAMAICA" target="ARUBA" />
+    <edge source="MOROCCO" target="OMAN" />
+    <edge source="POLAND" target="DJIBOUTI" />
+    <edge source="POLAND" target="DOMINICA" />
+    <edge source="POLAND" target="DOMINICAN REPUBLIC" />
+    <edge source="POLAND" target="DENMARK" />
+    <edge source="SOMALIA" target="ARGENTINA" />
+    <edge source="SOMALIA" target="ANDORRA" />
+    <edge source="SOMALIA" target="ANGUILLA" />
+    <edge source="SOMALIA" target="AUSTRIA" />
+    <edge source="SOMALIA" target="ALGERIA" />
+    <edge source="SOMALIA" target="AMERICAN SAMOA" />
+    <edge source="SOMALIA" target="ARMENIA" />
+    <edge source="SOMALIA" target="AUSTRALIA" />
+    <edge source="SOMALIA" target="AZERBAIJAN" />
+    <edge source="SOMALIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SOMALIA" target="AFGHANISTAN" />
+    <edge source="SOMALIA" target="ALBANIA" />
+    <edge source="SOMALIA" target="ANTARCTICA" />
+    <edge source="SOMALIA" target="ANGOLA" />
+    <edge source="SOMALIA" target="ARUBA" />
+    <edge source="JERSEY" target="YEMEN" />
+    <edge source="SAN MARINO" target="OMAN" />
+    <edge source="CYPRUS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="CYPRUS" target="SWEDEN" />
+    <edge source="CYPRUS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="CYPRUS" target="SAINT KITTS AND NEVIS" />
+    <edge source="CYPRUS" target="SOUTH SUDAN" />
+    <edge source="CYPRUS" target="SERBIA" />
+    <edge source="CYPRUS" target="SLOVAKIA" />
+    <edge source="CYPRUS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="CYPRUS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="CYPRUS" target="SLOVENIA" />
+    <edge source="CYPRUS" target="SINGAPORE" />
+    <edge source="CYPRUS" target="SAUDI ARABIA" />
+    <edge source="CYPRUS" target="SEYCHELLES" />
+    <edge source="CYPRUS" target="SURINAME" />
+    <edge source="CYPRUS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="CYPRUS" target="SOLOMON ISLANDS" />
+    <edge source="CYPRUS" target="SIERRA LEONE" />
+    <edge source="CYPRUS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="CYPRUS" target="SPAIN" />
+    <edge source="CYPRUS" target="SOUTH AFRICA" />
+    <edge source="CYPRUS" target="SENEGAL" />
+    <edge source="CYPRUS" target="SAMOA" />
+    <edge source="CYPRUS" target="SAINT BARTHÉLEMY" />
+    <edge source="CYPRUS" target="SRI LANKA" />
+    <edge source="CYPRUS" target="SAO TOME AND PRINCIPE" />
+    <edge source="CYPRUS" target="SOMALIA" />
+    <edge source="CYPRUS" target="SAN MARINO" />
+    <edge source="CYPRUS" target="SWITZERLAND" />
+    <edge source="CYPRUS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="CYPRUS" target="SAINT LUCIA" />
+    <edge source="CYPRUS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="CYPRUS" target="SUDAN" />
+    <edge source="DENMARK" target="KOREA, REPUBLIC OF" />
+    <edge source="DENMARK" target="KENYA" />
+    <edge source="DENMARK" target="KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF" />
+    <edge source="DENMARK" target="KAZAKHSTAN" />
+    <edge source="DENMARK" target="KIRIBATI" />
+    <edge source="DENMARK" target="KUWAIT" />
+    <edge source="DENMARK" target="KYRGYZSTAN" />
+    <edge source="WESTERN SAHARA" target="ARGENTINA" />
+    <edge source="WESTERN SAHARA" target="ANDORRA" />
+    <edge source="WESTERN SAHARA" target="ANGUILLA" />
+    <edge source="WESTERN SAHARA" target="AUSTRIA" />
+    <edge source="WESTERN SAHARA" target="ALGERIA" />
+    <edge source="WESTERN SAHARA" target="AMERICAN SAMOA" />
+    <edge source="WESTERN SAHARA" target="ARMENIA" />
+    <edge source="WESTERN SAHARA" target="AUSTRALIA" />
+    <edge source="WESTERN SAHARA" target="AZERBAIJAN" />
+    <edge source="WESTERN SAHARA" target="ANTIGUA AND BARBUDA" />
+    <edge source="WESTERN SAHARA" target="AFGHANISTAN" />
+    <edge source="WESTERN SAHARA" target="ALBANIA" />
+    <edge source="WESTERN SAHARA" target="ANTARCTICA" />
+    <edge source="WESTERN SAHARA" target="ANGOLA" />
+    <edge source="WESTERN SAHARA" target="ARUBA" />
+    <edge source="GUYANA" target="ARGENTINA" />
+    <edge source="GUYANA" target="ANDORRA" />
+    <edge source="GUYANA" target="ANGUILLA" />
+    <edge source="GUYANA" target="AUSTRIA" />
+    <edge source="GUYANA" target="ALGERIA" />
+    <edge source="GUYANA" target="AMERICAN SAMOA" />
+    <edge source="GUYANA" target="ARMENIA" />
+    <edge source="GUYANA" target="AUSTRALIA" />
+    <edge source="GUYANA" target="AZERBAIJAN" />
+    <edge source="GUYANA" target="ANTIGUA AND BARBUDA" />
+    <edge source="GUYANA" target="AFGHANISTAN" />
+    <edge source="GUYANA" target="ALBANIA" />
+    <edge source="GUYANA" target="ANTARCTICA" />
+    <edge source="GUYANA" target="ANGOLA" />
+    <edge source="GUYANA" target="ARUBA" />
+    <edge source="GABON" target="NICARAGUA" />
+    <edge source="GABON" target="NIUE" />
+    <edge source="GABON" target="NEW ZEALAND" />
+    <edge source="GABON" target="NEW CALEDONIA" />
+    <edge source="GABON" target="NAMIBIA" />
+    <edge source="GABON" target="NIGER" />
+    <edge source="GABON" target="NETHERLANDS" />
+    <edge source="GABON" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="GABON" target="NAURU" />
+    <edge source="GABON" target="NIGERIA" />
+    <edge source="GABON" target="NEPAL" />
+    <edge source="GABON" target="NORFOLK ISLAND" />
+    <edge source="GABON" target="NORWAY" />
+    <edge source="FAROE ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="FAROE ISLANDS" target="SWEDEN" />
+    <edge source="FAROE ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="FAROE ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="FAROE ISLANDS" target="SOUTH SUDAN" />
+    <edge source="FAROE ISLANDS" target="SERBIA" />
+    <edge source="FAROE ISLANDS" target="SLOVAKIA" />
+    <edge source="FAROE ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="FAROE ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="FAROE ISLANDS" target="SLOVENIA" />
+    <edge source="FAROE ISLANDS" target="SINGAPORE" />
+    <edge source="FAROE ISLANDS" target="SAUDI ARABIA" />
+    <edge source="FAROE ISLANDS" target="SEYCHELLES" />
+    <edge source="FAROE ISLANDS" target="SURINAME" />
+    <edge source="FAROE ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="FAROE ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="FAROE ISLANDS" target="SIERRA LEONE" />
+    <edge source="FAROE ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="FAROE ISLANDS" target="SPAIN" />
+    <edge source="FAROE ISLANDS" target="SOUTH AFRICA" />
+    <edge source="FAROE ISLANDS" target="SENEGAL" />
+    <edge source="FAROE ISLANDS" target="SAMOA" />
+    <edge source="FAROE ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="FAROE ISLANDS" target="SRI LANKA" />
+    <edge source="FAROE ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="FAROE ISLANDS" target="SOMALIA" />
+    <edge source="FAROE ISLANDS" target="SAN MARINO" />
+    <edge source="FAROE ISLANDS" target="SWITZERLAND" />
+    <edge source="FAROE ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="FAROE ISLANDS" target="SAINT LUCIA" />
+    <edge source="FAROE ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="FAROE ISLANDS" target="SUDAN" />
+    <edge source="CAMBODIA" target="ARGENTINA" />
+    <edge source="CAMBODIA" target="ANDORRA" />
+    <edge source="CAMBODIA" target="ANGUILLA" />
+    <edge source="CAMBODIA" target="AUSTRIA" />
+    <edge source="CAMBODIA" target="ALGERIA" />
+    <edge source="CAMBODIA" target="AMERICAN SAMOA" />
+    <edge source="CAMBODIA" target="ARMENIA" />
+    <edge source="CAMBODIA" target="AUSTRALIA" />
+    <edge source="CAMBODIA" target="AZERBAIJAN" />
+    <edge source="CAMBODIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="CAMBODIA" target="AFGHANISTAN" />
+    <edge source="CAMBODIA" target="ALBANIA" />
+    <edge source="CAMBODIA" target="ANTARCTICA" />
+    <edge source="CAMBODIA" target="ANGOLA" />
+    <edge source="CAMBODIA" target="ARUBA" />
+    <edge source="SWITZERLAND" target="DJIBOUTI" />
+    <edge source="SWITZERLAND" target="DOMINICA" />
+    <edge source="SWITZERLAND" target="DOMINICAN REPUBLIC" />
+    <edge source="SWITZERLAND" target="DENMARK" />
+    <edge source="LIBYA" target="ARGENTINA" />
+    <edge source="LIBYA" target="ANDORRA" />
+    <edge source="LIBYA" target="ANGUILLA" />
+    <edge source="LIBYA" target="AUSTRIA" />
+    <edge source="LIBYA" target="ALGERIA" />
+    <edge source="LIBYA" target="AMERICAN SAMOA" />
+    <edge source="LIBYA" target="ARMENIA" />
+    <edge source="LIBYA" target="AUSTRALIA" />
+    <edge source="LIBYA" target="AZERBAIJAN" />
+    <edge source="LIBYA" target="ANTIGUA AND BARBUDA" />
+    <edge source="LIBYA" target="AFGHANISTAN" />
+    <edge source="LIBYA" target="ALBANIA" />
+    <edge source="LIBYA" target="ANTARCTICA" />
+    <edge source="LIBYA" target="ANGOLA" />
+    <edge source="LIBYA" target="ARUBA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SWEDEN" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAINT KITTS AND NEVIS" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SOUTH SUDAN" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SERBIA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SLOVAKIA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SVALBARD AND JAN MAYEN" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SLOVENIA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SINGAPORE" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAUDI ARABIA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SEYCHELLES" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SURINAME" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SOLOMON ISLANDS" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SIERRA LEONE" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SPAIN" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SOUTH AFRICA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SENEGAL" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAMOA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAINT BARTHÉLEMY" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SRI LANKA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAO TOME AND PRINCIPE" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SOMALIA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAN MARINO" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SWITZERLAND" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAINT LUCIA" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="SAINT VINCENT AND THE GRENADINES" target="SUDAN" />
+    <edge source="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" target="FRANCE" />
+    <edge source="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" target="FIJI" />
+    <edge source="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" target="FRENCH POLYNESIA" />
+    <edge source="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" target="FRENCH GUIANA" />
+    <edge source="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" target="FINLAND" />
+    <edge source="MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF" target="FAROE ISLANDS" />
+    <edge source="MALI" target="IRAQ" />
+    <edge source="MALI" target="ISLE OF MAN" />
+    <edge source="MALI" target="IRAN, ISLAMIC REPUBLIC OF" />
+    <edge source="MALI" target="ISRAEL" />
+    <edge source="MALI" target="INDIA" />
+    <edge source="MALI" target="IRELAND" />
+    <edge source="MALI" target="ITALY" />
+    <edge source="MALI" target="INDONESIA" />
+    <edge source="MALI" target="ICELAND" />
+    <edge source="PORTUGAL" target="LEBANON" />
+    <edge source="PORTUGAL" target="LESOTHO" />
+    <edge source="PORTUGAL" target="LITHUANIA" />
+    <edge source="PORTUGAL" target="LIECHTENSTEIN" />
+    <edge source="PORTUGAL" target="LAO PEOPLE'S DEMOCRATIC REPUBLIC" />
+    <edge source="PORTUGAL" target="LIBERIA" />
+    <edge source="PORTUGAL" target="LATVIA" />
+    <edge source="PORTUGAL" target="LIBYA" />
+    <edge source="PORTUGAL" target="LUXEMBOURG" />
+    <edge source="BOUVET ISLAND" target="DJIBOUTI" />
+    <edge source="BOUVET ISLAND" target="DOMINICA" />
+    <edge source="BOUVET ISLAND" target="DOMINICAN REPUBLIC" />
+    <edge source="BOUVET ISLAND" target="DENMARK" />
+    <edge source="WALLIS AND FUTUNA" target="ARGENTINA" />
+    <edge source="WALLIS AND FUTUNA" target="ANDORRA" />
+    <edge source="WALLIS AND FUTUNA" target="ANGUILLA" />
+    <edge source="WALLIS AND FUTUNA" target="AUSTRIA" />
+    <edge source="WALLIS AND FUTUNA" target="ALGERIA" />
+    <edge source="WALLIS AND FUTUNA" target="AMERICAN SAMOA" />
+    <edge source="WALLIS AND FUTUNA" target="ARMENIA" />
+    <edge source="WALLIS AND FUTUNA" target="AUSTRALIA" />
+    <edge source="WALLIS AND FUTUNA" target="AZERBAIJAN" />
+    <edge source="WALLIS AND FUTUNA" target="ANTIGUA AND BARBUDA" />
+    <edge source="WALLIS AND FUTUNA" target="AFGHANISTAN" />
+    <edge source="WALLIS AND FUTUNA" target="ALBANIA" />
+    <edge source="WALLIS AND FUTUNA" target="ANTARCTICA" />
+    <edge source="WALLIS AND FUTUNA" target="ANGOLA" />
+    <edge source="WALLIS AND FUTUNA" target="ARUBA" />
+    <edge source="SAINT LUCIA" target="ARGENTINA" />
+    <edge source="SAINT LUCIA" target="ANDORRA" />
+    <edge source="SAINT LUCIA" target="ANGUILLA" />
+    <edge source="SAINT LUCIA" target="AUSTRIA" />
+    <edge source="SAINT LUCIA" target="ALGERIA" />
+    <edge source="SAINT LUCIA" target="AMERICAN SAMOA" />
+    <edge source="SAINT LUCIA" target="ARMENIA" />
+    <edge source="SAINT LUCIA" target="AUSTRALIA" />
+    <edge source="SAINT LUCIA" target="AZERBAIJAN" />
+    <edge source="SAINT LUCIA" target="ANTIGUA AND BARBUDA" />
+    <edge source="SAINT LUCIA" target="AFGHANISTAN" />
+    <edge source="SAINT LUCIA" target="ALBANIA" />
+    <edge source="SAINT LUCIA" target="ANTARCTICA" />
+    <edge source="SAINT LUCIA" target="ANGOLA" />
+    <edge source="SAINT LUCIA" target="ARUBA" />
+    <edge source="NORFOLK ISLAND" target="DJIBOUTI" />
+    <edge source="NORFOLK ISLAND" target="DOMINICA" />
+    <edge source="NORFOLK ISLAND" target="DOMINICAN REPUBLIC" />
+    <edge source="NORFOLK ISLAND" target="DENMARK" />
+    <edge source="TANZANIA, UNITED REPUBLIC OF" target="FRANCE" />
+    <edge source="TANZANIA, UNITED REPUBLIC OF" target="FIJI" />
+    <edge source="TANZANIA, UNITED REPUBLIC OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="TANZANIA, UNITED REPUBLIC OF" target="FRENCH POLYNESIA" />
+    <edge source="TANZANIA, UNITED REPUBLIC OF" target="FRENCH GUIANA" />
+    <edge source="TANZANIA, UNITED REPUBLIC OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="TANZANIA, UNITED REPUBLIC OF" target="FINLAND" />
+    <edge source="TANZANIA, UNITED REPUBLIC OF" target="FAROE ISLANDS" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SWEDEN" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SOUTH SUDAN" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SERBIA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SLOVAKIA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SLOVENIA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SINGAPORE" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAUDI ARABIA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SEYCHELLES" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SURINAME" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SIERRA LEONE" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SPAIN" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SOUTH AFRICA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SENEGAL" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAMOA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SRI LANKA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SOMALIA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAN MARINO" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SWITZERLAND" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAINT LUCIA" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="COCOS (KEELING) ISLANDS" target="SUDAN" />
+    <edge source="MOLDOVA, REPUBLIC OF" target="FRANCE" />
+    <edge source="MOLDOVA, REPUBLIC OF" target="FIJI" />
+    <edge source="MOLDOVA, REPUBLIC OF" target="FRENCH SOUTHERN TERRITORIES" />
+    <edge source="MOLDOVA, REPUBLIC OF" target="FRENCH POLYNESIA" />
+    <edge source="MOLDOVA, REPUBLIC OF" target="FRENCH GUIANA" />
+    <edge source="MOLDOVA, REPUBLIC OF" target="FALKLAND ISLANDS (MALVINAS)" />
+    <edge source="MOLDOVA, REPUBLIC OF" target="FINLAND" />
+    <edge source="MOLDOVA, REPUBLIC OF" target="FAROE ISLANDS" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAINT PIERRE AND MIQUELON" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SWEDEN" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SYRIAN ARAB REPUBLIC" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAINT KITTS AND NEVIS" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SOUTH SUDAN" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SERBIA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SLOVAKIA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SVALBARD AND JAN MAYEN" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SLOVENIA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SINGAPORE" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAUDI ARABIA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SEYCHELLES" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SURINAME" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SOLOMON ISLANDS" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SIERRA LEONE" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SINT MAARTEN (DUTCH PART)" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SPAIN" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SOUTH AFRICA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SENEGAL" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAMOA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAINT BARTHÉLEMY" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SRI LANKA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAO TOME AND PRINCIPE" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SOMALIA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAN MARINO" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SWITZERLAND" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAINT VINCENT AND THE GRENADINES" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAINT LUCIA" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SAINT MARTIN (FRENCH PART)" />
+    <edge source="HEARD ISLAND AND MCDONALD ISLANDS" target="SUDAN" />
+    <edge source="LUXEMBOURG" target="GUERNSEY" />
+    <edge source="LUXEMBOURG" target="GEORGIA" />
+    <edge source="LUXEMBOURG" target="GUADELOUPE" />
+    <edge source="LUXEMBOURG" target="GUATEMALA" />
+    <edge source="LUXEMBOURG" target="GUINEA" />
+    <edge source="LUXEMBOURG" target="GHANA" />
+    <edge source="LUXEMBOURG" target="GRENADA" />
+    <edge source="LUXEMBOURG" target="GERMANY" />
+    <edge source="LUXEMBOURG" target="GUINEA-BISSAU" />
+    <edge source="LUXEMBOURG" target="GIBRALTAR" />
+    <edge source="LUXEMBOURG" target="GAMBIA" />
+    <edge source="LUXEMBOURG" target="GREENLAND" />
+    <edge source="LUXEMBOURG" target="GUAM" />
+    <edge source="LUXEMBOURG" target="GUYANA" />
+    <edge source="LUXEMBOURG" target="GABON" />
+    <edge source="LUXEMBOURG" target="GREECE" />
+    <edge source="GREECE" target="ESTONIA" />
+    <edge source="GREECE" target="EL SALVADOR" />
+    <edge source="GREECE" target="ECUADOR" />
+    <edge source="GREECE" target="ETHIOPIA" />
+    <edge source="GREECE" target="ERITREA" />
+    <edge source="GREECE" target="EGYPT" />
+    <edge source="GREECE" target="ESWATINI" />
+    <edge source="GREECE" target="EQUATORIAL GUINEA" />
+    <edge source="PERU" target="UKRAINE" />
+    <edge source="PERU" target="UNITED KINGDOM" />
+    <edge source="PERU" target="UGANDA" />
+    <edge source="PERU" target="URUGUAY" />
+    <edge source="PERU" target="UNITED ARAB EMIRATES" />
+    <edge source="PERU" target="UNITED STATES" />
+    <edge source="PERU" target="UNITED STATES MINOR OUTLYING ISLANDS" />
+    <edge source="PERU" target="UZBEKISTAN" />
+    <edge source="TURKEY" target="YEMEN" />
+    <edge source="QATAR" target="RÉUNION" />
+    <edge source="QATAR" target="ROMANIA" />
+    <edge source="QATAR" target="RUSSIAN FEDERATION" />
+    <edge source="QATAR" target="RWANDA" />
+    <edge source="TIMOR-LESTE" target="ESTONIA" />
+    <edge source="TIMOR-LESTE" target="EL SALVADOR" />
+    <edge source="TIMOR-LESTE" target="ECUADOR" />
+    <edge source="TIMOR-LESTE" target="ETHIOPIA" />
+    <edge source="TIMOR-LESTE" target="ERITREA" />
+    <edge source="TIMOR-LESTE" target="EGYPT" />
+    <edge source="TIMOR-LESTE" target="ESWATINI" />
+    <edge source="TIMOR-LESTE" target="EQUATORIAL GUINEA" />
+    <edge source="SUDAN" target="NICARAGUA" />
+    <edge source="SUDAN" target="NIUE" />
+    <edge source="SUDAN" target="NEW ZEALAND" />
+    <edge source="SUDAN" target="NEW CALEDONIA" />
+    <edge source="SUDAN" target="NAMIBIA" />
+    <edge source="SUDAN" target="NIGER" />
+    <edge source="SUDAN" target="NETHERLANDS" />
+    <edge source="SUDAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="SUDAN" target="NAURU" />
+    <edge source="SUDAN" target="NIGERIA" />
+    <edge source="SUDAN" target="NEPAL" />
+    <edge source="SUDAN" target="NORFOLK ISLAND" />
+    <edge source="SUDAN" target="NORWAY" />
+    <edge source="ARUBA" target="ARGENTINA" />
+    <edge source="ARUBA" target="ANDORRA" />
+    <edge source="ARUBA" target="ANGUILLA" />
+    <edge source="ARUBA" target="AUSTRIA" />
+    <edge source="ARUBA" target="ALGERIA" />
+    <edge source="ARUBA" target="AMERICAN SAMOA" />
+    <edge source="ARUBA" target="ARMENIA" />
+    <edge source="ARUBA" target="AUSTRALIA" />
+    <edge source="ARUBA" target="AZERBAIJAN" />
+    <edge source="ARUBA" target="ANTIGUA AND BARBUDA" />
+    <edge source="ARUBA" target="AFGHANISTAN" />
+    <edge source="ARUBA" target="ALBANIA" />
+    <edge source="ARUBA" target="ANTARCTICA" />
+    <edge source="ARUBA" target="ANGOLA" />
+    <edge source="NORWAY" target="YEMEN" />
+    <edge source="UZBEKISTAN" target="NICARAGUA" />
+    <edge source="UZBEKISTAN" target="NIUE" />
+    <edge source="UZBEKISTAN" target="NEW ZEALAND" />
+    <edge source="UZBEKISTAN" target="NEW CALEDONIA" />
+    <edge source="UZBEKISTAN" target="NAMIBIA" />
+    <edge source="UZBEKISTAN" target="NIGER" />
+    <edge source="UZBEKISTAN" target="NETHERLANDS" />
+    <edge source="UZBEKISTAN" target="NORTHERN MARIANA ISLANDS" />
+    <edge source="UZBEKISTAN" target="NAURU" />
+    <edge source="UZBEKISTAN" target="NIGERIA" />
+    <edge source="UZBEKISTAN" target="NEPAL" />
+    <edge source="UZBEKISTAN" target="NORFOLK ISLAND" />
+    <edge source="UZBEKISTAN" target="NORWAY" />
+  </graph>
+</graphml>
